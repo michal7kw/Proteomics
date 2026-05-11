@@ -1,0 +1,1028 @@
+#AS_250805_HEK293_MSresults, Samples Report created on 04/17/2026
+									Exclusive Unique Peptide Count	Exclusive Unique Peptide Count	Exclusive Unique Peptide Count	
+AS_250805_HEK293_MSresults									CTRL	Ex15 NEG	Ex15 POS
+#	Visible?	Starred?	Identified Proteins (1080/1096)	Accession Number	Alternate ID	Molecular Weight	Protein Grouping Ambiguity	Taxonomy	CTRL	Ex15 NEG	Ex15 POS
+1	true	Empty	Cluster of SRRM3 Ex15POS OS=Homo sapiens OX=9606 GN=SRRM3_POS PE=1 SV=1 (Q22222)	Q22222 [2]		74 kDa	true	unknown	7	52	38	
+1.1	true	Empty	    SRRM3 Ex15POS OS=Homo sapiens OX=9606 GN=SRRM3_POS PE=1 SV=1	Q22222		74 kDa	true	unknown	1	1	1	
+1.2	true	Empty	    Serine/arginine repetitive matrix protein 3 OS=Homo sapiens OX=9606 GN=SRRM3 PE=1 SV=1	A0A087WXA3		72 kDa	true	unknown	0	3	0	
+2	true	Empty	Kinesin-like protein KIF11 OS=Homo sapiens OX=9606 GN=KIF11 PE=1 SV=2	P52732		119 kDa		unknown	100	32	70	
+3	true	Empty	Cluster of Immunoglobulin kappa variable 2-30 OS=Homo sapiens OX=9606 GN=IGKV2-30 PE=3 SV=2 (P06310)	P06310 [5]		13 kDa	true	unknown	4	4	4	
+4	true	Empty	Cluster of Protein arginine N-methyltransferase 5 OS=Homo sapiens OX=9606 GN=PRMT5 PE=1 SV=4 (O14744)	O14744		73 kDa	true	unknown	38	11	35	
+5	true	Empty	Cluster of Casein kinase II subunit alpha OS=Homo sapiens OX=9606 GN=CSNK2A1 PE=1 SV=1 (P68400)	P68400 [3]		45 kDa	true	unknown	0	23	22	
+6	true	Empty	Cluster of Tubulin beta chain OS=Homo sapiens OX=9606 GN=TUBB PE=1 SV=2 (P07437)	P07437 [5]		50 kDa	true	unknown	25	19	37	
+7	true	Empty	Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens OX=9606 GN=PRPF8 PE=1 SV=2	Q6P2Q9		274 kDa		unknown	4	83	13	
+8	true	Empty	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens OX=9606 GN=SRRM2 PE=1 SV=2	Q9UQ35		300 kDa		unknown	0	31	34	
+9	true	Empty	Cluster of Heat shock cognate 71 kDa protein OS=Homo sapiens OX=9606 GN=HSPA8 PE=1 SV=1 (P11142)	P11142		71 kDa	true	unknown	15	19	39	
+10	true	Empty	Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens OX=9606 GN=HNRNPU PE=1 SV=6	Q00839		91 kDa		unknown	29	23	36	
+11	true	Empty	Cluster of Isoform 4 of Apoptotic chromatin condensation inducer in the nucleus OS=Homo sapiens OX=9606 GN=ACIN1 (Q9UKV3-5)	Q9UKV3-5 [2]		151 kDa	true	unknown	0	43	36	
+12	true	Empty	Cluster of 40S ribosomal protein S3a OS=Homo sapiens OX=9606 GN=RPS3A PE=1 SV=2 (P61247)	P61247 [2]		30 kDa	true	unknown	17	33	34	
+13	true	Empty	Cluster of Heat shock 70 kDa protein 1A OS=Homo sapiens OX=9606 GN=HSPA1A PE=1 SV=1 (P0DMV8)	P0DMV8 [2]		70 kDa	true	unknown	18	28	39	
+14	true	Empty	Pinin OS=Homo sapiens OX=9606 GN=PNN PE=1 SV=5	Q9H307		82 kDa		unknown	0	38	33	
+15	true	Empty	Cluster of 40S ribosomal protein S3 OS=Homo sapiens OX=9606 GN=RPS3 PE=1 SV=2 (P23396)	P23396 [4]		27 kDa	true	unknown	18	29	26	
+16	true	Empty	Ubiquitin carboxyl-terminal hydrolase 7 OS=Homo sapiens OX=9606 GN=USP7 PE=1 SV=2	Q93009 (+2)		128 kDa		unknown	0	50	29	
+17	true	Empty	Cluster of Tubulin alpha-1B chain OS=Homo sapiens OX=9606 GN=TUBA1B PE=1 SV=1 (P68363)	P68363 [8]		50 kDa	true	unknown	18	19	35	
+18	true	Empty	Cluster of Protein phosphatase 1B OS=Homo sapiens OX=9606 GN=PPM1B PE=1 SV=1 (O75688)	O75688 [2]		53 kDa	true	unknown	29	0	25	
+19	true	Empty	40S ribosomal protein S4, X isoform OS=Homo sapiens OX=9606 GN=RPS4X PE=1 SV=2	P62701		30 kDa		unknown	14	23	19	
+20	true	Empty	Cluster of 60S ribosomal protein L11 OS=Homo sapiens OX=9606 GN=RPL11 PE=1 SV=2 (P62913)	P62913 [2]		20 kDa	true	unknown	9	18	13	
+21	true	Empty	U5 small nuclear ribonucleoprotein 200 kDa helicase OS=Homo sapiens OX=9606 GN=SNRNP200 PE=1 SV=2	O75643		245 kDa		unknown	0	76	15	
+22	true	Empty	Thyroid hormone receptor-associated protein 3 OS=Homo sapiens OX=9606 GN=THRAP3 PE=1 SV=2	Q9Y2W1		109 kDa	true	unknown	36	2	15	
+23	true	Empty	Cluster of 60S ribosomal protein L10 OS=Homo sapiens OX=9606 GN=RPL10 PE=1 SV=4 (P27635)	P27635 [3]		25 kDa	true	unknown	14	18	17	
+24	true	Empty	Methylosome protein 50 OS=Homo sapiens OX=9606 GN=WDR77 PE=1 SV=1	Q9BQA1		37 kDa		unknown	14	2	13	
+25	true	Empty	Casein kinase II subunit alpha' OS=Homo sapiens OX=9606 GN=CSNK2A2 PE=1 SV=1	P19784		41 kDa	true	unknown	0	27	24	
+26	true	Empty	Nucleolin OS=Homo sapiens OX=9606 GN=NCL PE=1 SV=3	P19338		77 kDa		unknown	20	21	31	
+27	true	Empty	Cluster of Bcl-2-associated transcription factor 1 OS=Homo sapiens OX=9606 GN=BCLAF1 PE=1 SV=2 (Q9NYF8)	Q9NYF8 [4]		106 kDa	true	unknown	37	8	19	
+28	true	Empty	Plasminogen activator inhibitor 1 RNA-binding protein OS=Homo sapiens OX=9606 GN=SERBP1 PE=1 SV=2	Q8NC51		45 kDa		unknown	22	12	16	
+29	true	Empty	Putative RNA-binding protein Luc7-like 2 OS=Homo sapiens OX=9606 GN=LUC7L2 PE=1 SV=2	Q9Y383		47 kDa	true	unknown	4	23	21	
+30	true	Empty	Cluster of AP-2 complex subunit beta OS=Homo sapiens OX=9606 GN=AP2B1 PE=1 SV=1 (P63010)	P63010 [5]		105 kDa	true	unknown	0	47	19	
+31	true	Empty	40S ribosomal protein S9 OS=Homo sapiens OX=9606 GN=RPS9 PE=1 SV=3	P46781		23 kDa		unknown	13	17	20	
+32	true	Empty	Serine/threonine-protein kinase RIO1 OS=Homo sapiens OX=9606 GN=RIOK1 PE=1 SV=2	Q9BRS2		66 kDa		unknown	29	3	21	
+33	true	Empty	ATP-dependent RNA helicase DDX3X OS=Homo sapiens OX=9606 GN=DDX3X PE=1 SV=3	O00571 (+6)		73 kDa	true	unknown	19	21	23	
+34	true	Empty	Cluster of Pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15 OS=Homo sapiens OX=9606 GN=DHX15 PE=1 SV=2 (O43143)	O43143 [2]		91 kDa	true	unknown	11	24	19	
+35	true	Empty	40S ribosomal protein S2 OS=Homo sapiens OX=9606 GN=RPS2 PE=1 SV=2	P15880		31 kDa		unknown	10	19	19	
+36	true	Empty	Stress-70 protein, mitochondrial OS=Homo sapiens OX=9606 GN=HSPA9 PE=1 SV=2	P38646		74 kDa	true	unknown	10	26	34	
+37	true	Empty	ATP-dependent RNA helicase A OS=Homo sapiens OX=9606 GN=DHX9 PE=1 SV=4	Q08211		141 kDa		unknown	14	21	26	
+38	true	Empty	Nucleophosmin OS=Homo sapiens OX=9606 GN=NPM1 PE=1 SV=2	P06748		33 kDa		unknown	11	17	20	
+39	true	Empty	Cluster of Actin, cytoplasmic 2 OS=Homo sapiens OX=9606 GN=ACTG1 PE=1 SV=1 (P63261)	P63261 [3]		42 kDa	true	unknown	19	5	10	
+40	true	Empty	60S ribosomal protein L4 OS=Homo sapiens OX=9606 GN=RPL4 PE=1 SV=5	P36578		48 kDa		unknown	21	15	22	
+41	true	Empty	Pre-mRNA-splicing factor CWC22 homolog OS=Homo sapiens OX=9606 GN=CWC22 PE=1 SV=3	Q9HCG8		105 kDa		unknown	0	23	25	
+42	true	Empty	40S ribosomal protein S11 OS=Homo sapiens OX=9606 GN=RPS11 PE=1 SV=3	P62280		18 kDa		unknown	10	18	16	
+43	true	Empty	40S ribosomal protein S16 OS=Homo sapiens OX=9606 GN=RPS16 PE=1 SV=2	P62249		16 kDa		unknown	11	14	14	
+44	true	Empty	Cluster of Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1 (P68104)	P68104		50 kDa	true	unknown	9	14	18	
+45	true	Empty	RNA-binding protein FUS OS=Homo sapiens OX=9606 GN=FUS PE=1 SV=1	P35637 (+1)		53 kDa	true	unknown	14	10	13	
+46	true	Empty	Cluster of Protein LSM14 homolog A OS=Homo sapiens OX=9606 GN=LSM14A PE=1 SV=3 (Q8ND56)	Q8ND56 [2]		51 kDa	true	unknown	22	12	18	
+47	true	Empty	Cluster of 40S ribosomal protein S18 OS=Homo sapiens OX=9606 GN=RPS18 PE=1 SV=3 (P62269)	P62269		18 kDa	true	unknown	14	17	17	
+48	true	Empty	Cluster of Isoform 5 of RNA-binding protein 10 OS=Homo sapiens OX=9606 GN=RBM10 (P98175-5)	P98175-5		110 kDa	true	unknown	33	0	13	
+49	true	Empty	60S ribosomal protein L19 OS=Homo sapiens OX=9606 GN=RPL19 PE=1 SV=1	P84098 (+2)		23 kDa		unknown	5	13	16	
+50	true	Empty	Cluster of Isoform 3 of Casein kinase I isoform alpha OS=Homo sapiens OX=9606 GN=CSNK1A1 (P48729-3)	P48729-3 [4]		38 kDa	true	unknown	0	19	12	
+51	true	Empty	60S ribosomal protein L7 OS=Homo sapiens OX=9606 GN=RPL7 PE=1 SV=1	P18124		29 kDa		unknown	13	12	18	
+52	true	Empty	60S ribosomal protein L3 OS=Homo sapiens OX=9606 GN=RPL3 PE=1 SV=2	P39023		46 kDa		unknown	12	12	19	
+53	true	Empty	40S ribosomal protein S10 OS=Homo sapiens OX=9606 GN=RPS10 PE=1 SV=1	P46783		19 kDa		unknown	11	11	11	
+54	true	Empty	WD repeat-containing protein 48 OS=Homo sapiens OX=9606 GN=WDR48 PE=1 SV=1	Q8TAF3		76 kDa		unknown	0	30	23	
+55	true	Empty	40S ribosomal protein S7 OS=Homo sapiens OX=9606 GN=RPS7 PE=1 SV=1	P62081		22 kDa		unknown	8	17	15	
+56	true	Empty	Thioredoxin domain-containing protein 12 OS=Homo sapiens OX=9606 GN=TXNDC12 PE=1 SV=1	O95881		19 kDa		unknown	11	11	13	
+57	true	Empty	E3 ubiquitin-protein ligase TRIM21 OS=Homo sapiens OX=9606 GN=TRIM21 PE=1 SV=1	P19474		54 kDa		unknown	23	10	14	
+58	true	Empty	Serine/threonine-protein kinase 38 OS=Homo sapiens OX=9606 GN=STK38 PE=1 SV=1	Q15208		54 kDa	true	unknown	23	0	17	
+59	true	Empty	Complement component 1 Q subcomponent-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=C1QBP PE=1 SV=1	Q07021		31 kDa		unknown	3	11	11	
+60	true	Empty	Cluster of THO complex subunit 4 OS=Homo sapiens OX=9606 GN=ALYREF PE=1 SV=3 (Q86V81)	Q86V81 [2]		27 kDa	true	unknown	14	10	12	
+61	true	Empty	Luc7-like protein 3 OS=Homo sapiens OX=9606 GN=LUC7L3 PE=1 SV=2	O95232		51 kDa		unknown	3	26	17	
+62	true	Empty	Splicing factor U2AF 65 kDa subunit OS=Homo sapiens OX=9606 GN=U2AF2 PE=1 SV=4	P26368 (+1)		54 kDa		unknown	2	28	3	
+63	true	Empty	40S ribosomal protein S5 OS=Homo sapiens OX=9606 GN=RPS5 PE=1 SV=4	P46782 (+1)		23 kDa	true	unknown	8	15	14	
+64	true	Empty	Cluster of Ribose-phosphate pyrophosphokinase 1 OS=Homo sapiens OX=9606 GN=PRPS1 PE=1 SV=2 (P60891)	P60891 [4]		35 kDa	true	unknown	15	11	13	
+65	true	Empty	RNA-binding protein with serine-rich domain 1 OS=Homo sapiens OX=9606 GN=RNPS1 PE=1 SV=1	Q15287 (+2)		34 kDa		unknown	0	9	11	
+66	true	Empty	Splicing factor 3B subunit 1 OS=Homo sapiens OX=9606 GN=SF3B1 PE=1 SV=3	O75533		146 kDa		unknown	19	11	11	
+67	true	Empty	Endoplasmic reticulum chaperone BiP OS=Homo sapiens OX=9606 GN=HSPA5 PE=1 SV=2	P11021		72 kDa	true	unknown	10	18	20	
+68	true	Empty	Cluster of Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2 (O14646)	O14646 [4]		197 kDa	true	unknown	0	16	33	
+69	true	Empty	Cluster of PHD finger protein 6 OS=Homo sapiens OX=9606 GN=PHF6 PE=1 SV=1 (Q8IWS0)	Q8IWS0 [2]		41 kDa	true	unknown	3	20	11	
+70	true	Empty	Cluster of Filamin-A OS=Homo sapiens OX=9606 GN=FLNA PE=1 SV=4 (P21333)	P21333 [3]		281 kDa	true	unknown	39	0	8	
+71	true	Empty	Cluster of ADP/ATP translocase 2 OS=Homo sapiens OX=9606 GN=SLC25A5 PE=1 SV=7 (P05141)	P05141 [3]		33 kDa	true	unknown	10	11	25	
+72	true	Empty	60S ribosomal protein L23 OS=Homo sapiens OX=9606 GN=RPL23 PE=1 SV=1	P62829		15 kDa		unknown	12	11	14	
+73	true	Empty	SRSF protein kinase 1 OS=Homo sapiens OX=9606 GN=SRPK1 PE=1 SV=2	Q96SB4		74 kDa	true	unknown	1	21	16	
+74	true	Empty	Polymerase delta-interacting protein 3 OS=Homo sapiens OX=9606 GN=POLDIP3 PE=1 SV=2	Q9BY77		46 kDa		unknown	20	7	11	
+75	true	Empty	116 kDa U5 small nuclear ribonucleoprotein component OS=Homo sapiens OX=9606 GN=EFTUD2 PE=1 SV=1	Q15029		109 kDa		unknown	0	38	6	
+76	true	Empty	G patch domain-containing protein 8 OS=Homo sapiens OX=9606 GN=GPATCH8 PE=1 SV=2	Q9UKJ3		164 kDa		unknown	0	17	22	
+77	true	Empty	40S ribosomal protein S6 OS=Homo sapiens OX=9606 GN=RPS6 PE=1 SV=1	P62753		29 kDa		unknown	7	10	15	
+78	true	Empty	60S ribosomal protein L38 OS=Homo sapiens OX=9606 GN=RPL38 PE=1 SV=2	P63173		8 kDa		unknown	7	6	6	
+79	true	Empty	60S ribosomal protein L17 OS=Homo sapiens OX=9606 GN=RPL17 PE=1 SV=3	P18621 (+4)		21 kDa		unknown	7	12	17	
+80	true	Empty	Cluster of Nucleolar GTP-binding protein 1 OS=Homo sapiens OX=9606 GN=GTPBP4 PE=1 SV=3 (Q9BZE4)	Q9BZE4		74 kDa	true	unknown	2	20	16	
+81	true	Empty	Pre-mRNA-processing factor 6 OS=Homo sapiens OX=9606 GN=PRPF6 PE=1 SV=1	O94906 (+1)		107 kDa		unknown	0	33	6	
+82	true	Empty	Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1	O14654		134 kDa		unknown	2	13	28	
+83	true	Empty	Cluster of DNA topoisomerase 1 OS=Homo sapiens OX=9606 GN=TOP1 PE=1 SV=2 (P11387)	P11387 [3]		91 kDa	true	unknown	0	26	9	
+84	true	Empty	Nucleolar RNA helicase 2 OS=Homo sapiens OX=9606 GN=DDX21 PE=1 SV=5	Q9NR30		87 kDa	true	unknown	5	15	20	
+85	true	Empty	Cluster of Isoform SV1 of Cyclin-dependent kinase 11B OS=Homo sapiens OX=9606 GN=CDK11B (P21127-2)	P21127-2 [6]		91 kDa	true	unknown	0	25	8	
+86	true	Empty	Cluster of 60S ribosomal protein L5 OS=Homo sapiens OX=9606 GN=RPL5 PE=1 SV=3 (P46777)	P46777		34 kDa	true	unknown	6	14	14	
+87	true	Empty	Cluster of AP-2 complex subunit mu OS=Homo sapiens OX=9606 GN=AP2M1 PE=1 SV=2 (Q96CW1)	Q96CW1 [2]		50 kDa	true	unknown	0	21	12	
+88	true	Empty	40S ribosomal protein S15a OS=Homo sapiens OX=9606 GN=RPS15A PE=1 SV=2	P62244		15 kDa		unknown	5	11	10	
+89	true	Empty	Eukaryotic translation initiation factor 4B OS=Homo sapiens OX=9606 GN=EIF4B PE=1 SV=2	P23588 (+1)		69 kDa		unknown	21	2	8	
+90	true	Empty	Regulator of nonsense transcripts 2 OS=Homo sapiens OX=9606 GN=UPF2 PE=1 SV=1	Q9HAU5		148 kDa		unknown	0	28	6	
+91	true	Empty	RNA-binding protein 25 OS=Homo sapiens OX=9606 GN=RBM25 PE=1 SV=3	P49756		100 kDa		unknown	0	24	4	
+92	true	Empty	Serine/threonine-protein kinase PLK1 OS=Homo sapiens OX=9606 GN=PLK1 PE=1 SV=1	P53350		68 kDa		unknown	0	27	15	
+93	true	Empty	Cluster of Peroxiredoxin-1 OS=Homo sapiens OX=9606 GN=PRDX1 PE=1 SV=1 (Q06830)	Q06830		22 kDa	true	unknown	11	12	12	
+94	true	Empty	40S ribosomal protein S13 OS=Homo sapiens OX=9606 GN=RPS13 PE=1 SV=2	P62277		17 kDa		unknown	7	9	9	
+95	true	Empty	60S ribosomal protein L7a OS=Homo sapiens OX=9606 GN=RPL7A PE=1 SV=2	P62424		30 kDa		unknown	12	10	15	
+96	true	Empty	60S ribosomal protein L8 OS=Homo sapiens OX=9606 GN=RPL8 PE=1 SV=2	P62917		28 kDa		unknown	4	7	9	
+97	true	Empty	Lupus La protein OS=Homo sapiens OX=9606 GN=SSB PE=1 SV=2	P05455		47 kDa		unknown	0	15	25	
+98	true	Empty	60S ribosomal protein L10a OS=Homo sapiens OX=9606 GN=RPL10A PE=1 SV=2	P62906		25 kDa		unknown	8	7	10	
+99	true	Empty	Casein kinase II subunit beta OS=Homo sapiens OX=9606 GN=CSNK2B PE=1 SV=1	P67870 (+1)		25 kDa		unknown	0	12	12	
+100	true	Empty	Cluster of Eukaryotic initiation factor 4A-III OS=Homo sapiens OX=9606 GN=EIF4A3 PE=1 SV=4 (P38919)	P38919 [5]		47 kDa	true	unknown	4	20	18	
+101	true	Empty	Isoform 2 of Poly(U)-binding-splicing factor PUF60 OS=Homo sapiens OX=9606 GN=PUF60	Q9UHX1-2 (+4)		58 kDa		unknown	7	21	6	
+102	true	Empty	Cluster of Zinc finger CCCH domain-containing protein 18 OS=Homo sapiens OX=9606 GN=ZC3H18 PE=1 SV=2 (Q86VM9)	Q86VM9 [2]		106 kDa	true	unknown	0	6	22	
+103	true	Empty	Cluster of Isoform 3 of Heterogeneous nuclear ribonucleoprotein Q OS=Homo sapiens OX=9606 GN=SYNCRIP (O60506-3)	O60506-3 [2]		63 kDa	true	unknown	7	12	25	
+104	true	Empty	rRNA 2'-O-methyltransferase fibrillarin OS=Homo sapiens OX=9606 GN=FBL PE=1 SV=2	P22087		34 kDa		unknown	9	10	13	
+105	true	Empty	Cluster of Casein kinase I isoform epsilon OS=Homo sapiens OX=9606 GN=CSNK1E PE=1 SV=1 (P49674)	P49674 [2]		47 kDa	true	unknown	0	22	7	
+106	true	Empty	AP-2 complex subunit alpha-1 OS=Homo sapiens OX=9606 GN=AP2A1 PE=1 SV=3	O95782 (+1)		108 kDa	true	unknown	0	21	15	
+107	true	Empty	X-ray repair cross-complementing protein 6 OS=Homo sapiens OX=9606 GN=XRCC6 PE=1 SV=2	P12956 (+1)		70 kDa		unknown	8	11	15	
+108	true	Empty	Cluster of 60S ribosomal protein L26 OS=Homo sapiens OX=9606 GN=RPL26 PE=1 SV=1 (P61254)	P61254 [2]		17 kDa	true	unknown	4	8	13	
+109	true	Empty	Elongation factor 2 OS=Homo sapiens OX=9606 GN=EEF2 PE=1 SV=4	P13639		95 kDa		unknown	9	10	14	
+110	true	Empty	Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens OX=9606 GN=HNRNPK PE=1 SV=1	P61978 (+2)		51 kDa		unknown	12	6	12	
+111	true	Empty	40S ribosomal protein S8 OS=Homo sapiens OX=9606 GN=RPS8 PE=1 SV=2	P62241		24 kDa		unknown	5	10	13	
+112	true	Empty	U4/U6.U5 tri-snRNP-associated protein 1 OS=Homo sapiens OX=9606 GN=SART1 PE=1 SV=1	O43290		90 kDa		unknown	3	33	2	
+113	true	Empty	Cluster of Albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=2 (P02768)	P02768 [2]		69 kDa	true	unknown	13	4	7	
+114	true	Empty	Transcription intermediary factor 1-beta OS=Homo sapiens OX=9606 GN=TRIM28 PE=1 SV=5	Q13263		89 kDa		unknown	0	15	20	
+115	true	Empty	Isoform 2 of Kinesin-like protein KIF2A OS=Homo sapiens OX=9606 GN=KIF2A	O00139-2		75 kDa	true	unknown	0	24	10	
+116	true	Empty	AP-2 complex subunit alpha-2 OS=Homo sapiens OX=9606 GN=AP2A2 PE=1 SV=2	O94973 (+1)		104 kDa	true	unknown	0	23	11	
+117	true	Empty	40S ribosomal protein S19 OS=Homo sapiens OX=9606 GN=RPS19 PE=1 SV=2	P39019		16 kDa		unknown	6	10	13	
+118	true	Empty	DNA-dependent protein kinase catalytic subunit OS=Homo sapiens OX=9606 GN=PRKDC PE=1 SV=3	P78527 (+1)		469 kDa		unknown	5	0	26	
+119	true	Empty	Interleukin enhancer-binding factor 3 OS=Homo sapiens OX=9606 GN=ILF3 PE=1 SV=3	Q12906 (+6)		95 kDa		unknown	5	7	16	
+120	true	Empty	Leucine-rich repeat-containing protein 47 OS=Homo sapiens OX=9606 GN=LRRC47 PE=1 SV=1	Q8N1G4		63 kDa		unknown	0	20	9	
+121	true	Empty	Cluster of Probable ATP-dependent RNA helicase DDX5 OS=Homo sapiens OX=9606 GN=DDX5 PE=1 SV=1 (P17844)	P17844		69 kDa	true	unknown	6	13	11	
+122	true	Empty	Structural maintenance of chromosomes flexible hinge domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SMCHD1 PE=1 SV=2	A6NHR9		226 kDa		unknown	23	0	4	
+123	true	Empty	40S ribosomal protein S12 OS=Homo sapiens OX=9606 GN=RPS12 PE=1 SV=3	P25398		15 kDa		unknown	4	12	14	
+124	true	Empty	RNA-binding protein 39 OS=Homo sapiens OX=9606 GN=RBM39 PE=1 SV=2	Q14498 (+1)		59 kDa	true	unknown	4	19	10	
+125	true	Empty	Polyadenylate-binding protein 1 OS=Homo sapiens OX=9606 GN=PABPC1 PE=1 SV=2	P11940 (+2)		71 kDa	true	unknown	10	5	14	
+126	true	Empty	Myb-binding protein 1A OS=Homo sapiens OX=9606 GN=MYBBP1A PE=1 SV=2	Q9BQG0 (+1)		149 kDa		unknown	4	5	25	
+127	true	Empty	Cluster of Splicing factor U2AF 35 kDa subunit OS=Homo sapiens OX=9606 GN=U2AF1 PE=1 SV=3 (Q01081)	Q01081 [4]		28 kDa	true	unknown	3	14	0	
+128	true	Empty	Tyrosine-protein kinase JAK1 OS=Homo sapiens OX=9606 GN=JAK1 PE=1 SV=2	P23458 (+1)		133 kDa		unknown	22	0	13	
+129	true	Empty	Cell division cycle and apoptosis regulator protein 1 OS=Homo sapiens OX=9606 GN=CCAR1 PE=1 SV=2	Q8IX12 (+1)		133 kDa		unknown	3	22	0	
+130	true	Empty	Probable ATP-dependent RNA helicase DDX23 OS=Homo sapiens OX=9606 GN=DDX23 PE=1 SV=3	Q9BUQ8		96 kDa		unknown	0	30	0	
+131	true	Empty	Cluster of Serine--tRNA ligase, mitochondrial OS=Homo sapiens OX=9606 GN=SARS2 PE=1 SV=1 (Q9NP81)	Q9NP81 [2]		58 kDa	true	unknown	0	20	13	
+132	true	Empty	Elongation factor Tu, mitochondrial OS=Homo sapiens OX=9606 GN=TUFM PE=1 SV=2	P49411		50 kDa		unknown	11	5	20	
+133	true	Empty	Coatomer subunit alpha OS=Homo sapiens OX=9606 GN=COPA PE=1 SV=2	P53621 (+1)		138 kDa		unknown	2	17	12	
+134	true	Empty	Probable ATP-dependent RNA helicase DDX17 OS=Homo sapiens OX=9606 GN=DDX17 PE=1 SV=2	Q92841 (+3)		80 kDa	true	unknown	5	15	13	
+135	true	Empty	Uncharacterized protein OS=Homo sapiens OX=9606 PE=3 SV=2	H3BNC9		65 kDa		unknown	8	10	14	
+136	true	Empty	Small nuclear ribonucleoprotein-associated proteins B and B' OS=Homo sapiens OX=9606 GN=SNRPB PE=1 SV=2	P14678 (+5)		25 kDa		unknown	8	6	6	
+137	true	Empty	40S ribosomal protein S20 OS=Homo sapiens OX=9606 GN=RPS20 PE=1 SV=1	P60866 (+1)		13 kDa		unknown	5	8	8	
+138	true	Empty	60S ribosomal protein L6 OS=Homo sapiens OX=9606 GN=RPL6 PE=1 SV=3	Q02878		33 kDa		unknown	10	10	14	
+139	true	Empty	14-3-3 protein epsilon OS=Homo sapiens OX=9606 GN=YWHAE PE=1 SV=1	P62258		29 kDa	true	unknown	4	8	19	
+140	true	Empty	Delta(14)-sterol reductase LBR OS=Homo sapiens OX=9606 GN=LBR PE=1 SV=2	Q14739		71 kDa		unknown	0	9	18	
+141	true	Empty	DNA polymerase delta catalytic subunit OS=Homo sapiens OX=9606 GN=POLD1 PE=1 SV=2	P28340 (+2)		124 kDa		unknown	0	19	7	
+142	true	Empty	Signal recognition particle 14 kDa protein OS=Homo sapiens OX=9606 GN=SRP14 PE=1 SV=2	P37108		15 kDa		unknown	0	9	8	
+143	true	Empty	40S ribosomal protein S14 OS=Homo sapiens OX=9606 GN=RPS14 PE=1 SV=3	P62263 (+1)		16 kDa		unknown	8	7	7	
+144	true	Empty	40S ribosomal protein S25 OS=Homo sapiens OX=9606 GN=RPS25 PE=1 SV=1	P62851		14 kDa		unknown	8	8	9	
+145	true	Empty	BTB/POZ domain-containing protein KCTD5 OS=Homo sapiens OX=9606 GN=KCTD5 PE=1 SV=1	Q9NXV2		26 kDa		unknown	13	4	9	
+146	true	Empty	Small nuclear ribonucleoprotein Sm D3 OS=Homo sapiens OX=9606 GN=SNRPD3 PE=1 SV=1	P62318 (+1)		14 kDa		unknown	7	6	6	
+147	true	Empty	60S ribosomal protein L18a OS=Homo sapiens OX=9606 GN=RPL18A PE=1 SV=2	Q02543		21 kDa		unknown	8	7	10	
+148	true	Empty	Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens OX=9606 GN=ACAP2 PE=1 SV=3	Q15057 (+1)		88 kDa		unknown	6	0	0	
+149	true	Empty	Serine/threonine-protein kinase 38-like OS=Homo sapiens OX=9606 GN=STK38L PE=1 SV=3	Q9Y2H1		54 kDa	true	unknown	21	0	5	
+150	true	Empty	Histone deacetylase complex subunit SAP18 OS=Homo sapiens OX=9606 GN=SAP18 PE=1 SV=1	O00422 (+1)		18 kDa		unknown	0	10	11	
+151	true	Empty	Importin subunit alpha-1 OS=Homo sapiens OX=9606 GN=KPNA2 PE=1 SV=1	P52292		58 kDa		unknown	0	10	8	
+152	true	Empty	Spectrin alpha chain, non-erythrocytic 1 OS=Homo sapiens OX=9606 GN=SPTAN1 PE=1 SV=3	Q13813 (+1)		285 kDa		unknown	23	0	7	
+153	true	Empty	ATP-dependent RNA helicase DHX30 OS=Homo sapiens OX=9606 GN=DHX30 PE=1 SV=1	Q7L2E3 (+3)		134 kDa		unknown	3	9	25	
+154	true	Empty	Insulin-like growth factor 2 mRNA-binding protein 1 OS=Homo sapiens OX=9606 GN=IGF2BP1 PE=1 SV=2	Q9NZI8		63 kDa	true	unknown	9	9	12	
+155	true	Empty	Pyruvate kinase PKM OS=Homo sapiens OX=9606 GN=PKM PE=1 SV=4	P14618		58 kDa		unknown	8	10	7	
+156	true	Empty	60S ribosomal protein L31 OS=Homo sapiens OX=9606 GN=RPL31 PE=1 SV=1	P62899		14 kDa		unknown	5	5	7	
+157	true	Empty	DnaJ homolog subfamily A member 1 OS=Homo sapiens OX=9606 GN=DNAJA1 PE=1 SV=2	P31689		45 kDa		unknown	0	4	15	
+158	true	Empty	Small nuclear ribonucleoprotein Sm D2 OS=Homo sapiens OX=9606 GN=SNRPD2 PE=1 SV=1	P62316		14 kDa		unknown	10	8	6	
+159	true	Empty	U4/U6.U5 tri-snRNP-associated protein 2 OS=Homo sapiens OX=9606 GN=USP39 PE=1 SV=2	Q53GS9		65 kDa		unknown	0	23	2	
+160	true	Empty	Cluster of Zinc finger protein 629 OS=Homo sapiens OX=9606 GN=ZNF629 PE=1 SV=2 (Q9UEG4)	Q9UEG4 [8]		97 kDa	true	unknown	0	12	10	
+161	true	Empty	DnaJ homolog subfamily C member 13 OS=Homo sapiens OX=9606 GN=DNAJC13 PE=1 SV=5	O75165		254 kDa		unknown	0	27	4	
+162	true	Empty	DNA replication licensing factor MCM3 OS=Homo sapiens OX=9606 GN=MCM3 PE=1 SV=3	P25205 (+1)		91 kDa		unknown	13	5	15	
+163	true	Empty	Cluster of Heterogeneous nuclear ribonucleoprotein M OS=Homo sapiens OX=9606 GN=HNRNPM PE=1 SV=3 (P52272)	P52272 [2]		78 kDa	true	unknown	9	3	10	
+164	true	Empty	ATP-binding cassette sub-family F member 1 OS=Homo sapiens OX=9606 GN=ABCF1 PE=1 SV=2	Q8NE71 (+1)		96 kDa		unknown	0	24	5	
+165	true	Empty	U4/U6 small nuclear ribonucleoprotein Prp31 OS=Homo sapiens OX=9606 GN=PRPF31 PE=1 SV=2	Q8WWY3		55 kDa		unknown	7	11	4	
+166	true	Empty	Putative RNA-binding protein Luc7-like 1 OS=Homo sapiens OX=9606 GN=LUC7L PE=1 SV=1	Q9NQ29		44 kDa	true	unknown	0	14	8	
+167	true	Empty	60S ribosomal protein L13a (Fragment) OS=Homo sapiens OX=9606 GN=RPL13A PE=1 SV=2	M0QYS1		24 kDa		unknown	4	4	9	
+168	true	Empty	Cluster of Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4 (P08238)	P08238 [3]		83 kDa	true	unknown	8	5	15	
+169	true	Empty	60S ribosomal protein L27 OS=Homo sapiens OX=9606 GN=RPL27 PE=1 SV=2	P61353		16 kDa		unknown	5	6	9	
+170	true	Empty	(E3-independent) E2 ubiquitin-conjugating enzyme OS=Homo sapiens OX=9606 GN=UBE2O PE=1 SV=3	Q9C0C9		141 kDa		unknown	0	9	15	
+171	true	Empty	Cluster of Polypyrimidine tract-binding protein 1 OS=Homo sapiens OX=9606 GN=PTBP1 PE=1 SV=1 (P26599)	P26599 [5]		57 kDa	true	unknown	7	6	11	
+172	true	Empty	T-complex protein 1 subunit delta OS=Homo sapiens OX=9606 GN=CCT4 PE=1 SV=4	P50991		58 kDa		unknown	2	9	13	
+173	true	Empty	60S ribosomal protein L24 OS=Homo sapiens OX=9606 GN=RPL24 PE=1 SV=1	P83731 (+2)		18 kDa		unknown	7	6	9	
+174	true	Empty	Serine/threonine-protein kinase PRP4 homolog OS=Homo sapiens OX=9606 GN=PRPF4B PE=1 SV=3	Q13523		117 kDa		unknown	0	24	4	
+175	true	Empty	SNW domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SNW1 PE=1 SV=1	Q13573		61 kDa		unknown	2	14	9	
+176	true	Empty	Tetratricopeptide repeat protein 14 OS=Homo sapiens OX=9606 GN=TTC14 PE=1 SV=1	Q96N46		88 kDa		unknown	0	14	12	
+177	true	Empty	Cluster of Pre-mRNA-processing factor 40 homolog A OS=Homo sapiens OX=9606 GN=PRPF40A PE=1 SV=2 (O75400)	O75400 [3]		109 kDa	true	unknown	0	17	6	
+178	true	Empty	Desmoplakin OS=Homo sapiens OX=9606 GN=DSP PE=1 SV=3	P15924		332 kDa		unknown	17	0	0	
+179	true	Empty	60S ribosomal protein L15 OS=Homo sapiens OX=9606 GN=RPL15 PE=1 SV=2	P61313		24 kDa		unknown	5	4	6	
+180	true	Empty	60S ribosomal protein L14 OS=Homo sapiens OX=9606 GN=RPL14 PE=1 SV=4	P50914		23 kDa		unknown	5	6	11	
+181	true	Empty	40S ribosomal protein S29 OS=Homo sapiens OX=9606 GN=RPS29 PE=1 SV=2	P62273		7 kDa		unknown	2	3	3	
+182	true	Empty	Bystin OS=Homo sapiens OX=9606 GN=BYSL PE=1 SV=3	Q13895		50 kDa		unknown	2	7	14	
+183	true	Empty	Smad nuclear-interacting protein 1 OS=Homo sapiens OX=9606 GN=SNIP1 PE=1 SV=1	Q8TAD8		46 kDa		unknown	0	17	10	
+184	true	Empty	Protein RCC2 OS=Homo sapiens OX=9606 GN=RCC2 PE=1 SV=2	Q9P258		56 kDa		unknown	3	9	5	
+185	true	Empty	Poly [ADP-ribose] polymerase 1 OS=Homo sapiens OX=9606 GN=PARP1 PE=1 SV=4	P09874		113 kDa		unknown	0	21	5	
+186	true	Empty	Heat shock 70 kDa protein 4 OS=Homo sapiens OX=9606 GN=HSPA4 PE=1 SV=4	P34932		94 kDa	true	unknown	0	6	21	
+187	true	Empty	RRP12-like protein OS=Homo sapiens OX=9606 GN=RRP12 PE=1 SV=2	Q5JTH9		144 kDa	true	unknown	0	6	14	
+188	true	Empty	Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6 OS=Homo sapiens OX=9606 GN=JMJD6 PE=1 SV=1	Q6NYC1 (+5)		46 kDa		unknown	0	8	12	
+189	true	Empty	Guanine nucleotide-binding protein-like 3-like protein OS=Homo sapiens OX=9606 GN=GNL3L PE=1 SV=1	Q9NVN8		66 kDa		unknown	16	5	7	
+190	true	Empty	NK-tumor recognition protein OS=Homo sapiens OX=9606 GN=NKTR PE=1 SV=2	P30414		166 kDa		unknown	0	9	16	
+191	true	Empty	40S ribosomal protein S15 OS=Homo sapiens OX=9606 GN=RPS15 PE=1 SV=2	P62841 (+1)		17 kDa		unknown	2	6	7	
+192	true	Empty	Guanine nucleotide-binding protein-like 3 OS=Homo sapiens OX=9606 GN=GNL3 PE=1 SV=2	Q9BVP2 (+1)		62 kDa		unknown	3	9	11	
+193	true	Empty	Peptidyl-prolyl cis-trans isomerase G OS=Homo sapiens OX=9606 GN=PPIG PE=1 SV=2	Q13427		89 kDa		unknown	0	11	8	
+194	true	Empty	Splicing factor 3B subunit 2 OS=Homo sapiens OX=9606 GN=SF3B2 PE=1 SV=2	Q13435		100 kDa		unknown	8	3	5	
+195	true	Empty	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3 OS=Homo sapiens OX=9606 GN=PFKFB3 PE=1 SV=1	Q16875 (+4)		60 kDa	true	unknown	18	0	6	
+196	true	Empty	Protein FRG1 OS=Homo sapiens OX=9606 GN=FRG1 PE=1 SV=1	Q14331		29 kDa		unknown	11	6	9	
+197	true	Empty	14-3-3 protein theta OS=Homo sapiens OX=9606 GN=YWHAQ PE=1 SV=1	P27348		28 kDa	true	unknown	3	7	13	
+198	true	Empty	60S ribosomal protein L21 OS=Homo sapiens OX=9606 GN=RPL21 PE=1 SV=2	P46778		19 kDa		unknown	5	4	7	
+199	true	Empty	Signal recognition particle 9 kDa protein OS=Homo sapiens OX=9606 GN=SRP9 PE=1 SV=2	P49458		10 kDa		unknown	0	9	5	
+200	true	Empty	Splicing factor 3B subunit 3 OS=Homo sapiens OX=9606 GN=SF3B3 PE=1 SV=4	Q15393		136 kDa		unknown	14	6	4	
+201	true	Empty	Cluster of Pre-mRNA-processing factor 19 OS=Homo sapiens OX=9606 GN=PRPF19 PE=1 SV=1 (Q9UMS4)	Q9UMS4		55 kDa	true	unknown	8	10	8	
+202	true	Empty	Cyclin-dependent kinase 1 OS=Homo sapiens OX=9606 GN=CDK1 PE=1 SV=3	P06493		34 kDa	true	unknown	2	12	6	
+203	true	Empty	40S ribosomal protein S24 OS=Homo sapiens OX=9606 GN=RPS24 PE=1 SV=1	P62847		15 kDa		unknown	5	7	7	
+204	true	Empty	40S ribosomal protein S30 OS=Homo sapiens OX=9606 GN=FAU PE=1 SV=1	P62861		7 kDa		unknown	4	4	4	
+205	true	Empty	Regulator of nonsense transcripts 3B OS=Homo sapiens OX=9606 GN=UPF3B PE=1 SV=1	Q9BZI7 (+1)		58 kDa		unknown	0	19	5	
+206	true	Empty	WD repeat-containing protein 6 OS=Homo sapiens OX=9606 GN=WDR6 PE=1 SV=1	Q9NNW5 (+1)		122 kDa		unknown	0	9	10	
+207	true	Empty	Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS1 PE=1 SV=5	P07814		171 kDa		unknown	11	3	7	
+208	true	Empty	X-ray repair cross-complementing protein 5 OS=Homo sapiens OX=9606 GN=XRCC5 PE=1 SV=3	P13010		83 kDa		unknown	5	5	10	
+209	true	Empty	Ubiquitin-associated protein 2-like OS=Homo sapiens OX=9606 GN=UBAP2L PE=1 SV=2	Q14157 (+3)		115 kDa		unknown	12	3	9	
+210	true	Empty	Heat shock protein 105 kDa OS=Homo sapiens OX=9606 GN=HSPH1 PE=1 SV=1	Q92598 (+1)		97 kDa	true	unknown	3	3	19	
+211	true	Empty	Cluster of 60S ribosomal protein L13 OS=Homo sapiens OX=9606 GN=RPL13 PE=1 SV=4 (P26373)	P26373		24 kDa	true	unknown	9	7	11	
+212	true	Empty	Methylosome subunit pICln OS=Homo sapiens OX=9606 GN=CLNS1A PE=1 SV=1	P54105		26 kDa		unknown	8	0	6	
+213	true	Empty	Clathrin heavy chain 1 OS=Homo sapiens OX=9606 GN=CLTC PE=1 SV=5	Q00610 (+2)		192 kDa		unknown	12	2	9	
+214	true	Empty	Cluster of Isoform 3 of Protein regulator of cytokinesis 1 OS=Homo sapiens OX=9606 GN=PRC1 (O43663-3)	O43663-3 [3]		61 kDa	true	unknown	0	14	5	
+215	true	Empty	Heterogeneous nuclear ribonucleoprotein A1 OS=Homo sapiens OX=9606 GN=HNRNPA1 PE=1 SV=5	P09651 (+1)		39 kDa	true	unknown	4	6	10	
+216	true	Empty	40S ribosomal protein S23 OS=Homo sapiens OX=9606 GN=RPS23 PE=1 SV=3	P62266 (+1)		16 kDa		unknown	2	7	11	
+217	true	Empty	Cluster of Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens OX=9606 GN=UBA52 PE=1 SV=2 (P62987)	P62987 [2]		15 kDa	true	unknown	8	5	8	
+218	true	Empty	ATP-dependent RNA helicase DDX1 OS=Homo sapiens OX=9606 GN=DDX1 PE=1 SV=2	Q92499		82 kDa		unknown	11	4	5	
+219	true	Empty	Influenza virus NS1A-binding protein OS=Homo sapiens OX=9606 GN=IVNS1ABP PE=1 SV=3	Q9Y6Y0		72 kDa		unknown	15	0	4	
+220	true	Empty	Enhancer of rudimentary homolog OS=Homo sapiens OX=9606 GN=ERH PE=1 SV=1	P84090		12 kDa		unknown	6	4	4	
+221	true	Empty	Serine/threonine-protein phosphatase PGAM5, mitochondrial OS=Homo sapiens OX=9606 GN=PGAM5 PE=1 SV=2	Q96HS1		32 kDa		unknown	2	6	8	
+222	true	Empty	Cell division cycle 5-like protein OS=Homo sapiens OX=9606 GN=CDC5L PE=1 SV=2	Q99459		92 kDa		unknown	4	11	10	
+223	true	Empty	Cluster of 60S ribosomal protein L23a OS=Homo sapiens OX=9606 GN=RPL23A PE=1 SV=1 (P62750)	P62750		18 kDa	true	unknown	3	6	10	
+224	true	Empty	RNA-binding protein EWS OS=Homo sapiens OX=9606 GN=EWSR1 PE=1 SV=1	Q01844 (+4)		68 kDa		unknown	8	5	5	
+225	true	Empty	Histone H2B type 1-D OS=Homo sapiens OX=9606 GN=H2BC5 PE=1 SV=2	P58876 (+8)		14 kDa	true	unknown	2	5	4	
+226	true	Empty	60S ribosomal protein L30 OS=Homo sapiens OX=9606 GN=RPL30 PE=1 SV=2	P62888		13 kDa		unknown	6	6	7	
+227	true	Empty	Cluster of Isoform 3 of Casein kinase I isoform gamma-3 OS=Homo sapiens OX=9606 GN=CSNK1G3 (Q9Y6M4-3)	Q9Y6M4-3 [9]		49 kDa	true	unknown	0	17	3	
+228	true	Empty	60S ribosomal protein L32 OS=Homo sapiens OX=9606 GN=RPL32 PE=1 SV=2	P62910 (+2)		16 kDa		unknown	3	3	7	
+229	true	Empty	RNA cytosine C(5)-methyltransferase NSUN2 OS=Homo sapiens OX=9606 GN=NSUN2 PE=1 SV=2	Q08J23 (+1)		86 kDa		unknown	0	13	10	
+230	true	Empty	T-complex protein 1 subunit alpha OS=Homo sapiens OX=9606 GN=TCP1 PE=1 SV=1	P17987		60 kDa		unknown	3	11	13	
+231	true	Empty	Proteasome subunit alpha type-4 OS=Homo sapiens OX=9606 GN=PSMA4 PE=1 SV=1	P25789		29 kDa		unknown	12	2	9	
+232	true	Empty	DNA replication licensing factor MCM5 OS=Homo sapiens OX=9606 GN=MCM5 PE=1 SV=5	P33992		82 kDa		unknown	7	7	6	
+233	true	Empty	60S ribosomal protein L28 OS=Homo sapiens OX=9606 GN=RPL28 PE=1 SV=3	P46779		16 kDa		unknown	7	3	7	
+234	true	Empty	Spliceosome-associated protein CWC27 homolog OS=Homo sapiens OX=9606 GN=CWC27 PE=1 SV=1	Q6UX04		54 kDa		unknown	0	9	10	
+235	true	Empty	DNA-directed RNA polymerase, mitochondrial OS=Homo sapiens OX=9606 GN=POLRMT PE=1 SV=2	O00411		139 kDa		unknown	0	11	10	
+236	true	Empty	ATP synthase subunit alpha, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5F1A PE=1 SV=1	P25705 (+1)		60 kDa		unknown	2	2	18	
+237	true	Empty	60S ribosomal protein L12 OS=Homo sapiens OX=9606 GN=RPL12 PE=1 SV=1	P30050		18 kDa		unknown	7	5	8	
+238	true	Empty	28S ribosomal protein S22, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS22 PE=1 SV=1	P82650 (+2)		41 kDa		unknown	0	6	11	
+239	true	Empty	Probable non-functional immunoglobulin kappa variable 2D-24 OS=Homo sapiens OX=9606 GN=IGKV2D-24 PE=5 SV=1	A0A075B6R9		13 kDa	true	unknown	2	2	2	
+240	true	Empty	Phosphoribosyl pyrophosphate synthase-associated protein 2 OS=Homo sapiens OX=9606 GN=PRPSAP2 PE=1 SV=1	O60256		41 kDa	true	unknown	10	2	4	
+241	true	Empty	Cluster of 60S acidic ribosomal protein P0 OS=Homo sapiens OX=9606 GN=RPLP0 PE=1 SV=1 (P05388)	P05388		34 kDa	true	unknown	4	6	7	
+242	true	Empty	Eukaryotic translation initiation factor 1A, X-chromosomal OS=Homo sapiens OX=9606 GN=EIF1AX PE=1 SV=2	P47813		16 kDa		unknown	7	3	5	
+243	true	Empty	Cluster of Isoform 2 of Myc-associated zinc finger protein OS=Homo sapiens OX=9606 GN=MAZ (P56270-2)	P56270-2		51 kDa	true	unknown	5	8	6	
+244	true	Empty	Cold-inducible RNA-binding protein OS=Homo sapiens OX=9606 GN=CIRBP PE=1 SV=1	Q14011		19 kDa		unknown	11	6	6	
+245	true	Empty	Hornerin OS=Homo sapiens OX=9606 GN=HRNR PE=1 SV=2	Q86YZ3		282 kDa		unknown	18	0	6	
+246	true	Empty	Cluster of Histone H2A type 1 OS=Homo sapiens OX=9606 GN=H2AC11 PE=1 SV=2 (P0C0S8)	P0C0S8 [12]		14 kDa	true	unknown	4	6	5	
+247	true	Empty	Cluster of RNA-binding protein 15 OS=Homo sapiens OX=9606 GN=RBM15 PE=1 SV=2 (Q96T37)	Q96T37 [7]		107 kDa	true	unknown	0	14	0	
+248	true	Empty	Transcription elongation regulator 1 OS=Homo sapiens OX=9606 GN=TCERG1 PE=1 SV=2	O14776 (+1)		124 kDa		unknown	0	13	7	
+249	true	Empty	Heterogeneous nuclear ribonucleoprotein H OS=Homo sapiens OX=9606 GN=HNRNPH1 PE=1 SV=4	P31943 (+1)		49 kDa	true	unknown	7	1	9	
+250	true	Empty	60S ribosomal protein L9 OS=Homo sapiens OX=9606 GN=RPL9 PE=1 SV=1	P32969		22 kDa		unknown	4	5	5	
+251	true	Empty	Protein Red OS=Homo sapiens OX=9606 GN=IK PE=1 SV=3	Q13123		66 kDa		unknown	0	12	2	
+252	true	Empty	Caprin-1 OS=Homo sapiens OX=9606 GN=CAPRIN1 PE=1 SV=2	Q14444 (+1)		78 kDa		unknown	6	6	9	
+253	true	Empty	Elongation factor 1-gamma OS=Homo sapiens OX=9606 GN=EEF1G PE=1 SV=3	P26641 (+1)		50 kDa		unknown	7	2	7	
+254	true	Empty	Leucine-rich PPR motif-containing protein, mitochondrial OS=Homo sapiens OX=9606 GN=LRPPRC PE=1 SV=3	P42704		158 kDa		unknown	2	3	11	
+255	true	Empty	ATP-dependent DNA/RNA helicase DHX36 OS=Homo sapiens OX=9606 GN=DHX36 PE=1 SV=2	Q9H2U1		115 kDa	true	unknown	3	4	10	
+256	true	Empty	U4/U6 small nuclear ribonucleoprotein Prp4 OS=Homo sapiens OX=9606 GN=PRPF4 PE=1 SV=2	O43172 (+1)		58 kDa		unknown	0	16	0	
+257	true	Empty	Calcium homeostasis endoplasmic reticulum protein OS=Homo sapiens OX=9606 GN=CHERP PE=1 SV=3	Q8IWX8		104 kDa		unknown	8	2	4	
+258	true	Empty	U6 snRNA-associated Sm-like protein LSm4 OS=Homo sapiens OX=9606 GN=LSM4 PE=1 SV=1	Q9Y4Z0 (+1)		15 kDa		unknown	4	4	3	
+259	true	Empty	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform OS=Homo sapiens OX=9606 GN=PPP2R1A PE=1 SV=4	P30153		65 kDa		unknown	3	9	8	
+260	true	Empty	60S ribosomal protein L35 OS=Homo sapiens OX=9606 GN=RPL35 PE=1 SV=2	P42766		15 kDa		unknown	3	5	5	
+261	true	Empty	60S ribosomal protein L18 OS=Homo sapiens OX=9606 GN=RPL18 PE=1 SV=2	Q07020 (+1)		22 kDa		unknown	5	4	10	
+262	true	Empty	Pentatricopeptide repeat domain-containing protein 3, mitochondrial OS=Homo sapiens OX=9606 GN=PTCD3 PE=1 SV=3	Q96EY7		79 kDa		unknown	0	5	12	
+263	true	Empty	Ribosomal L1 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=RSL1D1 PE=1 SV=3	O76021		55 kDa		unknown	0	7	11	
+264	true	Empty	40S ribosomal protein SA OS=Homo sapiens OX=9606 GN=RPSA PE=1 SV=4	P08865 (+2)		33 kDa		unknown	2	6	9	
+265	true	Empty	Nucleolar protein 14 OS=Homo sapiens OX=9606 GN=NOP14 PE=1 SV=3	P78316		98 kDa		unknown	5	4	10	
+266	true	Empty	La-related protein 1 OS=Homo sapiens OX=9606 GN=LARP1 PE=1 SV=2	Q6PKG0 (+1)		124 kDa		unknown	2	4	6	
+267	true	Empty	U2 snRNP-associated SURP motif-containing protein OS=Homo sapiens OX=9606 GN=U2SURP PE=1 SV=2	O15042 (+2)		118 kDa		unknown	5	3	3	
+268	true	Empty	D-3-phosphoglycerate dehydrogenase OS=Homo sapiens OX=9606 GN=PHGDH PE=1 SV=4	O43175 (+1)		57 kDa		unknown	2	0	14	
+269	true	Empty	Histone H4 OS=Homo sapiens OX=9606 GN=H4C1 PE=1 SV=2	P62805		11 kDa		unknown	4	6	5	
+270	true	Empty	OTU domain-containing protein 4 OS=Homo sapiens OX=9606 GN=OTUD4 PE=1 SV=4	Q01804		124 kDa		unknown	11	0	2	
+271	true	Empty	Pre-mRNA-splicing factor 38B OS=Homo sapiens OX=9606 GN=PRPF38B PE=1 SV=1	Q5VTL8		64 kDa		unknown	0	9	0	
+272	true	Empty	Isoform 3 of Protein arginine N-methyltransferase 1 OS=Homo sapiens OX=9606 GN=PRMT1	Q99873-3		41 kDa		unknown	12	0	7	
+273	true	Empty	Developmentally-regulated GTP-binding protein 1 OS=Homo sapiens OX=9606 GN=DRG1 PE=1 SV=1	Q9Y295		41 kDa		unknown	8	6	8	
+274	true	Empty	Cluster of Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens OX=9606 GN=IQGAP1 PE=1 SV=1 (P46940)	P46940		189 kDa	true	unknown	0	15	3	
+275	true	Empty	DNA (cytosine-5)-methyltransferase 1 OS=Homo sapiens OX=9606 GN=DNMT1 PE=1 SV=2	P26358 (+1)		183 kDa		unknown	0	14	2	
+276	true	Empty	Interleukin enhancer-binding factor 2 OS=Homo sapiens OX=9606 GN=ILF2 PE=1 SV=2	Q12905 (+1)		43 kDa		unknown	4	5	8	
+277	true	Empty	PAX-interacting protein 1 OS=Homo sapiens OX=9606 GN=PAXIP1 PE=1 SV=2	Q6ZW49 (+2)		121 kDa		unknown	0	8	4	
+278	true	Empty	Poly [ADP-ribose] polymerase tankyrase-1 OS=Homo sapiens OX=9606 GN=TNKS PE=1 SV=2	O95271		142 kDa	true	unknown	0	7	10	
+279	true	Empty	Cold shock domain-containing protein E1 OS=Homo sapiens OX=9606 GN=CSDE1 PE=1 SV=2	O75534 (+3)		89 kDa		unknown	3	5	7	
+280	true	Empty	Peroxiredoxin-6 OS=Homo sapiens OX=9606 GN=PRDX6 PE=1 SV=3	P30041		25 kDa		unknown	8	4	5	
+281	true	Empty	Beta-arrestin-2 OS=Homo sapiens OX=9606 GN=ARRB2 PE=1 SV=2	P32121 (+2)		46 kDa	true	unknown	0	12	3	
+282	true	Empty	Isoform 2 of SRSF protein kinase 2 OS=Homo sapiens OX=9606 GN=SRPK2	P78362-2		79 kDa	true	unknown	0	8	6	
+283	true	Empty	Transcription factor A, mitochondrial OS=Homo sapiens OX=9606 GN=TFAM PE=1 SV=1	Q00059		29 kDa		unknown	2	6	4	
+284	true	Empty	Splicing factor 45 OS=Homo sapiens OX=9606 GN=RBM17 PE=1 SV=1	Q96I25		45 kDa		unknown	11	3	5	
+285	true	Empty	RNA-splicing ligase RtcB homolog OS=Homo sapiens OX=9606 GN=RTCB PE=1 SV=1	Q9Y3I0		55 kDa		unknown	8	0	3	
+286	true	Empty	Cluster of 40S ribosomal protein S27 OS=Homo sapiens OX=9606 GN=RPS27 PE=1 SV=3 (P42677)	P42677 [3]		9 kDa	true	unknown	5	3	6	
+287	true	Empty	Fatty acid synthase OS=Homo sapiens OX=9606 GN=FASN PE=1 SV=3	P49327 (+1)		273 kDa		unknown	11	0	2	
+288	true	Empty	Glutaminyl-peptide cyclotransferase-like protein OS=Homo sapiens OX=9606 GN=QPCTL PE=1 SV=2	Q9NXS2		43 kDa		unknown	7	4	5	
+289	true	Empty	RNA-binding protein 27 OS=Homo sapiens OX=9606 GN=RBM27 PE=1 SV=2	Q9P2N5		119 kDa		unknown	10	6	5	
+290	true	Empty	U4/U6 small nuclear ribonucleoprotein Prp3 OS=Homo sapiens OX=9606 GN=PRPF3 PE=1 SV=2	O43395		78 kDa		unknown	2	12	2	
+291	true	Empty	60S ribosomal protein L37a OS=Homo sapiens OX=9606 GN=RPL37A PE=1 SV=2	P61513 (+1)		10 kDa		unknown	6	5	4	
+292	true	Empty	28S ribosomal protein S34, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS34 PE=1 SV=2	P82930 (+1)		26 kDa		unknown	0	4	7	
+293	true	Empty	Isoform 2 of BTB/POZ domain-containing protein KCTD17 OS=Homo sapiens OX=9606 GN=KCTD17	Q8N5Z5-2		33 kDa		unknown	6	0	0	
+294	true	Empty	Cleavage and polyadenylation specificity factor subunit 5 OS=Homo sapiens OX=9606 GN=NUDT21 PE=1 SV=1	O43809		26 kDa		unknown	0	12	3	
+295	true	Empty	Probable ATP-dependent RNA helicase DDX10 OS=Homo sapiens OX=9606 GN=DDX10 PE=1 SV=2	Q13206 (+1)		101 kDa		unknown	0	15	2	
+296	true	Empty	Cluster of Poly(rC)-binding protein 1 OS=Homo sapiens OX=9606 GN=PCBP1 PE=1 SV=2 (Q15365)	Q15365 [10]		37 kDa	true	unknown	4	6	7	
+297	true	Empty	Putative ATP-dependent RNA helicase DHX57 OS=Homo sapiens OX=9606 GN=DHX57 PE=1 SV=2	Q6P158		156 kDa	true	unknown	0	3	9	
+298	true	Empty	DnaJ homolog subfamily C member 7 OS=Homo sapiens OX=9606 GN=DNAJC7 PE=1 SV=2	Q99615		56 kDa		unknown	0	8	10	
+299	true	Empty	Cluster of 60S acidic ribosomal protein P2 OS=Homo sapiens OX=9606 GN=RPLP2 PE=1 SV=1 (P05387)	P05387		12 kDa	true	unknown	3	6	7	
+300	true	Empty	Myotubularin-related protein 5 OS=Homo sapiens OX=9606 GN=SBF1 PE=1 SV=4	O95248 (+2)		208 kDa		unknown	0	16	0	
+301	true	Empty	U2 small nuclear ribonucleoprotein A' OS=Homo sapiens OX=9606 GN=SNRPA1 PE=1 SV=2	P09661		28 kDa		unknown	5	6	4	
+302	true	Empty	Heterogeneous nuclear ribonucleoprotein H2 OS=Homo sapiens OX=9606 GN=HNRNPH2 PE=1 SV=1	P55795		49 kDa	true	unknown	8	1	3	
+303	true	Empty	Mothers against decapentaplegic homolog 3 OS=Homo sapiens OX=9606 GN=SMAD3 PE=1 SV=1	P84022		48 kDa	true	unknown	0	9	5	
+304	true	Empty	Polyadenylate-binding protein 4 OS=Homo sapiens OX=9606 GN=PABPC4 PE=1 SV=1	Q13310 (+3)		71 kDa	true	unknown	6	2	7	
+305	true	Empty	Protein disulfide-isomerase A6 OS=Homo sapiens OX=9606 GN=PDIA6 PE=1 SV=1	Q15084 (+4)		48 kDa		unknown	7	3	5	
+306	true	Empty	THO complex subunit 2 OS=Homo sapiens OX=9606 GN=THOC2 PE=1 SV=2	Q8NI27 (+1)		183 kDa		unknown	0	9	6	
+307	true	Empty	28S ribosomal protein S27, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS27 PE=1 SV=3	Q92552 (+1)		48 kDa		unknown	2	4	8	
+308	true	Empty	DnaJ homolog subfamily A member 3, mitochondrial OS=Homo sapiens OX=9606 GN=DNAJA3 PE=1 SV=2	Q96EY1		52 kDa		unknown	0	0	17	
+309	true	Empty	60S ribosomal protein L36 OS=Homo sapiens OX=9606 GN=RPL36 PE=1 SV=3	Q9Y3U8		12 kDa		unknown	3	3	5	
+310	true	Empty	Cluster of Nucleosome assembly protein 1-like 1 OS=Homo sapiens OX=9606 GN=NAP1L1 PE=1 SV=1 (P55209)	P55209 [14]		45 kDa	true	unknown	3	3	7	
+311	true	Empty	Cluster of Spectrin beta chain, non-erythrocytic 1 OS=Homo sapiens OX=9606 GN=SPTBN1 PE=1 SV=2 (Q01082)	Q01082 [4]		275 kDa	true	unknown	9	0	0	
+312	true	Empty	DnaJ homolog subfamily A member 2 OS=Homo sapiens OX=9606 GN=DNAJA2 PE=1 SV=1	O60884		46 kDa		unknown	0	2	11	
+313	true	Empty	60S ribosomal protein L35a OS=Homo sapiens OX=9606 GN=RPL35A PE=1 SV=2	P18077		13 kDa		unknown	4	0	5	
+314	true	Empty	Peroxiredoxin-2 OS=Homo sapiens OX=9606 GN=PRDX2 PE=1 SV=5	P32119		22 kDa	true	unknown	4	4	6	
+315	true	Empty	Dual specificity protein kinase CLK3 OS=Homo sapiens OX=9606 GN=CLK3 PE=1 SV=3	P49761 (+1)		74 kDa		unknown	0	9	4	
+316	true	Empty	28S ribosomal protein S9, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS9 PE=1 SV=2	P82933		46 kDa		unknown	0	4	7	
+317	true	Empty	Cleavage and polyadenylation specificity factor subunit 1 OS=Homo sapiens OX=9606 GN=CPSF1 PE=1 SV=2	Q10570		161 kDa		unknown	0	13	0	
+318	true	Empty	WD40 repeat-containing protein SMU1 OS=Homo sapiens OX=9606 GN=SMU1 PE=1 SV=2	Q2TAY7		58 kDa		unknown	0	10	0	
+319	true	Empty	Peptidyl-prolyl cis-trans isomerase-like 4 OS=Homo sapiens OX=9606 GN=PPIL4 PE=1 SV=1	Q8WUA2		57 kDa		unknown	0	11	0	
+320	true	Empty	ATP-binding cassette sub-family F member 2 OS=Homo sapiens OX=9606 GN=ABCF2 PE=1 SV=2	Q9UG63 (+1)		71 kDa		unknown	0	2	13	
+321	true	Empty	Cluster of MAP/microtubule affinity-regulating kinase 3 OS=Homo sapiens OX=9606 GN=MARK3 PE=1 SV=5 (P27448)	P27448 [28]		84 kDa	true	unknown	0	14	0	
+322	true	Empty	Pre-rRNA-processing protein TSR1 homolog OS=Homo sapiens OX=9606 GN=TSR1 PE=1 SV=1	Q2NL82		92 kDa		unknown	0	11	4	
+323	true	Empty	Coiled-coil domain-containing protein 124 OS=Homo sapiens OX=9606 GN=CCDC124 PE=1 SV=1	Q96CT7		26 kDa		unknown	6	4	5	
+324	true	Empty	Anaphase-promoting complex subunit 1 OS=Homo sapiens OX=9606 GN=ANAPC1 PE=1 SV=1	Q9H1A4		217 kDa		unknown	0	0	14	
+325	true	Empty	Box C/D snoRNA protein 1 OS=Homo sapiens OX=9606 GN=ZNHIT6 PE=1 SV=1	Q9NWK9		54 kDa		unknown	0	8	4	
+326	true	Empty	Serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta OS=Homo sapiens OX=9606 GN=PPP2R3B PE=1 SV=2	Q9Y5P8 (+1)		65 kDa		unknown	0	8	6	
+327	true	Empty	60 kDa heat shock protein, mitochondrial OS=Homo sapiens OX=9606 GN=HSPD1 PE=1 SV=2	P10809		61 kDa		unknown	4	4	8	
+328	true	Empty	Splicing factor, proline- and glutamine-rich OS=Homo sapiens OX=9606 GN=SFPQ PE=1 SV=2	P23246		76 kDa	true	unknown	5	6	6	
+329	true	Empty	RNA-binding motif protein, X chromosome OS=Homo sapiens OX=9606 GN=RBMX PE=1 SV=3	P38159		42 kDa		unknown	3	4	5	
+330	true	Empty	60S ribosomal protein L27a OS=Homo sapiens OX=9606 GN=RPL27A PE=1 SV=2	P46776		17 kDa		unknown	3	5	5	
+331	true	Empty	Y-box-binding protein 1 OS=Homo sapiens OX=9606 GN=YBX1 PE=1 SV=3	P67809		36 kDa	true	unknown	1	1	7	
+332	true	Empty	28S ribosomal protein S26, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS26 PE=1 SV=1	Q9BYN8		24 kDa		unknown	0	3	5	
+333	true	Empty	Spindlin-1 OS=Homo sapiens OX=9606 GN=SPIN1 PE=1 SV=3	Q9Y657		30 kDa	true	unknown	9	0	4	
+334	true	Empty	Peptidyl-prolyl cis-trans isomerase B OS=Homo sapiens OX=9606 GN=PPIB PE=1 SV=2	P23284		24 kDa		unknown	3	4	2	
+335	true	Empty	Eukaryotic translation initiation factor 2 subunit 3 OS=Homo sapiens OX=9606 GN=EIF2S3 PE=1 SV=3	P41091		51 kDa		unknown	0	11	3	
+336	true	Empty	40S ribosomal protein S28 OS=Homo sapiens OX=9606 GN=RPS28 PE=1 SV=1	P62857		8 kDa		unknown	0	6	6	
+337	true	Empty	Nuclear cap-binding protein subunit 1 OS=Homo sapiens OX=9606 GN=NCBP1 PE=1 SV=1	Q09161		92 kDa		unknown	3	6	6	
+338	true	Empty	Translation machinery-associated protein 16 OS=Homo sapiens OX=9606 GN=TMA16 PE=1 SV=2	Q96EY4 (+1)		24 kDa		unknown	0	9	3	
+339	true	Empty	Probable ATP-dependent RNA helicase DDX47 OS=Homo sapiens OX=9606 GN=DDX47 PE=1 SV=1	Q9H0S4		51 kDa		unknown	0	11	2	
+340	true	Empty	T-complex protein 1 subunit gamma OS=Homo sapiens OX=9606 GN=CCT3 PE=1 SV=4	P49368 (+2)		61 kDa		unknown	0	0	4	
+341	true	Empty	Forkhead box protein K1 OS=Homo sapiens OX=9606 GN=FOXK1 PE=1 SV=1	P85037		75 kDa	true	unknown	0	7	0	
+342	true	Empty	A-kinase anchor protein 17A OS=Homo sapiens OX=9606 GN=AKAP17A PE=1 SV=2	Q02040		81 kDa		unknown	0	12	2	
+343	true	Empty	Serine/arginine-rich splicing factor 11 OS=Homo sapiens OX=9606 GN=SRSF11 PE=1 SV=1	Q05519 (+2)		54 kDa		unknown	0	7	2	
+344	true	Empty	Splicing factor 3A subunit 3 OS=Homo sapiens OX=9606 GN=SF3A3 PE=1 SV=1	Q12874		59 kDa		unknown	9	0	3	
+345	true	Empty	Probable ATP-dependent RNA helicase DHX40 OS=Homo sapiens OX=9606 GN=DHX40 PE=1 SV=2	Q8IX18 (+2)		89 kDa		unknown	0	8	4	
+346	true	Empty	WD repeat-containing protein 60 OS=Homo sapiens OX=9606 GN=WDR60 PE=1 SV=3	Q8WVS4		123 kDa		unknown	0	13	4	
+347	true	Empty	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16 OS=Homo sapiens OX=9606 GN=DHX38 PE=1 SV=2	Q92620		141 kDa		unknown	0	13	3	
+348	true	Empty	Calmodulin-regulated spectrin-associated protein 3 OS=Homo sapiens OX=9606 GN=CAMSAP3 PE=1 SV=2	Q9P1Y5 (+1)		135 kDa		unknown	4	3	5	
+349	true	Empty	Heterogeneous nuclear ribonucleoprotein F OS=Homo sapiens OX=9606 GN=HNRNPF PE=1 SV=3	P52597		46 kDa	true	unknown	2	3	6	
+350	true	Empty	Cellular nucleic acid-binding protein OS=Homo sapiens OX=9606 GN=CNBP PE=1 SV=1	P62633 (+1)		19 kDa		unknown	8	3	3	
+351	true	Empty	14-3-3 protein zeta/delta OS=Homo sapiens OX=9606 GN=YWHAZ PE=1 SV=1	P63104		28 kDa	true	unknown	2	3	9	
+352	true	Empty	T-complex protein 1 subunit beta OS=Homo sapiens OX=9606 GN=CCT2 PE=1 SV=4	P78371		57 kDa		unknown	5	0	6	
+353	true	Empty	Isoform B of Phosphate carrier protein, mitochondrial OS=Homo sapiens OX=9606 GN=SLC25A3	Q00325-2		40 kDa		unknown	2	2	7	
+354	true	Empty	Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma OS=Homo sapiens OX=9606 GN=PIP4K2C PE=1 SV=3	Q8TBX8		47 kDa		unknown	0	11	0	
+355	true	Empty	Glutamate-rich WD repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=GRWD1 PE=1 SV=1	Q9BQ67		49 kDa		unknown	0	3	4	
+356	true	Empty	SAP30-binding protein OS=Homo sapiens OX=9606 GN=SAP30BP PE=1 SV=1	Q9UHR5 (+2)		34 kDa		unknown	0	9	3	
+357	true	Empty	Elongin-A OS=Homo sapiens OX=9606 GN=ELOA PE=1 SV=1	A0A024RAC6		87 kDa		unknown	0	10	0	
+358	true	Empty	Heterogeneous nuclear ribonucleoproteins C1/C2 OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=4	P07910 (+7)		34 kDa		unknown	3	6	4	
+359	true	Empty	60S ribosomal protein L36a OS=Homo sapiens OX=9606 GN=RPL36A PE=1 SV=2	P83881 (+2)		12 kDa		unknown	3	2	4	
+360	true	Empty	Ensconsin OS=Homo sapiens OX=9606 GN=MAP7 PE=1 SV=1	Q14244 (+3)		84 kDa		unknown	2	6	4	
+361	true	Empty	DNA damage-binding protein 1 OS=Homo sapiens OX=9606 GN=DDB1 PE=1 SV=1	Q16531		127 kDa		unknown	0	2	6	
+362	true	Empty	Pyrroline-5-carboxylate reductase 3 OS=Homo sapiens OX=9606 GN=PYCR3 PE=1 SV=3	Q53H96 (+1)		29 kDa		unknown	0	10	0	
+363	true	Empty	28S ribosomal protein S31, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS31 PE=1 SV=3	Q92665		45 kDa		unknown	0	4	7	
+364	true	Empty	Carboxymethylenebutenolidase homolog OS=Homo sapiens OX=9606 GN=CMBL PE=1 SV=1	Q96DG6		28 kDa		unknown	5	0	4	
+365	true	Empty	Protein LTV1 homolog OS=Homo sapiens OX=9606 GN=LTV1 PE=1 SV=1	Q96GA3		55 kDa		unknown	2	4	7	
+366	true	Empty	Ribonucleases P/MRP protein subunit POP1 OS=Homo sapiens OX=9606 GN=POP1 PE=1 SV=2	Q99575		115 kDa		unknown	0	4	8	
+367	true	Empty	Nucleolar complex protein 4 homolog OS=Homo sapiens OX=9606 GN=NOC4L PE=1 SV=1	Q9BVI4		58 kDa		unknown	4	2	7	
+368	true	Empty	3'-5' RNA helicase YTHDC2 OS=Homo sapiens OX=9606 GN=YTHDC2 PE=1 SV=2	Q9H6S0		160 kDa		unknown	0	0	8	
+369	true	Empty	Polymerase delta-interacting protein 2 OS=Homo sapiens OX=9606 GN=POLDIP2 PE=1 SV=1	Q9Y2S7		42 kDa		unknown	0	5	8	
+370	true	Empty	28S ribosomal protein S2, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS2 PE=1 SV=1	Q9Y399		33 kDa		unknown	0	6	8	
+371	true	Empty	Probable ATP-dependent RNA helicase DDX49 OS=Homo sapiens OX=9606 GN=DDX49 PE=1 SV=1	Q9Y6V7		54 kDa		unknown	0	10	3	
+372	true	Empty	Replication factor C subunit 1 OS=Homo sapiens OX=9606 GN=RFC1 PE=1 SV=4	P35251 (+1)		128 kDa		unknown	0	10	4	
+373	true	Empty	28S ribosomal protein S29, mitochondrial OS=Homo sapiens OX=9606 GN=DAP3 PE=1 SV=1	P51398 (+2)		46 kDa		unknown	0	6	9	
+374	true	Empty	Zinc finger CCCH domain-containing protein 15 OS=Homo sapiens OX=9606 GN=ZC3H15 PE=1 SV=1	Q8WU90		49 kDa		unknown	7	5	5	
+375	true	Empty	Rho guanine nucleotide exchange factor 2 OS=Homo sapiens OX=9606 GN=ARHGEF2 PE=1 SV=4	Q92974 (+4)		112 kDa		unknown	0	6	4	
+376	true	Empty	Heterogeneous nuclear ribonucleoprotein A/B OS=Homo sapiens OX=9606 GN=HNRNPAB PE=1 SV=2	Q99729 (+6)		36 kDa	true	unknown	2	4	8	
+377	true	Empty	BolA-like protein 2 OS=Homo sapiens OX=9606 GN=BOLA2 PE=1 SV=1	Q9H3K6 (+1)		10 kDa		unknown	5	2	3	
+378	true	Empty	28S ribosomal protein S7, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS7 PE=1 SV=2	Q9Y2R9 (+1)		28 kDa		unknown	0	3	8	
+379	true	Empty	Serine-threonine kinase receptor-associated protein OS=Homo sapiens OX=9606 GN=STRAP PE=1 SV=1	Q9Y3F4 (+1)		38 kDa		unknown	4	5	7	
+380	true	Empty	Cluster of U1 small nuclear ribonucleoprotein 70 kDa OS=Homo sapiens OX=9606 GN=SNRNP70 PE=1 SV=2 (P08621)	P08621 [2]		52 kDa	true	unknown	0	5	3	
+381	true	Empty	Cluster of SR-related and CTD-associated factor 4 OS=Homo sapiens OX=9606 GN=SCAF4 PE=1 SV=3 (O95104)	O95104 [5]		126 kDa	true	unknown	0	10	0	
+382	true	Empty	Annexin A2 OS=Homo sapiens OX=9606 GN=ANXA2 PE=1 SV=2	P07355 (+1)		39 kDa		unknown	5	0	4	
+383	true	Empty	Replication factor C subunit 4 OS=Homo sapiens OX=9606 GN=RFC4 PE=1 SV=2	P35249 (+2)		40 kDa		unknown	0	7	5	
+384	true	Empty	60S ribosomal protein L22 OS=Homo sapiens OX=9606 GN=RPL22 PE=1 SV=2	P35268		15 kDa	true	unknown	3	5	4	
+385	true	Empty	DNA mismatch repair protein Msh2 OS=Homo sapiens OX=9606 GN=MSH2 PE=1 SV=1	P43246		105 kDa		unknown	0	5	6	
+386	true	Empty	Mitochondrial 2-oxoglutarate/malate carrier protein OS=Homo sapiens OX=9606 GN=SLC25A11 PE=1 SV=3	Q02978 (+1)		34 kDa		unknown	0	0	8	
+387	true	Empty	Ribosomal RNA small subunit methyltransferase NEP1 OS=Homo sapiens OX=9606 GN=EMG1 PE=1 SV=4	Q92979		27 kDa		unknown	0	8	0	
+388	true	Empty	Programmed cell death protein 2-like OS=Homo sapiens OX=9606 GN=PDCD2L PE=1 SV=1	Q9BRP1		39 kDa		unknown	0	7	2	
+389	true	Empty	Histone H3.1 OS=Homo sapiens OX=9606 GN=H3C1 PE=1 SV=2	P68431 (+2)		15 kDa		unknown	0	0	2	
+390	true	Empty	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Homo sapiens OX=9606 GN=RPN1 PE=1 SV=1	P04843		69 kDa		unknown	0	0	13	
+391	true	Empty	60S ribosomal protein L34 OS=Homo sapiens OX=9606 GN=RPL34 PE=1 SV=3	P49207		13 kDa		unknown	4	2	3	
+392	true	Empty	T-complex protein 1 subunit theta OS=Homo sapiens OX=9606 GN=CCT8 PE=1 SV=4	P50990 (+1)		60 kDa		unknown	6	4	4	
+393	true	Empty	FACT complex subunit SSRP1 OS=Homo sapiens OX=9606 GN=SSRP1 PE=1 SV=1	Q08945		81 kDa		unknown	0	5	7	
+394	true	Empty	Ras GTPase-activating protein-binding protein 1 OS=Homo sapiens OX=9606 GN=G3BP1 PE=1 SV=1	Q13283		52 kDa	true	unknown	2	2	4	
+395	true	Empty	Myotubularin-related protein 1 OS=Homo sapiens OX=9606 GN=MTMR1 PE=1 SV=4	Q13613 (+2)		75 kDa		unknown	0	10	0	
+396	true	Empty	Dimethyladenosine transferase 1, mitochondrial OS=Homo sapiens OX=9606 GN=TFB1M PE=1 SV=1	Q8WVM0		40 kDa		unknown	0	7	2	
+397	true	Empty	Protein ECT2 OS=Homo sapiens OX=9606 GN=ECT2 PE=1 SV=4	Q9H8V3 (+3)		104 kDa		unknown	0	8	4	
+398	true	Empty	RNA transcription, translation and transport factor protein OS=Homo sapiens OX=9606 GN=RTRAF PE=1 SV=1	Q9Y224		28 kDa		unknown	7	2	2	
+399	true	Empty	28S ribosomal protein S23, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS23 PE=1 SV=2	Q9Y3D9		22 kDa		unknown	0	4	7	
+400	true	Empty	Cluster of Cleavage and polyadenylation specificity factor subunit 6 OS=Homo sapiens OX=9606 GN=CPSF6 PE=1 SV=2 (Q16630)	Q16630 [4]		59 kDa	true	unknown	0	8	0	
+401	true	Empty	Importin subunit alpha-4 OS=Homo sapiens OX=9606 GN=KPNA3 PE=1 SV=2	O00505		58 kDa	true	unknown	0	7	5	
+402	true	Empty	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit OS=Homo sapiens OX=9606 GN=OGT PE=1 SV=3	O15294		117 kDa		unknown	8	0	2	
+403	true	Empty	Mitogen-activated protein kinase kinase kinase 7 OS=Homo sapiens OX=9606 GN=MAP3K7 PE=1 SV=1	O43318 (+1)		67 kDa		unknown	4	0	3	
+404	true	Empty	Methionine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=MARS1 PE=1 SV=2	P56192		101 kDa		unknown	0	0	6	
+405	true	Empty	SUN domain-containing protein 2 OS=Homo sapiens OX=9606 GN=SUN2 PE=1 SV=3	Q9UH99 (+1)		80 kDa		unknown	11	0	2	
+406	true	Empty	AF4/FMR2 family member 4 OS=Homo sapiens OX=9606 GN=AFF4 PE=1 SV=1	Q9UHB7		127 kDa		unknown	0	6	6	
+407	true	Empty	40S ribosomal protein S26 OS=Homo sapiens OX=9606 GN=RPS26 PE=1 SV=3	P62854		13 kDa		unknown	2	2	2	
+408	true	Empty	Eukaryotic translation initiation factor 3 subunit D OS=Homo sapiens OX=9606 GN=EIF3D PE=1 SV=1	O15371 (+2)		64 kDa		unknown	0	3	5	
+409	true	Empty	Sphingosine-1-phosphate lyase 1 OS=Homo sapiens OX=9606 GN=SGPL1 PE=1 SV=3	O95470		64 kDa		unknown	0	6	3	
+410	true	Empty	Junction plakoglobin OS=Homo sapiens OX=9606 GN=JUP PE=1 SV=3	P14923		82 kDa		unknown	2	2	2	
+411	true	Empty	Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha OS=Homo sapiens OX=9606 GN=PIP4K2A PE=1 SV=2	P48426 (+1)		46 kDa	true	unknown	0	10	0	
+412	true	Empty	Dual specificity protein kinase CLK2 OS=Homo sapiens OX=9606 GN=CLK2 PE=1 SV=1	P49760 (+2)		60 kDa	true	unknown	0	8	0	
+413	true	Empty	Small nuclear ribonucleoprotein E OS=Homo sapiens OX=9606 GN=SNRPE PE=1 SV=1	P62304		11 kDa		unknown	0	5	2	
+414	true	Empty	Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens OX=9606 GN=PPIA PE=1 SV=2	P62937		18 kDa		unknown	2	5	3	
+415	true	Empty	Receptor of activated protein C kinase 1 OS=Homo sapiens OX=9606 GN=RACK1 PE=1 SV=3	P63244		35 kDa		unknown	2	2	7	
+416	true	Empty	28S ribosomal protein S25, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS25 PE=1 SV=1	P82663		20 kDa		unknown	0	2	7	
+417	true	Empty	Splicing factor 3A subunit 1 OS=Homo sapiens OX=9606 GN=SF3A1 PE=1 SV=1	Q15459		89 kDa		unknown	6	0	0	
+418	true	Empty	MOB kinase activator 2 OS=Homo sapiens OX=9606 GN=MOB2 PE=1 SV=1	Q70IA6		27 kDa		unknown	3	0	2	
+419	true	Empty	DnaJ homolog subfamily C member 9 OS=Homo sapiens OX=9606 GN=DNAJC9 PE=1 SV=1	Q8WXX5		30 kDa		unknown	0	5	6	
+420	true	Empty	Testis-specific Y-encoded-like protein 1 OS=Homo sapiens OX=9606 GN=TSPYL1 PE=1 SV=3	Q9H0U9		49 kDa		unknown	0	2	6	
+421	true	Empty	Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens OX=9606 GN=GAPDH PE=1 SV=3	P04406		36 kDa		unknown	2	2	2	
+422	true	Empty	Cluster of Histone-binding protein RBBP7 OS=Homo sapiens OX=9606 GN=RBBP7 PE=1 SV=1 (Q16576)	Q16576 [5]		48 kDa	true	unknown	3	0	6	
+423	true	Empty	Cluster of Cleavage and polyadenylation specificity factor subunit 2 OS=Homo sapiens OX=9606 GN=CPSF2 PE=1 SV=2 (Q9P2I0)	Q9P2I0		88 kDa	true	unknown	0	9	2	
+424	true	Empty	Serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A OS=Homo sapiens OX=9606 GN=ANKRD28 PE=1 SV=5	O15084		113 kDa		unknown	5	0	3	
+425	true	Empty	NF-kappa-B-repressing factor OS=Homo sapiens OX=9606 GN=NKRF PE=1 SV=2	O15226 (+1)		78 kDa		unknown	0	0	4	
+426	true	Empty	ATP synthase subunit gamma, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5F1C PE=1 SV=1	P36542		33 kDa		unknown	0	0	5	
+427	true	Empty	Replication factor C subunit 5 OS=Homo sapiens OX=9606 GN=RFC5 PE=1 SV=1	P40937		38 kDa		unknown	0	6	5	
+428	true	Empty	DNA ligase 3 OS=Homo sapiens OX=9606 GN=LIG3 PE=1 SV=2	P49916 (+1)		113 kDa		unknown	0	10	5	
+429	true	Empty	Eukaryotic translation initiation factor 3 subunit B OS=Homo sapiens OX=9606 GN=EIF3B PE=1 SV=3	P55884 (+1)		92 kDa		unknown	3	2	3	
+430	true	Empty	Ribonuclease P protein subunit p30 OS=Homo sapiens OX=9606 GN=RPP30 PE=1 SV=1	P78346 (+1)		29 kDa		unknown	0	5	6	
+431	true	Empty	General transcription factor II-I OS=Homo sapiens OX=9606 GN=GTF2I PE=1 SV=2	P78347 (+4)		112 kDa		unknown	5	0	3	
+432	true	Empty	Cytoplasmic dynein 1 heavy chain 1 OS=Homo sapiens OX=9606 GN=DYNC1H1 PE=1 SV=5	Q14204		532 kDa		unknown	7	0	0	
+433	true	Empty	Phosphoribosyl pyrophosphate synthase-associated protein 1 OS=Homo sapiens OX=9606 GN=PRPSAP1 PE=1 SV=2	Q14558 (+1)		39 kDa	true	unknown	4	2	1	
+434	true	Empty	TGF-beta-activated kinase 1 and MAP3K7-binding protein 1 OS=Homo sapiens OX=9606 GN=TAB1 PE=1 SV=1	Q15750 (+1)		55 kDa		unknown	10	0	0	
+435	true	Empty	60S ribosomal protein L22-like 1 OS=Homo sapiens OX=9606 GN=RPL22L1 PE=1 SV=2	Q6P5R6 (+2)		15 kDa	true	unknown	2	3	3	
+436	true	Empty	Cleavage and polyadenylation specificity factor subunit 7 OS=Homo sapiens OX=9606 GN=CPSF7 PE=1 SV=1	Q8N684 (+2)		52 kDa		unknown	0	10	0	
+437	true	Empty	U5 small nuclear ribonucleoprotein 40 kDa protein OS=Homo sapiens OX=9606 GN=SNRNP40 PE=1 SV=1	Q96DI7 (+1)		39 kDa		unknown	0	13	0	
+438	true	Empty	28S rRNA (cytosine-C(5))-methyltransferase OS=Homo sapiens OX=9606 GN=NSUN5 PE=1 SV=2	Q96P11 (+2)		47 kDa		unknown	0	8	4	
+439	true	Empty	Protein pelota homolog OS=Homo sapiens OX=9606 GN=PELO PE=1 SV=2	Q9BRX2		43 kDa		unknown	0	6	6	
+440	true	Empty	Pescadillo homolog OS=Homo sapiens OX=9606 GN=PES1 PE=1 SV=1	O00541 (+2)		68 kDa		unknown	2	5	6	
+441	true	Empty	Isoform 4 of Cyclin-K OS=Homo sapiens OX=9606 GN=CCNK	O75909-4		66 kDa		unknown	0	5	3	
+442	true	Empty	Ornithine aminotransferase, mitochondrial OS=Homo sapiens OX=9606 GN=OAT PE=1 SV=1	P04181		49 kDa		unknown	4	4	2	
+443	true	Empty	Isoform GRK6B of G protein-coupled receptor kinase 6 OS=Homo sapiens OX=9606 GN=GRK6	P43250-2		67 kDa	true	unknown	0	11	0	
+444	true	Empty	Gem-associated protein 4 OS=Homo sapiens OX=9606 GN=GEMIN4 PE=1 SV=2	P57678 (+1)		120 kDa		unknown	0	2	8	
+445	true	Empty	Phosphatidylinositol 5-phosphate 4-kinase type-2 beta OS=Homo sapiens OX=9606 GN=PIP4K2B PE=1 SV=1	P78356		47 kDa	true	unknown	0	9	1	
+446	true	Empty	28S ribosomal protein S5, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS5 PE=1 SV=2	P82675		48 kDa		unknown	0	2	8	
+447	true	Empty	Nucleolar GTP-binding protein 2 OS=Homo sapiens OX=9606 GN=GNL2 PE=1 SV=1	Q13823		84 kDa		unknown	2	3	6	
+448	true	Empty	NF-kappa-B inhibitor-like protein 1 OS=Homo sapiens OX=9606 GN=NFKBIL1 PE=1 SV=2	Q5STV6 (+2)		41 kDa		unknown	0	8	3	
+449	true	Empty	Isoform 2 of Myotubularin-related protein 14 OS=Homo sapiens OX=9606 GN=MTMR14	Q8NCE2-2		67 kDa		unknown	5	0	2	
+450	true	Empty	Probable ubiquitin carboxyl-terminal hydrolase FAF-X OS=Homo sapiens OX=9606 GN=USP9X PE=1 SV=3	Q93008 (+1)		292 kDa		unknown	0	2	7	
+451	true	Empty	Protein SCAF11 OS=Homo sapiens OX=9606 GN=SCAF11 PE=1 SV=2	Q99590 (+2)		165 kDa		unknown	0	7	0	
+452	true	Empty	Poly [ADP-ribose] polymerase tankyrase-2 OS=Homo sapiens OX=9606 GN=TNKS2 PE=1 SV=1	Q9H2K2		127 kDa	true	unknown	0	2	6	
+453	true	Empty	Transducin beta-like protein 2 OS=Homo sapiens OX=9606 GN=TBL2 PE=1 SV=1	Q9Y4P3 (+1)		50 kDa		unknown	0	5	4	
+454	true	Empty	H/ACA ribonucleoprotein complex subunit 1 OS=Homo sapiens OX=9606 GN=GAR1 PE=1 SV=1	Q9NY12		22 kDa	true	unknown	0	0	2	
+455	true	Empty	Coatomer subunit epsilon OS=Homo sapiens OX=9606 GN=COPE PE=1 SV=3	O14579 (+1)		34 kDa		unknown	0	5	2	
+456	true	Empty	Protein S100-A9 OS=Homo sapiens OX=9606 GN=S100A9 PE=1 SV=1	P06702		13 kDa		unknown	4	2	3	
+457	true	Empty	Nucleolar transcription factor 1 OS=Homo sapiens OX=9606 GN=UBTF PE=1 SV=1	P17480 (+2)		89 kDa		unknown	0	0	8	
+458	true	Empty	Condensin-2 complex subunit D3 OS=Homo sapiens OX=9606 GN=NCAPD3 PE=1 SV=2	P42695		169 kDa		unknown	0	0	7	
+459	true	Empty	Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2	P51991		40 kDa	true	unknown	3	3	3	
+460	true	Empty	Tricarboxylate transport protein, mitochondrial OS=Homo sapiens OX=9606 GN=SLC25A1 PE=1 SV=2	P53007		34 kDa		unknown	0	0	6	
+461	true	Empty	Protein mago nashi homolog OS=Homo sapiens OX=9606 GN=MAGOH PE=1 SV=1	P61326 (+1)		17 kDa		unknown	0	7	5	
+462	true	Empty	Eukaryotic translation initiation factor 5A-1 OS=Homo sapiens OX=9606 GN=EIF5A PE=1 SV=2	P63241 (+3)		17 kDa		unknown	4	2	3	
+463	true	Empty	Splicing factor 1 OS=Homo sapiens OX=9606 GN=SF1 PE=1 SV=4	Q15637 (+5)		68 kDa		unknown	3	4	2	
+464	true	Empty	RNA-binding protein 26 OS=Homo sapiens OX=9606 GN=RBM26 PE=1 SV=3	Q5T8P6 (+3)		114 kDa		unknown	0	6	0	
+465	true	Empty	TRPM8 channel-associated factor 1 OS=Homo sapiens OX=9606 GN=TCAF1 PE=1 SV=3	Q9Y4C2 (+1)		102 kDa		unknown	0	5	3	
+466	true	Empty	Thioredoxin OS=Homo sapiens OX=9606 GN=TXN PE=1 SV=3	P10599		12 kDa		unknown	2	3	2	
+467	true	Empty	Peptidyl-prolyl cis-trans isomerase-like 1 OS=Homo sapiens OX=9606 GN=PPIL1 PE=1 SV=1	Q9Y3C6		18 kDa		unknown	0	2	2	
+468	true	Empty	Cluster of 28S ribosomal protein S28, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS28 PE=1 SV=1 (Q9Y2Q9)	Q9Y2Q9		21 kDa	true	unknown	0	4	5	
+469	true	Empty	Cluster of Centrosomal protein of 170 kDa OS=Homo sapiens OX=9606 GN=CEP170 PE=1 SV=1 (Q5SW79)	Q5SW79 [4]		175 kDa	true	unknown	0	7	2	
+470	true	Empty	Cluster of cDNA FLJ60124, highly similar to Mitochondrial dicarboxylate carrier OS=Homo sapiens OX=9606 PE=2 SV=1 (B4DLN1)	B4DLN1		48 kDa	true	unknown	0	0	9	
+471	true	Empty	ATP-dependent Clp protease ATP-binding subunit clpX-like, mitochondrial OS=Homo sapiens OX=9606 GN=CLPX PE=1 SV=2	O76031		69 kDa		unknown	0	4	8	
+472	true	Empty	Apoptosis-inducing factor 1, mitochondrial OS=Homo sapiens OX=9606 GN=AIFM1 PE=1 SV=1	O95831 (+1)		67 kDa		unknown	0	0	8	
+473	true	Empty	Sodium/potassium-transporting ATPase subunit alpha-1 OS=Homo sapiens OX=9606 GN=ATP1A1 PE=1 SV=1	P05023 (+2)		113 kDa		unknown	0	0	7	
+474	true	Empty	Aspartate--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=DARS1 PE=1 SV=2	P14868 (+1)		57 kDa		unknown	5	0	2	
+475	true	Empty	Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens OX=9606 GN=HNRNPA2B1 PE=1 SV=2	P22626 (+1)		37 kDa		unknown	4	2	3	
+476	true	Empty	T-complex protein 1 subunit epsilon OS=Homo sapiens OX=9606 GN=CCT5 PE=1 SV=1	P48643 (+1)		60 kDa		unknown	4	2	5	
+477	true	Empty	Fragile X mental retardation syndrome-related protein 1 OS=Homo sapiens OX=9606 GN=FXR1 PE=1 SV=3	P51114 (+2)		70 kDa	true	unknown	5	2	3	
+478	true	Empty	Ribonuclease P protein subunit p38 OS=Homo sapiens OX=9606 GN=RPP38 PE=1 SV=2	P78345		32 kDa		unknown	0	4	6	
+479	true	Empty	14-3-3 protein eta OS=Homo sapiens OX=9606 GN=YWHAH PE=1 SV=4	Q04917		28 kDa	true	unknown	0	0	10	
+480	true	Empty	Structural maintenance of chromosomes protein 1A OS=Homo sapiens OX=9606 GN=SMC1A PE=1 SV=2	Q14683		143 kDa		unknown	0	0	10	
+481	true	Empty	Non-POU domain-containing octamer-binding protein OS=Homo sapiens OX=9606 GN=NONO PE=1 SV=4	Q15233		54 kDa	true	unknown	5	1	3	
+482	true	Empty	Protein CMSS1 OS=Homo sapiens OX=9606 GN=CMSS1 PE=1 SV=2	Q9BQ75 (+1)		32 kDa		unknown	0	0	9	
+483	true	Empty	TBCC domain-containing protein 1 OS=Homo sapiens OX=9606 GN=TBCCD1 PE=1 SV=1	Q9NVR7		64 kDa		unknown	0	6	0	
+484	true	Empty	E3 ISG15--protein ligase HERC5 OS=Homo sapiens OX=9606 GN=HERC5 PE=1 SV=2	Q9UII4		117 kDa		unknown	0	4	7	
+485	true	Empty	Probable ATP-dependent RNA helicase DDX41 OS=Homo sapiens OX=9606 GN=DDX41 PE=1 SV=2	Q9UJV9		70 kDa		unknown	0	6	0	
+486	true	Empty	Cluster of Serine/threonine-protein phosphatase PP1-alpha catalytic subunit OS=Homo sapiens OX=9606 GN=PPP1CA PE=1 SV=1 (P62136)	P62136 [4]		38 kDa	true	unknown	0	0	6	
+487	true	Empty	Heat shock 70 kDa protein 4L OS=Homo sapiens OX=9606 GN=HSPA4L PE=1 SV=3	O95757 (+1)		95 kDa	true	unknown	0	0	10	
+488	true	Empty	G2/mitotic-specific cyclin-B1 OS=Homo sapiens OX=9606 GN=CCNB1 PE=1 SV=1	P14635		48 kDa		unknown	0	7	3	
+489	true	Empty	Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Homo sapiens OX=9606 GN=PCMT1 PE=1 SV=4	P22061 (+4)		25 kDa		unknown	4	2	3	
+490	true	Empty	Replication factor C subunit 3 OS=Homo sapiens OX=9606 GN=RFC3 PE=1 SV=2	P40938		41 kDa		unknown	0	7	6	
+491	true	Empty	AP-2 complex subunit sigma OS=Homo sapiens OX=9606 GN=AP2S1 PE=1 SV=2	P53680 (+2)		17 kDa		unknown	0	4	2	
+492	true	Empty	Proteasome activator complex subunit 3 OS=Homo sapiens OX=9606 GN=PSME3 PE=1 SV=1	P61289 (+4)		30 kDa		unknown	0	5	2	
+493	true	Empty	28S ribosomal protein S35, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS35 PE=1 SV=1	P82673		37 kDa		unknown	0	0	6	
+494	true	Empty	Maternal embryonic leucine zipper kinase OS=Homo sapiens OX=9606 GN=MELK PE=1 SV=3	Q14680 (+1)		75 kDa		unknown	0	5	2	
+495	true	Empty	BTB/POZ domain-containing protein KCTD2 OS=Homo sapiens OX=9606 GN=KCTD2 PE=1 SV=3	Q14681		29 kDa		unknown	3	2	2	
+496	true	Empty	Glutaminyl-peptide cyclotransferase OS=Homo sapiens OX=9606 GN=QPCT PE=1 SV=1	Q16769		41 kDa		unknown	5	2	3	
+497	true	Empty	TBC1 domain family member 10B OS=Homo sapiens OX=9606 GN=TBC1D10B PE=1 SV=3	Q4KMP7		87 kDa		unknown	0	3	0	
+498	true	Empty	Leucine-rich repeat-containing protein 59 OS=Homo sapiens OX=9606 GN=LRRC59 PE=1 SV=1	Q96AG4		35 kDa		unknown	2	5	5	
+499	true	Empty	Tubulin beta-6 chain OS=Homo sapiens OX=9606 GN=TUBB6 PE=1 SV=1	Q9BUF5		50 kDa	true	unknown	1	1	6	
+500	true	Empty	Serrate RNA effector molecule homolog OS=Homo sapiens OX=9606 GN=SRRT PE=1 SV=1	Q9BXP5 (+3)		101 kDa		unknown	0	2	4	
+501	true	Empty	Ras GTPase-activating protein-binding protein 2 OS=Homo sapiens OX=9606 GN=G3BP2 PE=1 SV=2	Q9UN86 (+1)		54 kDa	true	unknown	3	0	5	
+502	true	Empty	Probable dimethyladenosine transferase OS=Homo sapiens OX=9606 GN=DIMT1 PE=1 SV=1	Q9UNQ2 (+1)		35 kDa		unknown	0	4	6	
+503	true	Empty	Structural maintenance of chromosomes protein 3 OS=Homo sapiens OX=9606 GN=SMC3 PE=1 SV=2	Q9UQE7		142 kDa		unknown	0	0	9	
+504	true	Empty	Cluster of Polyadenylate-binding protein 2 OS=Homo sapiens OX=9606 GN=PABPN1 PE=1 SV=3 (Q86U42)	Q86U42 [5]		33 kDa	true	unknown	0	3	3	
+505	true	Empty	Importin subunit alpha-3 OS=Homo sapiens OX=9606 GN=KPNA4 PE=1 SV=1	O00629		58 kDa	true	unknown	0	8	3	
+506	true	Empty	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2 OS=Homo sapiens OX=9606 GN=PFKFB2 PE=1 SV=2	O60825 (+1)		58 kDa	true	unknown	4	0	1	
+507	true	Empty	Structural maintenance of chromosomes protein 2 OS=Homo sapiens OX=9606 GN=SMC2 PE=1 SV=2	O95347		136 kDa		unknown	0	3	6	
+508	true	Empty	Alpha-amylase 1 OS=Homo sapiens OX=9606 GN=AMY1A PE=1 SV=2	P04745		58 kDa		unknown	7	0	0	
+509	true	Empty	ATP synthase subunit beta, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5F1B PE=1 SV=3	P06576		57 kDa		unknown	2	0	8	
+510	true	Empty	U2 small nuclear ribonucleoprotein B'' OS=Homo sapiens OX=9606 GN=SNRPB2 PE=1 SV=1	P08579		25 kDa	true	unknown	3	2	2	
+511	true	Empty	ATP-binding cassette sub-family D member 3 OS=Homo sapiens OX=9606 GN=ABCD3 PE=1 SV=1	P28288 (+1)		75 kDa		unknown	2	2	4	
+512	true	Empty	28S ribosomal protein S15, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS15 PE=1 SV=1	P82914		30 kDa		unknown	0	0	3	
+513	true	Empty	General transcription factor 3C polypeptide 1 OS=Homo sapiens OX=9606 GN=GTF3C1 PE=1 SV=4	Q12789 (+1)		239 kDa		unknown	0	4	2	
+514	true	Empty	Elongin-B OS=Homo sapiens OX=9606 GN=ELOB PE=1 SV=1	Q15370 (+2)		13 kDa		unknown	0	7	2	
+515	true	Empty	Transcription factor E2F7 OS=Homo sapiens OX=9606 GN=E2F7 PE=1 SV=3	Q96AV8 (+3)		100 kDa		unknown	5	0	5	
+516	true	Empty	Cyclin-L2 OS=Homo sapiens OX=9606 GN=CCNL2 PE=1 SV=1	Q96S94		58 kDa	true	unknown	0	6	0	
+517	true	Empty	3-hydroxyacyl-CoA dehydrogenase type-2 OS=Homo sapiens OX=9606 GN=HSD17B10 PE=1 SV=3	Q99714		27 kDa		unknown	2	2	4	
+518	true	Empty	Spindlin interactor and repressor of chromatin-binding protein OS=Homo sapiens OX=9606 GN=SPINDOC PE=1 SV=3	Q9BUA3		41 kDa		unknown	7	0	0	
+519	true	Empty	Activator of basal transcription 1 OS=Homo sapiens OX=9606 GN=ABT1 PE=1 SV=1	Q9ULW3		31 kDa		unknown	0	7	2	
+520	true	Empty	RNA-binding protein NOB1 OS=Homo sapiens OX=9606 GN=NOB1 PE=1 SV=1	Q9ULX3		47 kDa		unknown	2	0	3	
+521	true	Empty	Nitric oxide synthase-interacting protein OS=Homo sapiens OX=9606 GN=NOSIP PE=1 SV=1	Q9Y314 (+1)		33 kDa		unknown	0	4	0	
+522	true	Empty	Sorting nexin-8 OS=Homo sapiens OX=9606 GN=SNX8 PE=1 SV=1	Q9Y5X2		53 kDa		unknown	0	5	0	
+523	true	Empty	CAD protein OS=Homo sapiens OX=9606 GN=CAD PE=1 SV=3	P27708 (+1)		243 kDa		unknown	2	0	3	
+524	true	Empty	Transcriptional repressor protein YY1 OS=Homo sapiens OX=9606 GN=YY1 PE=1 SV=2	P25490 (+1)		45 kDa		unknown	3	2	2	
+525	true	Empty	Cluster of WD repeat-containing protein 26 OS=Homo sapiens OX=9606 GN=WDR26 PE=1 SV=3 (Q9H7D7)	Q9H7D7 [3]		72 kDa	true	unknown	6	0	0	
+526	true	Empty	Cluster of ATPase MORC2 OS=Homo sapiens OX=9606 GN=MORC2 PE=1 SV=2 (Q9Y6X9)	Q9Y6X9 [2]		118 kDa	true	unknown	0	6	0	
+527	true	Empty	Phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform OS=Homo sapiens OX=9606 GN=PHKA1 PE=1 SV=2	P46020 (+4)		137 kDa	true	unknown	7	0	0	
+528	true	Empty	Glycogen synthase kinase-3 beta OS=Homo sapiens OX=9606 GN=GSK3B PE=1 SV=2	P49841 (+2)		47 kDa		unknown	0	6	2	
+529	true	Empty	Arginine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=RARS1 PE=1 SV=2	P54136 (+1)		75 kDa		unknown	5	0	2	
+530	true	Empty	Serine/arginine-rich splicing factor 6 OS=Homo sapiens OX=9606 GN=SRSF6 PE=1 SV=2	Q13247 (+5)		40 kDa	true	unknown	0	2	3	
+531	true	Empty	Elongin-C OS=Homo sapiens OX=9606 GN=ELOC PE=1 SV=1	Q15369 (+2)		12 kDa		unknown	0	4	3	
+532	true	Empty	RNA cytidine acetyltransferase OS=Homo sapiens OX=9606 GN=NAT10 PE=1 SV=2	Q9H0A0		116 kDa		unknown	0	0	3	
+533	true	Empty	Probable ATP-dependent RNA helicase DDX6 OS=Homo sapiens OX=9606 GN=DDX6 PE=1 SV=2	P26196		54 kDa		unknown	2	2	3	
+534	true	Empty	Replication factor C subunit 2 OS=Homo sapiens OX=9606 GN=RFC2 PE=1 SV=3	P35250 (+1)		39 kDa		unknown	0	3	2	
+535	true	Empty	Leydig cell tumor 10 kDa protein homolog OS=Homo sapiens OX=9606 GN=C19orf53 PE=1 SV=1	Q9UNZ5		11 kDa		unknown	2	0	0	
+536	true	Empty	Trypsin-1 OS=Homo sapiens OX=9606 GN=PRSS1 PE=1 SV=1	P07477 (+2)		27 kDa		unknown	2	2	2	
+537	true	Empty	Cluster of Importin subunit alpha-5 OS=Homo sapiens OX=9606 GN=KPNA1 PE=1 SV=3 (P52294)	P52294		60 kDa	true	unknown	0	0	3	
+538	true	Empty	Cluster of Cyclin-dependent kinase 12 OS=Homo sapiens OX=9606 GN=CDK12 PE=1 SV=2 (Q9NYV4)	Q9NYV4 [6]		164 kDa	true	unknown	0	7	0	
+539	true	Empty	Serine/threonine-protein phosphatase 6 catalytic subunit OS=Homo sapiens OX=9606 GN=PPP6C PE=1 SV=1	O00743 (+1)		35 kDa		unknown	5	0	5	
+540	true	Empty	Isoform Short of 14-3-3 protein beta/alpha OS=Homo sapiens OX=9606 GN=YWHAB	P31946-2		28 kDa	true	unknown	1	2	5	
+541	true	Empty	DNA mismatch repair protein Msh6 OS=Homo sapiens OX=9606 GN=MSH6 PE=1 SV=2	P52701 (+1)		153 kDa		unknown	0	0	5	
+542	true	Empty	6-pyruvoyl tetrahydrobiopterin synthase OS=Homo sapiens OX=9606 GN=PTS PE=1 SV=1	Q03393		16 kDa		unknown	3	0	0	
+543	true	Empty	Splicing factor, suppressor of white-apricot homolog OS=Homo sapiens OX=9606 GN=SFSWAP PE=1 SV=3	Q12872 (+1)		105 kDa		unknown	0	5	0	
+544	true	Empty	Eukaryotic translation initiation factor 3 subunit A OS=Homo sapiens OX=9606 GN=EIF3A PE=1 SV=1	Q14152		167 kDa		unknown	4	0	0	
+545	true	Empty	Importin subunit beta-1 OS=Homo sapiens OX=9606 GN=KPNB1 PE=1 SV=2	Q14974		97 kDa		unknown	3	0	3	
+546	true	Empty	ORC ubiquitin ligase 1 OS=Homo sapiens OX=9606 GN=OBI1 PE=1 SV=1	Q5W0B1		81 kDa		unknown	6	0	0	
+547	true	Empty	E3 ubiquitin-protein ligase RBBP6 OS=Homo sapiens OX=9606 GN=RBBP6 PE=1 SV=1	Q7Z6E9 (+2)		202 kDa		unknown	0	7	0	
+548	true	Empty	E3 ubiquitin-protein ligase RNF138 OS=Homo sapiens OX=9606 GN=RNF138 PE=1 SV=1	Q8WVD3		28 kDa		unknown	0	4	4	
+549	true	Empty	Isoform 2 of Splicing regulatory glutamine/lysine-rich protein 1 OS=Homo sapiens OX=9606 GN=SREK1	Q8WXA9-2		72 kDa		unknown	0	8	0	
+550	true	Empty	Coiled-coil-helix-coiled-coil-helix domain-containing protein 2 OS=Homo sapiens OX=9606 GN=CHCHD2 PE=1 SV=1	Q9Y6H1		16 kDa		unknown	0	3	3	
+551	true	Empty	T-complex protein 1 subunit zeta OS=Homo sapiens OX=9606 GN=CCT6A PE=1 SV=3	P40227		58 kDa		unknown	0	0	2	
+552	true	Empty	Eukaryotic translation initiation factor 3 subunit E OS=Homo sapiens OX=9606 GN=EIF3E PE=1 SV=1	P60228		52 kDa		unknown	2	0	3	
+553	true	Empty	Exportin-1 OS=Homo sapiens OX=9606 GN=XPO1 PE=1 SV=1	O14980		123 kDa		unknown	0	0	6	
+554	true	Empty	Serine palmitoyltransferase 1 OS=Homo sapiens OX=9606 GN=SPTLC1 PE=1 SV=1	O15269		53 kDa		unknown	0	0	9	
+555	true	Empty	G2/mitotic-specific cyclin-B2 OS=Homo sapiens OX=9606 GN=CCNB2 PE=1 SV=1	O95067		45 kDa		unknown	0	6	0	
+556	true	Empty	39S ribosomal protein L3, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL3 PE=1 SV=1	P09001 (+2)		39 kDa		unknown	0	0	3	
+557	true	Empty	Y-box-binding protein 3 OS=Homo sapiens OX=9606 GN=YBX3 PE=1 SV=4	P16989		40 kDa	true	unknown	0	0	3	
+558	true	Empty	ADP-ribosylation factor 4 OS=Homo sapiens OX=9606 GN=ARF4 PE=1 SV=3	P18085		21 kDa		unknown	2	0	4	
+559	true	Empty	Proteasome subunit alpha type-3 OS=Homo sapiens OX=9606 GN=PSMA3 PE=1 SV=2	P25788 (+1)		28 kDa		unknown	0	0	6	
+560	true	Empty	Desmoglein-1 OS=Homo sapiens OX=9606 GN=DSG1 PE=1 SV=2	Q02413		114 kDa		unknown	5	0	0	
+561	true	Empty	28S ribosomal protein S24, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS24 PE=1 SV=1	Q96EL2		19 kDa		unknown	0	3	4	
+562	true	Empty	Dual specificity protein kinase CLK4 OS=Homo sapiens OX=9606 GN=CLK4 PE=1 SV=1	Q9HAZ1		57 kDa	true	unknown	0	8	0	
+563	true	Empty	RNA-binding protein PNO1 OS=Homo sapiens OX=9606 GN=PNO1 PE=1 SV=1	Q9NRX1		28 kDa		unknown	0	0	3	
+564	true	Empty	Very-long-chain enoyl-CoA reductase OS=Homo sapiens OX=9606 GN=TECR PE=1 SV=1	Q9NZ01		36 kDa		unknown	0	0	6	
+565	true	Empty	Hsp70-binding protein 1 OS=Homo sapiens OX=9606 GN=HSPBP1 PE=1 SV=2	Q9NZL4 (+1)		39 kDa		unknown	0	0	7	
+566	true	Empty	Rabankyrin-5 OS=Homo sapiens OX=9606 GN=ANKFY1 PE=1 SV=2	Q9P2R3 (+2)		128 kDa		unknown	3	0	2	
+567	true	Empty	Probable ATP-dependent RNA helicase DDX20 OS=Homo sapiens OX=9606 GN=DDX20 PE=1 SV=2	Q9UHI6		92 kDa		unknown	0	2	7	
+568	true	Empty	Cyclin-L1 OS=Homo sapiens OX=9606 GN=CCNL1 PE=1 SV=1	Q9UK58 (+1)		60 kDa	true	unknown	0	6	0	
+569	true	Empty	Structural maintenance of chromosomes protein 4 OS=Homo sapiens OX=9606 GN=SMC4 PE=1 SV=2	Q9NTJ3 (+1)		147 kDa		unknown	0	2	3	
+570	true	Empty	RNA-binding protein 8A OS=Homo sapiens OX=9606 GN=RBM8A PE=1 SV=1	Q9Y5S9 (+1)		20 kDa		unknown	0	2	2	
+571	true	Empty	Cluster of Phenylalanine--tRNA ligase alpha subunit OS=Homo sapiens OX=9606 GN=FARSA PE=1 SV=3 (Q9Y285)	Q9Y285 [2]		58 kDa	true	unknown	0	0	5	
+572	true	Empty	Exportin-T OS=Homo sapiens OX=9606 GN=XPOT PE=1 SV=2	O43592		110 kDa		unknown	0	0	8	
+573	true	Empty	Dolichol-phosphate mannosyltransferase subunit 1 OS=Homo sapiens OX=9606 GN=DPM1 PE=1 SV=1	O60762 (+1)		30 kDa		unknown	0	0	6	
+574	true	Empty	Cellular tumor antigen p53 OS=Homo sapiens OX=9606 GN=TP53 PE=1 SV=4	P04637 (+2)		44 kDa		unknown	0	4	0	
+575	true	Empty	S-adenosylmethionine synthase isoform type-2 OS=Homo sapiens OX=9606 GN=MAT2A PE=1 SV=1	P31153		44 kDa		unknown	4	0	2	
+576	true	Empty	Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=2	Q8N1F7		93 kDa		unknown	0	0	4	
+577	true	Empty	eIF-2-alpha kinase activator GCN1 OS=Homo sapiens OX=9606 GN=GCN1 PE=1 SV=6	Q92616		293 kDa		unknown	0	0	7	
+578	true	Empty	39S ribosomal protein L44, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL44 PE=1 SV=1	Q9H9J2		38 kDa		unknown	0	2	5	
+579	true	Empty	Arginine and glutamate-rich protein 1 OS=Homo sapiens OX=9606 GN=ARGLU1 PE=1 SV=1	Q9NWB6 (+1)		33 kDa		unknown	2	4	0	
+580	true	Empty	Cleavage and polyadenylation specificity factor subunit 3 OS=Homo sapiens OX=9606 GN=CPSF3 PE=1 SV=1	Q9UKF6		77 kDa		unknown	0	6	2	
+581	true	Empty	Nucleolar protein 16 OS=Homo sapiens OX=9606 GN=NOP16 PE=1 SV=2	Q9Y3C1		21 kDa		unknown	0	2	3	
+582	true	Empty	28S ribosomal protein S16, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS16 PE=1 SV=1	Q9Y3D3		15 kDa		unknown	0	4	4	
+583	true	Empty	Ribonuclease P protein subunit p40 OS=Homo sapiens OX=9606 GN=RPP40 PE=1 SV=3	O75818 (+2)		42 kDa		unknown	0	0	2	
+584	true	Empty	Periodic tryptophan protein 1 homolog OS=Homo sapiens OX=9606 GN=PWP1 PE=1 SV=1	Q13610		56 kDa		unknown	0	0	3	
+585	true	Empty	Ribosomal RNA processing protein 1 homolog A OS=Homo sapiens OX=9606 GN=RRP1 PE=1 SV=1	P56182		53 kDa		unknown	0	2	0	
+586	true	Empty	Serine/arginine repetitive matrix protein 1 OS=Homo sapiens OX=9606 GN=SRRM1 PE=1 SV=1	A9Z1X7		103 kDa		unknown	0	4	0	
+587	true	Empty	E3 ubiquitin-protein ligase Midline-1 OS=Homo sapiens OX=9606 GN=MID1 PE=1 SV=1	O15344 (+3)		75 kDa		unknown	0	4	2	
+588	true	Empty	ERI1 exoribonuclease 3 OS=Homo sapiens OX=9606 GN=ERI3 PE=1 SV=2	O43414 (+3)		37 kDa		unknown	0	4	2	
+589	true	Empty	Slit homolog 2 protein OS=Homo sapiens OX=9606 GN=SLIT2 PE=1 SV=1	O94813 (+3)		170 kDa		unknown	0	4	0	
+590	true	Empty	Protein disulfide-isomerase OS=Homo sapiens OX=9606 GN=P4HB PE=1 SV=3	P07237 (+1)		57 kDa		unknown	4	0	0	
+591	true	Empty	Caspase-14 OS=Homo sapiens OX=9606 GN=CASP14 PE=1 SV=2	P31944		28 kDa		unknown	5	0	0	
+592	true	Empty	ATP synthase subunit O, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5PO PE=1 SV=1	P48047		23 kDa		unknown	0	2	4	
+593	true	Empty	Dermcidin OS=Homo sapiens OX=9606 GN=DCD PE=1 SV=2	P81605		11 kDa		unknown	2	0	3	
+594	true	Empty	Isoform 2 of Serine/arginine-rich splicing factor 3 OS=Homo sapiens OX=9606 GN=SRSF3	P84103-2		14 kDa	true	unknown	0	4	2	
+595	true	Empty	Cytoskeleton-associated protein 4 OS=Homo sapiens OX=9606 GN=CKAP4 PE=1 SV=2	Q07065		66 kDa		unknown	0	0	5	
+596	true	Empty	Ribosome biogenesis protein BOP1 OS=Homo sapiens OX=9606 GN=BOP1 PE=1 SV=2	Q14137 (+1)		84 kDa		unknown	0	3	5	
+597	true	Empty	Cysteine and glycine-rich protein 2 OS=Homo sapiens OX=9606 GN=CSRP2 PE=1 SV=3	Q16527 (+2)		21 kDa		unknown	4	0	2	
+598	true	Empty	Nucleolar MIF4G domain-containing protein 1 OS=Homo sapiens OX=9606 GN=NOM1 PE=1 SV=1	Q5C9Z4		96 kDa		unknown	0	0	6	
+599	true	Empty	tRNA wybutosine-synthesizing protein 3 homolog OS=Homo sapiens OX=9606 GN=TYW3 PE=1 SV=2	Q6IPR3		30 kDa		unknown	0	4	3	
+600	true	Empty	Pre-mRNA 3'-end-processing factor FIP1 OS=Homo sapiens OX=9606 GN=FIP1L1 PE=1 SV=1	Q6UN15 (+2)		67 kDa		unknown	0	4	2	
+601	true	Empty	TRMT1-like protein OS=Homo sapiens OX=9606 GN=TRMT1L PE=1 SV=2	Q7Z2T5		82 kDa		unknown	0	3	2	
+602	true	Empty	MAP7 domain-containing protein 3 OS=Homo sapiens OX=9606 GN=MAP7D3 PE=1 SV=2	Q8IWC1 (+1)		98 kDa		unknown	3	0	2	
+603	true	Empty	Phosphorylase b kinase regulatory subunit beta OS=Homo sapiens OX=9606 GN=PHKB PE=1 SV=3	Q93100 (+3)		125 kDa		unknown	5	0	0	
+604	true	Empty	AP-1 complex subunit mu-1 OS=Homo sapiens OX=9606 GN=AP1M1 PE=1 SV=3	Q9BXS5 (+2)		49 kDa		unknown	0	0	6	
+605	true	Empty	Pre-mRNA-splicing factor SYF1 OS=Homo sapiens OX=9606 GN=XAB2 PE=1 SV=2	Q9HCS7		100 kDa		unknown	0	3	0	
+606	true	Empty	ATP-dependent RNA helicase DDX18 OS=Homo sapiens OX=9606 GN=DDX18 PE=1 SV=2	Q9NVP1		75 kDa		unknown	0	2	0	
+607	true	Empty	tRNA pseudouridine synthase A OS=Homo sapiens OX=9606 GN=PUS1 PE=1 SV=3	Q9Y606 (+3)		47 kDa		unknown	0	6	0	
+608	true	Empty	ATP-dependent RNA helicase DDX50 OS=Homo sapiens OX=9606 GN=DDX50 PE=1 SV=1	Q9BQ39		83 kDa	true	unknown	0	3	3	
+609	true	Empty	Chromatin target of PRMT1 protein OS=Homo sapiens OX=9606 GN=CHTOP PE=1 SV=2	Q9Y3Y2 (+3)		26 kDa		unknown	0	0	4	
+610	true	Empty	26S proteasome regulatory subunit 8 OS=Homo sapiens OX=9606 GN=PSMC5 PE=1 SV=1	P62195 (+1)		46 kDa	true	unknown	2	0	0	
+611	true	Empty	Cluster of Forkhead box protein K2 OS=Homo sapiens OX=9606 GN=FOXK2 PE=1 SV=3 (Q01167)	Q01167 [2]		69 kDa	true	unknown	0	4	0	
+612	true	Empty	Insulin-like growth factor 2 mRNA-binding protein 3 OS=Homo sapiens OX=9606 GN=IGF2BP3 PE=1 SV=2	O00425		64 kDa	true	unknown	0	1	4	
+613	true	Empty	Serine/threonine-protein kinase Chk1 OS=Homo sapiens OX=9606 GN=CHEK1 PE=1 SV=2	O14757 (+2)		54 kDa		unknown	0	7	0	
+614	true	Empty	Heterogeneous nuclear ribonucleoprotein D-like OS=Homo sapiens OX=9606 GN=HNRNPDL PE=1 SV=3	O14979 (+3)		46 kDa	true	unknown	1	3	3	
+615	true	Empty	26S proteasome non-ATPase regulatory subunit 3 OS=Homo sapiens OX=9606 GN=PSMD3 PE=1 SV=2	O43242		61 kDa		unknown	2	0	3	
+616	true	Empty	CLIP-associating protein 2 OS=Homo sapiens OX=9606 GN=CLASP2 PE=1 SV=3	O75122 (+2)		141 kDa		unknown	3	0	0	
+617	true	Empty	Pre-mRNA-splicing factor SLU7 OS=Homo sapiens OX=9606 GN=SLU7 PE=1 SV=2	O95391		68 kDa		unknown	0	0	7	
+618	true	Empty	Plastin-3 OS=Homo sapiens OX=9606 GN=PLS3 PE=1 SV=4	P13797 (+1)		71 kDa		unknown	3	0	0	
+619	true	Empty	Protein DEK OS=Homo sapiens OX=9606 GN=DEK PE=1 SV=1	P35659 (+2)		43 kDa		unknown	0	5	0	
+620	true	Empty	Monocarboxylate transporter 1 OS=Homo sapiens OX=9606 GN=SLC16A1 PE=1 SV=3	P53985		54 kDa		unknown	0	0	4	
+621	true	Empty	Serine/arginine-rich splicing factor 1 OS=Homo sapiens OX=9606 GN=SRSF1 PE=1 SV=2	Q07955 (+3)		28 kDa		unknown	0	3	4	
+622	true	Empty	Spliceosome RNA helicase DDX39B OS=Homo sapiens OX=9606 GN=DDX39B PE=1 SV=1	Q13838 (+4)		49 kDa		unknown	0	3	2	
+623	true	Empty	Probable ATP-dependent RNA helicase DDX46 OS=Homo sapiens OX=9606 GN=DDX46 PE=1 SV=2	Q7L014 (+1)		117 kDa		unknown	0	4	0	
+624	true	Empty	E3 ubiquitin-protein transferase MAEA OS=Homo sapiens OX=9606 GN=MAEA PE=1 SV=1	Q7L5Y9		45 kDa		unknown	5	0	0	
+625	true	Empty	Regulator of nonsense transcripts 1 OS=Homo sapiens OX=9606 GN=UPF1 PE=1 SV=2	Q92900 (+1)		124 kDa		unknown	0	4	0	
+626	true	Empty	Target of EGR1 protein 1 OS=Homo sapiens OX=9606 GN=TOE1 PE=1 SV=1	Q96GM8		57 kDa		unknown	0	3	2	
+627	true	Empty	39S ribosomal protein L15, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL15 PE=1 SV=1	Q9P015		33 kDa		unknown	0	3	2	
+628	true	Empty	Calcium-binding mitochondrial carrier protein Aralar2 OS=Homo sapiens OX=9606 GN=SLC25A13 PE=1 SV=2	Q9UJS0 (+1)		74 kDa	true	unknown	0	0	5	
+629	true	Empty	Cell division cycle protein 23 homolog OS=Homo sapiens OX=9606 GN=CDC23 PE=1 SV=3	Q9UJX2		69 kDa		unknown	0	0	5	
+630	true	Empty	U6 snRNA-associated Sm-like protein LSm2 OS=Homo sapiens OX=9606 GN=LSM2 PE=1 SV=1	Q9Y333		11 kDa		unknown	0	4	0	
+631	true	Empty	Serine/arginine-rich splicing factor 5 OS=Homo sapiens OX=9606 GN=SRSF5 PE=1 SV=1	Q13243 (+1)		31 kDa	true	unknown	0	2	2	
+632	true	Empty	Heterogeneous nuclear ribonucleoprotein U-like protein 1 OS=Homo sapiens OX=9606 GN=HNRNPUL1 PE=1 SV=2	Q9BUJ2 (+4)		96 kDa		unknown	0	0	2	
+633	true	Empty	U3 small nucleolar RNA-associated protein 14 homolog A OS=Homo sapiens OX=9606 GN=UTP14A PE=1 SV=1	Q9BVJ6 (+1)		88 kDa		unknown	0	2	4	
+634	true	Empty	RNA-binding protein 3 OS=Homo sapiens OX=9606 GN=RBM3 PE=1 SV=1	P98179		17 kDa		unknown	3	0	0	
+635	true	Empty	Lysine--tRNA ligase OS=Homo sapiens OX=9606 GN=KARS1 PE=1 SV=3	Q15046 (+1)		68 kDa		unknown	2	0	0	
+636	true	Empty	U1 small nuclear ribonucleoprotein A OS=Homo sapiens OX=9606 GN=SNRPA PE=1 SV=3	P09012		31 kDa	true	unknown	0	2	1	
+637	true	Empty	Cyclin-dependent kinase 10 OS=Homo sapiens OX=9606 GN=CDK10 PE=1 SV=1	Q15131 (+5)		41 kDa		unknown	0	2	0	
+638	true	Empty	Probable ATP-dependent RNA helicase DDX52 OS=Homo sapiens OX=9606 GN=DDX52 PE=1 SV=3	Q9Y2R4		68 kDa		unknown	0	0	2	
+639	true	Empty	Cluster of Dynein light chain 2, cytoplasmic OS=Homo sapiens OX=9606 GN=DYNLL2 PE=1 SV=1 (Q96FJ2)	Q96FJ2 [2]		10 kDa	true	unknown	0	3	3	
+640	true	Empty	Cluster of DnaJ homolog subfamily B member 6 OS=Homo sapiens OX=9606 GN=DNAJB6 PE=1 SV=2 (O75190)	O75190 [2]		36 kDa	true	unknown	0	0	6	
+641	true	Empty	HIV Tat-specific factor 1 OS=Homo sapiens OX=9606 GN=HTATSF1 PE=1 SV=1	O43719		86 kDa		unknown	3	4	0	
+642	true	Empty	Katanin p60 ATPase-containing subunit A1 OS=Homo sapiens OX=9606 GN=KATNA1 PE=1 SV=1	O75449		56 kDa		unknown	0	5	0	
+643	true	Empty	Heterogeneous nuclear ribonucleoprotein L OS=Homo sapiens OX=9606 GN=HNRNPL PE=1 SV=2	P14866 (+3)		64 kDa	true	unknown	3	0	0	
+644	true	Empty	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 OS=Homo sapiens OX=9606 GN=ATP2A2 PE=1 SV=1	P16615		115 kDa		unknown	0	0	7	
+645	true	Empty	Protein AF-9 OS=Homo sapiens OX=9606 GN=MLLT3 PE=1 SV=2	P42568 (+1)		63 kDa		unknown	0	0	4	
+646	true	Empty	Protein numb homolog OS=Homo sapiens OX=9606 GN=NUMB PE=1 SV=2	P49757 (+3)		71 kDa		unknown	0	4	0	
+647	true	Empty	14-3-3 protein gamma OS=Homo sapiens OX=9606 GN=YWHAG PE=1 SV=2	P61981		28 kDa	true	unknown	0	0	4	
+648	true	Empty	pre-rRNA 2'-O-ribose RNA methyltransferase FTSJ3 OS=Homo sapiens OX=9606 GN=FTSJ3 PE=1 SV=2	Q8IY81		97 kDa		unknown	0	2	4	
+649	true	Empty	WD repeat-containing protein 20 OS=Homo sapiens OX=9606 GN=WDR20 PE=1 SV=2	Q8TBZ3 (+5)		63 kDa		unknown	0	6	2	
+650	true	Empty	PHD finger protein 3 OS=Homo sapiens OX=9606 GN=PHF3 PE=1 SV=3	Q92576 (+1)		229 kDa		unknown	0	3	0	
+651	true	Empty	Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha OS=Homo sapiens OX=9606 GN=PIP5K1A PE=1 SV=1	Q99755 (+4)		63 kDa		unknown	0	6	0	
+652	true	Empty	RNA-binding protein 42 OS=Homo sapiens OX=9606 GN=RBM42 PE=1 SV=1	Q9BTD8 (+4)		50 kDa		unknown	0	4	2	
+653	true	Empty	Katanin p80 WD40 repeat-containing subunit B1 OS=Homo sapiens OX=9606 GN=KATNB1 PE=1 SV=1	Q9BVA0		72 kDa		unknown	0	4	0	
+654	true	Empty	Histone-lysine N-methyltransferase SETD2 OS=Homo sapiens OX=9606 GN=SETD2 PE=1 SV=3	Q9BYW2 (+3)		288 kDa		unknown	0	2	0	
+655	true	Empty	39S ribosomal protein L47, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL47 PE=1 SV=2	Q9HD33 (+1)		29 kDa		unknown	0	3	4	
+656	true	Empty	Anaphase-promoting complex subunit 5 OS=Homo sapiens OX=9606 GN=ANAPC5 PE=1 SV=2	Q9UJX4 (+1)		85 kDa		unknown	0	0	5	
+657	true	Empty	Ubiquitin carboxyl-terminal hydrolase 15 OS=Homo sapiens OX=9606 GN=USP15 PE=1 SV=3	Q9Y4E8 (+2)		112 kDa		unknown	4	0	0	
+658	true	Empty	Protein PRRC2A OS=Homo sapiens OX=9606 GN=PRRC2A PE=1 SV=3	P48634 (+3)		229 kDa		unknown	0	0	4	
+659	true	Empty	Helicase MOV-10 OS=Homo sapiens OX=9606 GN=MOV10 PE=1 SV=1	Q5JR04 (+1)		107 kDa		unknown	0	0	4	
+660	true	Empty	39S ribosomal protein L17, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL17 PE=1 SV=1	Q9NRX2		20 kDa		unknown	0	0	2	
+661	true	Empty	39S ribosomal protein L48, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL48 PE=1 SV=2	Q96GC5 (+2)		24 kDa		unknown	0	3	0	
+662	true	Empty	26S proteasome non-ATPase regulatory subunit 2 OS=Homo sapiens OX=9606 GN=PSMD2 PE=1 SV=3	Q13200 (+1)		100 kDa		unknown	2	0	3	
+663	true	Empty	U3 small nucleolar RNA-associated protein 15 homolog OS=Homo sapiens OX=9606 GN=UTP15 PE=1 SV=3	Q8TED0 (+2)		58 kDa		unknown	0	2	0	
+664	true	Empty	39S ribosomal protein L38, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL38 PE=1 SV=2	Q96DV4		45 kDa		unknown	0	0	2	
+665	true	Empty	39S ribosomal protein L16, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL16 PE=1 SV=1	Q9NX20		28 kDa		unknown	0	0	2	
+666	true	Empty	Zinc finger CCCH-type antiviral protein 1 OS=Homo sapiens OX=9606 GN=ZC3HAV1 PE=1 SV=3	Q7Z2W4 (+2)		101 kDa		unknown	0	2	2	
+667	true	Empty	Cluster of Glutamine--tRNA ligase OS=Homo sapiens OX=9606 GN=QARS1 PE=1 SV=1 (P47897)	P47897 [3]		88 kDa	true	unknown	2	0	0	
+668	true	Empty	BAG family molecular chaperone regulator 2 OS=Homo sapiens OX=9606 GN=BAG2 PE=1 SV=1	O95816		24 kDa		unknown	0	0	5	
+669	true	Empty	Eukaryotic translation initiation factor 2 subunit 1 OS=Homo sapiens OX=9606 GN=EIF2S1 PE=1 SV=3	P05198		36 kDa		unknown	0	5	0	
+670	true	Empty	Eukaryotic translation initiation factor 2 subunit 2 OS=Homo sapiens OX=9606 GN=EIF2S2 PE=1 SV=2	P20042		38 kDa		unknown	0	5	0	
+671	true	Empty	Cyclin-dependent kinase 9 OS=Homo sapiens OX=9606 GN=CDK9 PE=1 SV=3	P50750 (+1)		43 kDa	true	unknown	0	4	3	
+672	true	Empty	Selenocysteine-specific elongation factor OS=Homo sapiens OX=9606 GN=EEFSEC PE=1 SV=4	P57772 (+1)		65 kDa		unknown	0	4	2	
+673	true	Empty	U7 snRNA-associated Sm-like protein LSm11 OS=Homo sapiens OX=9606 GN=LSM11 PE=1 SV=2	P83369		40 kDa		unknown	4	0	0	
+674	true	Empty	39S ribosomal protein L28, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL28 PE=1 SV=4	Q13084		30 kDa		unknown	0	0	2	
+675	true	Empty	Programmed cell death protein 2 OS=Homo sapiens OX=9606 GN=PDCD2 PE=1 SV=2	Q16342 (+1)		39 kDa		unknown	0	5	0	
+676	true	Empty	Very-long-chain 3-oxoacyl-CoA reductase OS=Homo sapiens OX=9606 GN=HSD17B12 PE=1 SV=2	Q53GQ0		34 kDa		unknown	0	0	4	
+677	true	Empty	Tetratricopeptide repeat protein 27 OS=Homo sapiens OX=9606 GN=TTC27 PE=1 SV=1	Q6P3X3		97 kDa		unknown	0	0	3	
+678	true	Empty	Probable RNA-binding protein 23 OS=Homo sapiens OX=9606 GN=RBM23 PE=1 SV=1	Q86U06 (+2)		49 kDa	true	unknown	0	4	1	
+679	true	Empty	Ran-binding protein 9 OS=Homo sapiens OX=9606 GN=RANBP9 PE=1 SV=1	Q96S59		78 kDa		unknown	3	0	0	
+680	true	Empty	Threonine--tRNA ligase, mitochondrial OS=Homo sapiens OX=9606 GN=TARS2 PE=1 SV=1	Q9BW92		81 kDa		unknown	0	0	4	
+681	true	Empty	SAFB-like transcription modulator OS=Homo sapiens OX=9606 GN=SLTM PE=1 SV=2	Q9NWH9		117 kDa		unknown	0	3	0	
+682	true	Empty	28S ribosomal protein S18b, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS18B PE=1 SV=1	Q9Y676		29 kDa		unknown	0	0	4	
+683	true	Empty	F-box only protein 5 OS=Homo sapiens OX=9606 GN=FBXO5 PE=1 SV=1	Q9UKT4 (+1)		50 kDa		unknown	0	3	0	
+684	true	Empty	Importin-8 OS=Homo sapiens OX=9606 GN=IPO8 PE=1 SV=2	O15397		120 kDa		unknown	3	0	3	
+685	true	Empty	Transcriptional activator protein Pur-alpha OS=Homo sapiens OX=9606 GN=PURA PE=1 SV=2	Q00577		35 kDa		unknown	0	0	3	
+686	true	Empty	Leucine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=LARS1 PE=1 SV=2	Q9P2J5		134 kDa		unknown	2	0	0	
+687	true	Empty	Isoform 1 of Four and a half LIM domains protein 1 OS=Homo sapiens OX=9606 GN=FHL1	Q13642-1 (+2)		32 kDa		unknown	2	2	2	
+688	true	Empty	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform OS=Homo sapiens OX=9606 GN=PPP2R2A PE=1 SV=1	P63151 (+1)		52 kDa		unknown	0	0	2	
+689	true	Empty	Heterogeneous nuclear ribonucleoprotein A0 OS=Homo sapiens OX=9606 GN=HNRNPA0 PE=1 SV=1	Q13151		31 kDa		unknown	0	2	2	
+690	true	Empty	60S ribosomal protein L39 OS=Homo sapiens OX=9606 GN=RPL39 PE=1 SV=2	P62891 (+1)		6 kDa		unknown	0	2	0	
+691	true	Empty	TATA-binding protein-associated factor 2N OS=Homo sapiens OX=9606 GN=TAF15 PE=1 SV=1	Q92804 (+2)		62 kDa	true	unknown	0	1	1	
+692	true	Empty	Cluster of Ubiquitin carboxyl-terminal hydrolase 46 OS=Homo sapiens OX=9606 GN=USP46 PE=1 SV=1 (P62068)	P62068 [4]		42 kDa	true	unknown	0	2	0	
+693	true	Empty	Cluster of Aldehyde dehydrogenase X, mitochondrial OS=Homo sapiens OX=9606 GN=ALDH1B1 PE=1 SV=3 (P30837)	P30837		57 kDa	true	unknown	0	0	6	
+694	true	Empty	Cluster of Protein FAM76B OS=Homo sapiens OX=9606 GN=FAM76B PE=1 SV=3 (Q5HYJ3)	Q5HYJ3 [2]		39 kDa	true	unknown	0	4	0	
+695	true	Empty	Extended synaptotagmin-2 OS=Homo sapiens OX=9606 GN=ESYT2 PE=1 SV=1	A0A499FIX8 (+2)		94 kDa		unknown	0	0	3	
+696	true	Empty	Phosphorylase b kinase gamma catalytic chain, liver/testis isoform OS=Homo sapiens OX=9606 GN=PHKG2 PE=1 SV=1	P15735 (+2)		46 kDa		unknown	5	0	0	
+697	true	Empty	Protein disulfide-isomerase A3 OS=Homo sapiens OX=9606 GN=PDIA3 PE=1 SV=4	P30101		57 kDa		unknown	3	0	0	
+698	true	Empty	Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=2	P57088 (+1)		28 kDa		unknown	0	0	4	
+699	true	Empty	Crooked neck-like protein 1 OS=Homo sapiens OX=9606 GN=CRNKL1 PE=1 SV=1	Q5JY65 (+3)		99 kDa		unknown	0	3	0	
+700	true	Empty	Zinc finger protein 787 OS=Homo sapiens OX=9606 GN=ZNF787 PE=1 SV=4	Q6DD87		40 kDa		unknown	0	4	2	
+701	true	Empty	39S ribosomal protein L14, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL14 PE=1 SV=1	Q6P1L8		16 kDa		unknown	3	0	0	
+702	true	Empty	Periphilin-1 OS=Homo sapiens OX=9606 GN=PPHLN1 PE=1 SV=2	Q8NEY8 (+4)		53 kDa		unknown	2	0	0	
+703	true	Empty	Coiled-coil domain-containing protein 47 OS=Homo sapiens OX=9606 GN=CCDC47 PE=1 SV=1	Q96A33		56 kDa		unknown	0	0	3	
+704	true	Empty	WD repeat-containing protein 34 OS=Homo sapiens OX=9606 GN=WDR34 PE=1 SV=2	Q96EX3		58 kDa		unknown	0	4	2	
+705	true	Empty	Diphosphoinositol polyphosphate phosphohydrolase 3-beta OS=Homo sapiens OX=9606 GN=NUDT11 PE=1 SV=1	Q96G61		19 kDa		unknown	0	3	0	
+706	true	Empty	Transcription termination factor 1, mitochondrial OS=Homo sapiens OX=9606 GN=MTERF1 PE=1 SV=1	Q99551 (+1)		46 kDa		unknown	0	4	0	
+707	true	Empty	Multiple myeloma tumor-associated protein 2 OS=Homo sapiens OX=9606 GN=MMTAG2 PE=1 SV=1	Q9BU76 (+1)		29 kDa		unknown	0	5	0	
+708	true	Empty	Junctophilin-1 OS=Homo sapiens OX=9606 GN=JPH1 PE=1 SV=2	Q9HDC5		72 kDa		unknown	0	3	0	
+709	true	Empty	LanC-like protein 2 OS=Homo sapiens OX=9606 GN=LANCL2 PE=1 SV=1	Q9NS86		51 kDa		unknown	0	5	0	
+710	true	Empty	Histone deacetylase 6 OS=Homo sapiens OX=9606 GN=HDAC6 PE=1 SV=2	Q9UBN7 (+1)		131 kDa		unknown	3	0	0	
+711	true	Empty	Ubiquitin carboxyl-terminal hydrolase 22 OS=Homo sapiens OX=9606 GN=USP22 PE=1 SV=2	Q9UPT9 (+1)		60 kDa		unknown	0	0	3	
+712	true	Empty	Elongation factor 1-delta OS=Homo sapiens OX=9606 GN=EEF1D PE=1 SV=5	P29692 (+4)		31 kDa	true	unknown	3	0	0	
+713	true	Empty	Squamous cell carcinoma antigen recognized by T-cells 3 OS=Homo sapiens OX=9606 GN=SART3 PE=1 SV=1	Q15020 (+2)		110 kDa		unknown	0	0	2	
+714	true	Empty	Centrosome-associated protein 350 OS=Homo sapiens OX=9606 GN=CEP350 PE=1 SV=1	Q5VT06		351 kDa		unknown	4	0	0	
+715	true	Empty	Terminal uridylyltransferase 7 OS=Homo sapiens OX=9606 GN=TUT7 PE=1 SV=1	Q5VYS8 (+1)		171 kDa		unknown	0	2	0	
+716	true	Empty	39S ribosomal protein L43, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL43 PE=1 SV=1	Q8N983 (+7)		23 kDa		unknown	0	0	2	
+717	true	Empty	Calcyclin-binding protein OS=Homo sapiens OX=9606 GN=CACYBP PE=1 SV=2	Q9HB71		26 kDa		unknown	0	2	0	
+718	true	Empty	Nucleolar protein 58 OS=Homo sapiens OX=9606 GN=NOP58 PE=1 SV=1	Q9Y2X3		60 kDa		unknown	0	0	2	
+719	true	Empty	Desmocollin-1 OS=Homo sapiens OX=9606 GN=DSC1 PE=1 SV=2	Q08554 (+1)		100 kDa		unknown	2	0	2	
+720	true	Empty	Aspartate--tRNA ligase, mitochondrial OS=Homo sapiens OX=9606 GN=DARS2 PE=1 SV=1	Q6PI48 (+5)		74 kDa		unknown	0	3	3	
+721	true	Empty	U6 snRNA-associated Sm-like protein LSm8 OS=Homo sapiens OX=9606 GN=LSM8 PE=1 SV=3	O95777		10 kDa		unknown	0	2	0	
+722	true	Empty	Exosome RNA helicase MTR4 OS=Homo sapiens OX=9606 GN=MTREX PE=1 SV=3	P42285		118 kDa		unknown	0	2	0	
+723	true	Empty	26S proteasome non-ATPase regulatory subunit 4 OS=Homo sapiens OX=9606 GN=PSMD4 PE=1 SV=1	P55036 (+3)		41 kDa		unknown	3	0	2	
+724	true	Empty	Eukaryotic translation initiation factor 3 subunit I OS=Homo sapiens OX=9606 GN=EIF3I PE=1 SV=1	Q13347		37 kDa		unknown	0	0	3	
+725	true	Empty	Pre-mRNA-splicing regulator WTAP OS=Homo sapiens OX=9606 GN=WTAP PE=1 SV=2	Q15007		44 kDa		unknown	0	3	0	
+726	true	Empty	Probable ATP-dependent RNA helicase DDX27 OS=Homo sapiens OX=9606 GN=DDX27 PE=1 SV=2	Q96GQ7 (+1)		90 kDa		unknown	0	0	3	
+727	true	Empty	Mitogen-activated protein kinase 1 OS=Homo sapiens OX=9606 GN=MAPK1 PE=1 SV=3	P28482 (+1)		41 kDa		unknown	0	3	0	
+728	true	Empty	Isoleucine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=IARS1 PE=1 SV=2	P41252 (+2)		145 kDa		unknown	2	0	2	
+729	true	Empty	Ribosomal RNA-processing protein 7 homolog A OS=Homo sapiens OX=9606 GN=RRP7A PE=1 SV=2	Q9Y3A4		32 kDa		unknown	0	2	0	
+730	true	Empty	Isoform 3 of Nucleoside diphosphate kinase B OS=Homo sapiens OX=9606 GN=NME2	P22392-2 (+1)		30 kDa		unknown	0	0	2	
+731	true	Empty	FACT complex subunit SPT16 OS=Homo sapiens OX=9606 GN=SUPT16H PE=1 SV=1	Q9Y5B9		120 kDa		unknown	0	0	2	
+732	true	Empty	Putative histone H2B type 2-C OS=Homo sapiens OX=9606 GN=H2BC20P PE=5 SV=3	Q6DN03 (+1)		21 kDa	true	unknown	0	2	0	
+733	true	Empty	Pre-mRNA-splicing factor RBM22 OS=Homo sapiens OX=9606 GN=RBM22 PE=1 SV=1	Q9NW64		47 kDa		unknown	0	0	2	
+734	true	Empty	Zinc finger protein 638 OS=Homo sapiens OX=9606 GN=ZNF638 PE=1 SV=2	Q14966 (+1)		221 kDa		unknown	0	2	0	
+735	true	Empty	Poly(A) RNA polymerase, mitochondrial OS=Homo sapiens OX=9606 GN=MTPAP PE=1 SV=1	Q9NVV4		66 kDa		unknown	0	0	2	
+736	true	Empty	GTP-binding nuclear protein Ran OS=Homo sapiens OX=9606 GN=RAN PE=1 SV=3	P62826 (+2)		24 kDa		unknown	0	0	2	
+737	true	Empty	AP-3 complex subunit delta-1 OS=Homo sapiens OX=9606 GN=AP3D1 PE=1 SV=1	O14617 (+1)		130 kDa		unknown	0	0	3	
+738	true	Empty	General transcription and DNA repair factor IIH helicase subunit XPB OS=Homo sapiens OX=9606 GN=ERCC3 PE=1 SV=1	P19447 (+1)		89 kDa		unknown	0	4	0	
+739	true	Empty	DNA-directed RNA polymerase II subunit RPB2 OS=Homo sapiens OX=9606 GN=POLR2B PE=1 SV=1	P30876 (+3)		134 kDa		unknown	0	0	5	
+740	true	Empty	Coilin OS=Homo sapiens OX=9606 GN=COIL PE=1 SV=1	P38432		63 kDa		unknown	4	0	0	
+741	true	Empty	THO complex subunit 6 homolog OS=Homo sapiens OX=9606 GN=THOC6 PE=1 SV=1	Q86W42 (+1)		38 kDa		unknown	0	3	2	
+742	true	Empty	Glutaryl-CoA dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=GCDH PE=1 SV=1	Q92947		48 kDa		unknown	0	0	3	
+743	true	Empty	Regulation of nuclear pre-mRNA domain-containing protein 1A OS=Homo sapiens OX=9606 GN=RPRD1A PE=1 SV=1	Q96P16		36 kDa		unknown	0	4	0	
+744	true	Empty	Transcription factor 25 OS=Homo sapiens OX=9606 GN=TCF25 PE=1 SV=1	Q9BQ70		77 kDa		unknown	0	0	3	
+745	true	Empty	Nuclear speckle splicing regulatory protein 1 OS=Homo sapiens OX=9606 GN=NSRP1 PE=1 SV=1	Q9H0G5 (+1)		66 kDa		unknown	0	5	0	
+746	true	Empty	Fanconi anemia group I protein OS=Homo sapiens OX=9606 GN=FANCI PE=1 SV=4	Q9NVI1		149 kDa		unknown	0	0	4	
+747	true	Empty	Mitogen-activated protein kinase kinase kinase 20 OS=Homo sapiens OX=9606 GN=MAP3K20 PE=1 SV=3	Q9NYL2		91 kDa		unknown	3	0	0	
+748	true	Empty	Tuftelin-interacting protein 11 OS=Homo sapiens OX=9606 GN=TFIP11 PE=1 SV=1	Q9UBB9		97 kDa		unknown	0	4	0	
+749	true	Empty	Death domain-associated protein 6 OS=Homo sapiens OX=9606 GN=DAXX PE=1 SV=2	Q9UER7 (+4)		81 kDa		unknown	0	3	0	
+750	true	Empty	Insulin-like growth factor 2 mRNA-binding protein 2 OS=Homo sapiens OX=9606 GN=IGF2BP2 PE=1 SV=2	Q9Y6M1 (+6)		66 kDa	true	unknown	3	0	2	
+751	true	Empty	Nucleoplasmin-3 OS=Homo sapiens OX=9606 GN=NPM3 PE=1 SV=3	O75607		19 kDa		unknown	0	2	3	
+752	true	Empty	Metastasis-associated protein MTA2 OS=Homo sapiens OX=9606 GN=MTA2 PE=1 SV=1	O94776		75 kDa		unknown	2	0	0	
+753	true	Empty	Transformer-2 protein homolog beta OS=Homo sapiens OX=9606 GN=TRA2B PE=1 SV=1	P62995 (+1)		34 kDa		unknown	0	0	3	
+754	true	Empty	Zinc finger protein 771 OS=Homo sapiens OX=9606 GN=ZNF771 PE=1 SV=1	Q7L3S4		36 kDa		unknown	0	3	0	
+755	true	Empty	Protein FAM98A OS=Homo sapiens OX=9606 GN=FAM98A PE=1 SV=2	Q8NCA5		55 kDa	true	unknown	2	0	2	
+756	true	Empty	Ubiquitin carboxyl-terminal hydrolase 42 OS=Homo sapiens OX=9606 GN=USP42 PE=1 SV=3	Q9H9J4 (+1)		145 kDa		unknown	0	3	0	
+757	true	Empty	Zinc finger protein 593 OS=Homo sapiens OX=9606 GN=ZNF593 PE=1 SV=2	O00488		15 kDa		unknown	2	0	0	
+758	true	Empty	Putative GTP-binding protein 6 OS=Homo sapiens OX=9606 GN=GTPBP6 PE=2 SV=4	O43824		57 kDa		unknown	0	2	2	
+759	true	Empty	Melanoma-associated antigen D2 OS=Homo sapiens OX=9606 GN=MAGED2 PE=1 SV=2	Q5H909 (+2)		63 kDa		unknown	0	0	2	
+760	true	Empty	DnaJ homolog subfamily C member 10 OS=Homo sapiens OX=9606 GN=DNAJC10 PE=1 SV=2	Q8IXB1 (+1)		91 kDa		unknown	0	0	3	
+761	true	Empty	Cleavage and polyadenylation specificity factor subunit 4 OS=Homo sapiens OX=9606 GN=CPSF4 PE=1 SV=1	O95639 (+2)		30 kDa		unknown	0	3	2	
+762	true	Empty	60 kDa SS-A/Ro ribonucleoprotein OS=Homo sapiens OX=9606 GN=RO60 PE=1 SV=2	P10155 (+3)		61 kDa		unknown	0	0	3	
+763	true	Empty	Aminoacyl tRNA synthase complex-interacting multifunctional protein 2 OS=Homo sapiens OX=9606 GN=AIMP2 PE=1 SV=2	Q13155		35 kDa		unknown	3	0	0	
+764	true	Empty	Ribonuclease P protein subunit p14 OS=Homo sapiens OX=9606 GN=RPP14 PE=1 SV=3	O95059		14 kDa		unknown	0	0	2	
+765	true	Empty	Microtubule-associated protein 4 OS=Homo sapiens OX=9606 GN=MAP4 PE=1 SV=3	P27816 (+3)		121 kDa		unknown	2	2	0	
+766	true	Empty	Signal recognition particle receptor subunit alpha OS=Homo sapiens OX=9606 GN=SRPRA PE=1 SV=2	P08240 (+1)		70 kDa		unknown	0	0	3	
+767	true	Empty	H/ACA ribonucleoprotein complex subunit DKC1 OS=Homo sapiens OX=9606 GN=DKC1 PE=1 SV=3	O60832		58 kDa		unknown	0	2	0	
+768	true	Empty	Fructose-bisphosphate aldolase A OS=Homo sapiens OX=9606 GN=ALDOA PE=1 SV=2	P04075 (+3)		39 kDa		unknown	2	0	0	
+769	true	Empty	Cluster of YTH domain-containing family protein 2 OS=Homo sapiens OX=9606 GN=YTHDF2 PE=1 SV=2 (Q9Y5A9)	Q9Y5A9 [2]		62 kDa	true	unknown	0	0	2	
+770	true	Empty	Phosphorylase b kinase regulatory subunit alpha, liver isoform OS=Homo sapiens OX=9606 GN=PHKA2 PE=1 SV=1	P46019		138 kDa	true	unknown	3	0	0	
+771	true	Empty	39S ribosomal protein L19, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL19 PE=1 SV=2	P49406		34 kDa		unknown	0	2	4	
+772	true	Empty	Emerin OS=Homo sapiens OX=9606 GN=EMD PE=1 SV=1	P50402		29 kDa		unknown	0	0	3	
+773	true	Empty	Coatomer subunit beta OS=Homo sapiens OX=9606 GN=COPB1 PE=1 SV=3	P53618		107 kDa		unknown	0	0	5	
+774	true	Empty	E3 ubiquitin-protein ligase TRIP12 OS=Homo sapiens OX=9606 GN=TRIP12 PE=1 SV=1	Q14669 (+2)		220 kDa		unknown	0	4	0	
+775	true	Empty	DNA excision repair protein ERCC-6-like OS=Homo sapiens OX=9606 GN=ERCC6L PE=1 SV=1	Q2NKX8 (+1)		141 kDa		unknown	0	4	0	
+776	true	Empty	Filaggrin-2 OS=Homo sapiens OX=9606 GN=FLG2 PE=1 SV=1	Q5D862		248 kDa		unknown	3	0	0	
+777	true	Empty	Protein TASOR 2 OS=Homo sapiens OX=9606 GN=TASOR2 PE=1 SV=1	Q5VWN6 (+2)		269 kDa		unknown	4	0	0	
+778	true	Empty	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 OS=Homo sapiens OX=9606 GN=CMTR1 PE=1 SV=1	Q8N1G2		95 kDa		unknown	0	3	0	
+779	true	Empty	Cactin OS=Homo sapiens OX=9606 GN=CACTIN PE=1 SV=3	Q8WUQ7 (+1)		89 kDa		unknown	0	3	0	
+780	true	Empty	pre-mRNA 3' end processing protein WDR33 OS=Homo sapiens OX=9606 GN=WDR33 PE=1 SV=2	Q9C0J8		146 kDa		unknown	0	4	0	
+781	true	Empty	Anaphase-promoting complex subunit 4 OS=Homo sapiens OX=9606 GN=ANAPC4 PE=1 SV=2	Q9UJX5 (+1)		92 kDa		unknown	0	0	3	
+782	true	Empty	Telomere length regulation protein TEL2 homolog OS=Homo sapiens OX=9606 GN=TELO2 PE=1 SV=2	Q9Y4R8		92 kDa		unknown	0	0	5	
+783	true	Empty	Cilia- and flagella-associated protein 20 OS=Homo sapiens OX=9606 GN=CFAP20 PE=1 SV=1	Q9Y6A4		23 kDa		unknown	0	4	0	
+784	true	Empty	Cancer-related nucleoside-triphosphatase OS=Homo sapiens OX=9606 GN=NTPCR PE=1 SV=1	Q5TDF0 (+1)		25 kDa		unknown	0	0	3	
+785	true	Empty	Thioredoxin-like protein 4A OS=Homo sapiens OX=9606 GN=TXNL4A PE=1 SV=1	P83876		17 kDa		unknown	0	2	0	
+786	true	Empty	Rho-associated protein kinase 1 OS=Homo sapiens OX=9606 GN=ROCK1 PE=1 SV=1	Q13464 (+1)		158 kDa		unknown	2	0	0	
+787	true	Empty	AP-3 complex subunit beta-1 OS=Homo sapiens OX=9606 GN=AP3B1 PE=1 SV=3	O00203 (+1)		121 kDa		unknown	0	0	2	
+788	true	Empty	General transcription factor 3C polypeptide 2 OS=Homo sapiens OX=9606 GN=GTF3C2 PE=1 SV=2	Q8WUA4		101 kDa		unknown	0	0	2	
+789	true	Empty	Splicing factor 3B subunit 6 OS=Homo sapiens OX=9606 GN=SF3B6 PE=1 SV=1	Q9Y3B4		15 kDa		unknown	2	0	0	
+790	true	Empty	Cyclin-dependent-like kinase 5 OS=Homo sapiens OX=9606 GN=CDK5 PE=1 SV=3	Q00535		33 kDa	true	unknown	0	2	0	
+791	true	Empty	Transcription initiation factor IIB OS=Homo sapiens OX=9606 GN=GTF2B PE=1 SV=1	Q00403		35 kDa		unknown	0	3	0	
+792	true	Empty	General transcription factor 3C polypeptide 4 OS=Homo sapiens OX=9606 GN=GTF3C4 PE=1 SV=2	Q9UKN8		92 kDa		unknown	0	0	3	
+793	true	Empty	Transmembrane protein 229A OS=Homo sapiens OX=9606 GN=TMEM229A PE=2 SV=2	B2RXF0 (+1)		42 kDa		unknown	0	2	2	
+794	true	Empty	Histone H1.4 OS=Homo sapiens OX=9606 GN=H1-4 PE=1 SV=2	P10412 (+2)		22 kDa		unknown	0	0	2	
+795	true	Empty	Alpha-centractin OS=Homo sapiens OX=9606 GN=ACTR1A PE=1 SV=1	P61163 (+1)		43 kDa		unknown	2	0	2	
+796	true	Empty	26S proteasome non-ATPase regulatory subunit 6 OS=Homo sapiens OX=9606 GN=PSMD6 PE=1 SV=1	Q15008 (+3)		46 kDa		unknown	2	0	0	
+797	true	Empty	39S ribosomal protein L40, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL40 PE=1 SV=1	Q9NQ50		24 kDa		unknown	0	0	2	
+798	true	Empty	Hemoglobin subunit alpha OS=Homo sapiens OX=9606 GN=HBA1 PE=1 SV=2	P69905 (+1)		15 kDa		unknown	0	0	2	
+799	true	Empty	Serine/arginine-rich splicing factor 7 OS=Homo sapiens OX=9606 GN=SRSF7 PE=1 SV=1	Q16629 (+5)		27 kDa	true	unknown	0	0	1	
+800	true	Empty	Ribonuclease P protein subunit p29 OS=Homo sapiens OX=9606 GN=POP4 PE=1 SV=2	O95707		25 kDa		unknown	0	2	2	
+801	true	Empty	H/ACA ribonucleoprotein complex subunit 2 OS=Homo sapiens OX=9606 GN=NHP2 PE=1 SV=1	Q9NX24 (+2)		17 kDa		unknown	0	2	0	
+802	true	Empty	Cluster of Ankyrin repeat and KH domain-containing protein 1 OS=Homo sapiens OX=9606 GN=ANKHD1 PE=1 SV=1 (Q8IWZ3)	Q8IWZ3 [9]		269 kDa	true	unknown	0	0	4	
+803	true	Empty	Cluster of Armadillo repeat-containing protein 8 OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=2 (Q8IUR7)	Q8IUR7 [3]		76 kDa	true	unknown	3	0	0	
+804	true	Empty	Arf-GAP with dual PH domain-containing protein 1 OS=Homo sapiens OX=9606 GN=ADAP1 PE=1 SV=2	O75689 (+2)		43 kDa		unknown	0	5	0	
+805	true	Empty	Reticulocalbin-2 OS=Homo sapiens OX=9606 GN=RCN2 PE=1 SV=1	Q14257 (+1)		37 kDa		unknown	0	0	4	
+806	true	Empty	Heterogeneous nuclear ribonucleoprotein L-like OS=Homo sapiens OX=9606 GN=HNRNPLL PE=1 SV=1	Q8WVV9 (+5)		60 kDa	true	unknown	0	3	2	
+807	true	Empty	Mitochondrial glutamate carrier 1 OS=Homo sapiens OX=9606 GN=SLC25A22 PE=1 SV=1	Q9H936 (+1)		34 kDa		unknown	0	0	3	
+808	true	Empty	Cytochrome b-c1 complex subunit 2, mitochondrial OS=Homo sapiens OX=9606 GN=UQCRC2 PE=1 SV=3	P22695 (+2)		48 kDa		unknown	0	0	2	
+809	true	Empty	Zinc finger protein 460 OS=Homo sapiens OX=9606 GN=ZNF460 PE=1 SV=2	Q14592 (+1)		64 kDa		unknown	0	0	3	
+810	true	Empty	General transcription factor IIH subunit 4 OS=Homo sapiens OX=9606 GN=GTF2H4 PE=1 SV=1	Q92759		52 kDa		unknown	0	3	0	
+811	true	Empty	Deoxynucleoside triphosphate triphosphohydrolase SAMHD1 OS=Homo sapiens OX=9606 GN=SAMHD1 PE=1 SV=2	Q9Y3Z3 (+1)		72 kDa		unknown	0	0	3	
+812	true	Empty	U6 snRNA-associated Sm-like protein LSm3 OS=Homo sapiens OX=9606 GN=LSM3 PE=1 SV=2	P62310		12 kDa		unknown	0	3	0	
+813	true	Empty	Kinesin-like protein KIFC1 OS=Homo sapiens OX=9606 GN=KIFC1 PE=1 SV=2	Q9BW19		74 kDa		unknown	0	3	0	
+814	true	Empty	U3 small nucleolar RNA-associated protein 6 homolog OS=Homo sapiens OX=9606 GN=UTP6 PE=2 SV=2	Q9NYH9		70 kDa		unknown	0	3	0	
+815	true	Empty	RNA demethylase ALKBH5 OS=Homo sapiens OX=9606 GN=ALKBH5 PE=1 SV=2	Q6P6C2 (+2)		44 kDa		unknown	0	2	0	
+816	true	Empty	Ribosome production factor 2 homolog (Fragment) OS=Homo sapiens OX=9606 GN=RPF2 PE=1 SV=1	Q5VXN0 (+1)		25 kDa		unknown	0	0	3	
+817	true	Empty	RB1-inducible coiled-coil protein 1 OS=Homo sapiens OX=9606 GN=RB1CC1 PE=1 SV=3	Q8TDY2 (+1)		183 kDa		unknown	2	0	0	
+818	true	Empty	Dual specificity tyrosine-phosphorylation-regulated kinase 2 OS=Homo sapiens OX=9606 GN=DYRK2 PE=1 SV=3	Q92630 (+1)		67 kDa		unknown	0	3	0	
+819	true	Empty	26S proteasome regulatory subunit 7 OS=Homo sapiens OX=9606 GN=PSMC2 PE=1 SV=3	P35998 (+1)		49 kDa		unknown	2	0	0	
+820	true	Empty	F-actin-capping protein subunit beta OS=Homo sapiens OX=9606 GN=CAPZB PE=1 SV=4	P47756 (+3)		31 kDa		unknown	2	0	0	
+821	true	Empty	Adaptin ear-binding coat-associated protein 1 OS=Homo sapiens OX=9606 GN=NECAP1 PE=1 SV=2	Q8NC96 (+4)		30 kDa		unknown	0	3	0	
+822	true	Empty	28S ribosomal protein S17, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS17 PE=1 SV=1	Q9Y2R5 (+1)		15 kDa		unknown	0	2	2	
+823	true	Empty	Mitochondrial mRNA pseudouridine synthase RPUSD3 OS=Homo sapiens OX=9606 GN=RPUSD3 PE=1 SV=3	Q6P087 (+1)		38 kDa		unknown	0	2	0	
+824	true	Empty	Double-stranded RNA-binding protein Staufen homolog 1 OS=Homo sapiens OX=9606 GN=STAU1 PE=1 SV=2	O95793 (+2)		63 kDa		unknown	0	0	2	
+825	true	Empty	39S ribosomal protein L11, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL11 PE=1 SV=1	Q9Y3B7 (+1)		21 kDa		unknown	0	0	2	
+826	true	Empty	Eukaryotic translation initiation factor 3 subunit G OS=Homo sapiens OX=9606 GN=EIF3G PE=1 SV=2	O75821 (+1)		36 kDa		unknown	2	0	2	
+827	true	Empty	Collagen alpha-1(I) chain OS=Homo sapiens OX=9606 GN=COL1A1 PE=1 SV=5	P02452		139 kDa		unknown	0	2	2	
+828	true	Empty	Erlin-2 OS=Homo sapiens OX=9606 GN=ERLIN2 PE=1 SV=1	O94905 (+1)		38 kDa		unknown	0	0	2	
+829	true	Empty	Importin-5 OS=Homo sapiens OX=9606 GN=IPO5 PE=1 SV=4	O00410 (+3)		124 kDa		unknown	0	0	2	
+830	true	Empty	28S ribosomal protein S12, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS12 PE=1 SV=1	O15235		15 kDa		unknown	2	0	0	
+831	true	Empty	Uncharacterized protein C11orf98 OS=Homo sapiens OX=9606 GN=C11orf98 PE=4 SV=2	E9PRG8		14 kDa		unknown	0	0	2	
+832	true	Empty	Dihydroxyacetone phosphate acyltransferase OS=Homo sapiens OX=9606 GN=GNPAT PE=1 SV=1	O15228 (+3)		77 kDa		unknown	0	0	2	
+833	true	Empty	THO complex subunit 5 homolog OS=Homo sapiens OX=9606 GN=THOC5 PE=1 SV=2	Q13769		79 kDa		unknown	0	2	0	
+834	true	Empty	F-actin-capping protein subunit alpha-1 OS=Homo sapiens OX=9606 GN=CAPZA1 PE=1 SV=3	P52907		33 kDa	true	unknown	1	1	0	
+835	true	Empty	Cluster of MAX gene-associated protein OS=Homo sapiens OX=9606 GN=MGA PE=1 SV=4 (Q8IWI9)	Q8IWI9 [2]		336 kDa	true	unknown	3	0	0	
+836	true	Empty	2',3'-cyclic-nucleotide 3'-phosphodiesterase OS=Homo sapiens OX=9606 GN=CNP PE=1 SV=2	P09543 (+1)		48 kDa		unknown	0	0	3	
+837	true	Empty	Cyclin-dependent kinase 2 OS=Homo sapiens OX=9606 GN=CDK2 PE=1 SV=2	P24941 (+1)		34 kDa	true	unknown	0	4	0	
+838	true	Empty	Pre-mRNA-splicing factor 38A OS=Homo sapiens OX=9606 GN=PRPF38A PE=1 SV=1	Q8NAV1		37 kDa		unknown	0	4	0	
+839	true	Empty	Caspase activity and apoptosis inhibitor 1 OS=Homo sapiens OX=9606 GN=CAAP1 PE=1 SV=2	Q9H8G2		38 kDa		unknown	0	3	0	
+840	true	Empty	Glycine--tRNA ligase OS=Homo sapiens OX=9606 GN=GARS1 PE=1 SV=3	P41250		83 kDa		unknown	0	0	3	
+841	true	Empty	Synaptic functional regulator FMR1 OS=Homo sapiens OX=9606 GN=FMR1 PE=1 SV=1	Q06787 (+11)		71 kDa	true	unknown	3	0	0	
+842	true	Empty	Arginine/serine-rich protein PNISR OS=Homo sapiens OX=9606 GN=PNISR PE=1 SV=2	Q8TF01		93 kDa		unknown	0	4	0	
+843	true	Empty	Coiled-coil domain-containing protein 106 OS=Homo sapiens OX=9606 GN=CCDC106 PE=1 SV=1	Q9BWC9 (+1)		32 kDa		unknown	0	3	0	
+844	true	Empty	Protein SON OS=Homo sapiens OX=9606 GN=SON PE=1 SV=4	P18583 (+9)		264 kDa		unknown	0	3	0	
+845	true	Empty	Mannosyl-oligosaccharide glucosidase OS=Homo sapiens OX=9606 GN=MOGS PE=1 SV=5	Q13724 (+3)		92 kDa		unknown	0	0	3	
+846	true	Empty	THO complex subunit 1 OS=Homo sapiens OX=9606 GN=THOC1 PE=1 SV=1	Q96FV9 (+1)		76 kDa		unknown	0	2	0	
+847	true	Empty	Putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13 OS=Homo sapiens OX=9606 GN=ALG13 PE=1 SV=2	Q9NP73 (+2)		126 kDa		unknown	2	0	0	
+848	true	Empty	Zinc finger CCCH domain-containing protein 13 OS=Homo sapiens OX=9606 GN=ZC3H13 PE=1 SV=1	Q5T200 (+1)		197 kDa		unknown	0	4	0	
+849	true	Empty	Melanoma-associated antigen D1 OS=Homo sapiens OX=9606 GN=MAGED1 PE=1 SV=3	Q9Y5V3 (+1)		86 kDa		unknown	0	0	3	
+850	true	Empty	40S ribosomal protein S21 OS=Homo sapiens OX=9606 GN=RPS21 PE=1 SV=1	P63220 (+1)		9 kDa		unknown	0	2	2	
+851	true	Empty	Cell cycle and apoptosis regulator protein 2 OS=Homo sapiens OX=9606 GN=CCAR2 PE=1 SV=2	Q8N163 (+1)		103 kDa		unknown	2	0	0	
+852	true	Empty	Kanadaptin OS=Homo sapiens OX=9606 GN=SLC4A1AP PE=1 SV=1	Q9BWU0 (+1)		89 kDa		unknown	3	0	0	
+853	true	Empty	Splicing factor, arginine/serine-rich 19 OS=Homo sapiens OX=9606 GN=SCAF1 PE=1 SV=3	Q9H7N4		139 kDa		unknown	0	2	0	
+854	true	Empty	SAP domain-containing ribonucleoprotein OS=Homo sapiens OX=9606 GN=SARNP PE=1 SV=3	P82979 (+2)		24 kDa		unknown	2	0	0	
+855	true	Empty	Endothelial differentiation-related factor 1 OS=Homo sapiens OX=9606 GN=EDF1 PE=1 SV=1	O60869		16 kDa		unknown	2	0	0	
+856	true	Empty	Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1	O60716 (+26)		108 kDa		unknown	0	2	0	
+857	true	Empty	28S ribosomal protein S14, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS14 PE=1 SV=1	O60783		15 kDa		unknown	0	2	2	
+858	true	Empty	Small nuclear ribonucleoprotein Sm D1 OS=Homo sapiens OX=9606 GN=SNRPD1 PE=1 SV=1	P62314		13 kDa		unknown	2	2	0	
+859	true	Empty	39S ribosomal protein L39, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL39 PE=1 SV=3	Q9NYK5 (+1)		39 kDa		unknown	0	2	2	
+860	true	Empty	ATP-dependent RNA helicase DDX55 OS=Homo sapiens OX=9606 GN=DDX55 PE=1 SV=3	Q8NHQ9 (+1)		69 kDa		unknown	0	2	0	
+861	true	Empty	Protein FAM207A OS=Homo sapiens OX=9606 GN=FAM207A PE=1 SV=2	Q9NSI2 (+1)		25 kDa		unknown	0	0	2	
+862	true	Empty	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial OS=Homo sapiens OX=9606 GN=DLAT PE=1 SV=3	P10515 (+1)		69 kDa		unknown	2	0	0	
+863	true	Empty	Single-stranded DNA-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=SSBP1 PE=1 SV=1	Q04837		17 kDa		unknown	0	0	3	
+864	true	Empty	Protein BUD31 homolog OS=Homo sapiens OX=9606 GN=BUD31 PE=1 SV=2	P41223		17 kDa		unknown	0	2	0	
+865	true	Empty	RuvB-like 1 OS=Homo sapiens OX=9606 GN=RUVBL1 PE=1 SV=1	Q9Y265 (+1)		50 kDa		unknown	0	0	3	
+866	true	Empty	La-related protein 7 OS=Homo sapiens OX=9606 GN=LARP7 PE=1 SV=1	Q4G0J3 (+1)		67 kDa		unknown	0	0	2	
+867	true	Empty	Dual specificity protein kinase CLK1 OS=Homo sapiens OX=9606 GN=CLK1 PE=1 SV=2	P49759 (+1)		57 kDa	true	unknown	0	2	0	
+868	true	Empty	F-actin-capping protein subunit alpha-2 OS=Homo sapiens OX=9606 GN=CAPZA2 PE=1 SV=3	P47755 (+4)		33 kDa	true	unknown	2	1	0	
+869	true	Empty	UPF0488 protein C8orf33 OS=Homo sapiens OX=9606 GN=C8orf33 PE=1 SV=1	Q9H7E9 (+4)		25 kDa		unknown	0	0	2	
+870	true	Empty	Myosin-9 OS=Homo sapiens OX=9606 GN=MYH9 PE=1 SV=4	P35579		227 kDa		unknown	2	0	0	
+871	true	Empty	tRNA (uracil-5-)-methyltransferase homolog A OS=Homo sapiens OX=9606 GN=TRMT2A PE=1 SV=2	Q8IZ69 (+2)		69 kDa		unknown	0	0	2	
+872	true	Empty	cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Homo sapiens OX=9606 GN=PRKAR1A PE=1 SV=1	P10644		43 kDa		unknown	2	0	2	
+873	true	Empty	Cell division cycle protein 20 homolog OS=Homo sapiens OX=9606 GN=CDC20 PE=1 SV=2	Q12834		55 kDa		unknown	0	2	0	
+874	true	Empty	Serine hydroxymethyltransferase, mitochondrial OS=Homo sapiens OX=9606 GN=SHMT2 PE=1 SV=3	P34897 (+2)		56 kDa		unknown	0	2	0	
+875	true	Empty	Gelsolin OS=Homo sapiens OX=9606 GN=GSN PE=1 SV=1	P06396 (+5)		86 kDa		unknown	2	0	0	
+876	true	Empty	Ras-related protein Rab-35 OS=Homo sapiens OX=9606 GN=RAB35 PE=1 SV=1	Q15286 (+1)		23 kDa		unknown	0	0	2	
+877	true	Empty	Serpin B12 OS=Homo sapiens OX=9606 GN=SERPINB12 PE=1 SV=1	Q96P63 (+1)		46 kDa		unknown	0	0	2	
+878	true	Empty	ADP-ribosylation factor-like protein 1 OS=Homo sapiens OX=9606 GN=ARL1 PE=1 SV=1	P40616 (+1)		20 kDa		unknown	0	0	3	
+879	true	Empty	Dynactin subunit 2 OS=Homo sapiens OX=9606 GN=DCTN2 PE=1 SV=4	Q13561 (+4)		44 kDa		unknown	3	0	0	
+880	true	Empty	Exocyst complex component 4 OS=Homo sapiens OX=9606 GN=EXOC4 PE=1 SV=1	Q96A65		111 kDa		unknown	0	0	3	
+881	true	Empty	Isoform 2 of Uncharacterized protein C18orf25 OS=Homo sapiens OX=9606 GN=C18orf25	Q96B23-2		37 kDa		unknown	0	0	4	
+882	true	Empty	Glutamate dehydrogenase 1, mitochondrial OS=Homo sapiens OX=9606 GN=GLUD1 PE=1 SV=2	P00367		61 kDa		unknown	0	0	2	
+883	true	Empty	COUP transcription factor 1 OS=Homo sapiens OX=9606 GN=NR2F1 PE=1 SV=1	P10589 (+5)		46 kDa		unknown	0	0	3	
+884	true	Empty	Mitochondrial import inner membrane translocase subunit TIM50 OS=Homo sapiens OX=9606 GN=TIMM50 PE=1 SV=2	Q3ZCQ8 (+1)		40 kDa		unknown	0	0	3	
+885	true	Empty	FAST kinase domain-containing protein 5, mitochondrial OS=Homo sapiens OX=9606 GN=FASTKD5 PE=1 SV=1	Q7L8L6		87 kDa		unknown	0	0	3	
+886	true	Empty	Paraspeckle component 1 OS=Homo sapiens OX=9606 GN=PSPC1 PE=1 SV=1	Q8WXF1 (+2)		59 kDa		unknown	3	0	0	
+887	true	Empty	Translocon-associated protein subunit delta OS=Homo sapiens OX=9606 GN=SSR4 PE=1 SV=1	P51571		19 kDa		unknown	0	0	3	
+888	true	Empty	Nucleosome assembly protein 1-like 3 OS=Homo sapiens OX=9606 GN=NAP1L3 PE=1 SV=2	Q99457 (+1)		58 kDa		unknown	0	0	3	
+889	true	Empty	Microspherule protein 1 OS=Homo sapiens OX=9606 GN=MCRS1 PE=1 SV=1	Q96EZ8 (+3)		52 kDa		unknown	0	2	0	
+890	true	Empty	DNA-3-methyladenine glycosylase OS=Homo sapiens OX=9606 GN=MPG PE=1 SV=3	P29372 (+3)		33 kDa		unknown	0	2	0	
+891	true	Empty	Signal recognition particle receptor subunit beta OS=Homo sapiens OX=9606 GN=SRPRB PE=1 SV=3	Q9Y5M8		30 kDa		unknown	0	0	3	
+892	true	Empty	General transcription factor 3C polypeptide 3 OS=Homo sapiens OX=9606 GN=GTF3C3 PE=1 SV=1	Q9Y5Q9 (+1)		101 kDa		unknown	0	3	0	
+893	true	Empty	PHD finger-like domain-containing protein 5A OS=Homo sapiens OX=9606 GN=PHF5A PE=1 SV=1	Q7RTV0		12 kDa		unknown	2	0	0	
+894	true	Empty	E3 ubiquitin-protein transferase RMND5A OS=Homo sapiens OX=9606 GN=RMND5A PE=1 SV=1	Q9H871		44 kDa		unknown	2	0	0	
+895	true	Empty	E3 ubiquitin-protein ligase RING2 OS=Homo sapiens OX=9606 GN=RNF2 PE=1 SV=1	Q99496 (+1)		38 kDa		unknown	0	2	0	
+896	true	Empty	Ataxin-10 OS=Homo sapiens OX=9606 GN=ATXN10 PE=1 SV=1	Q9UBB4 (+2)		53 kDa		unknown	0	0	3	
+897	true	Empty	Vang-like protein 1 OS=Homo sapiens OX=9606 GN=VANGL1 PE=1 SV=1	Q8TAA9 (+1)		60 kDa		unknown	0	3	0	
+898	true	Empty	Monofunctional C1-tetrahydrofolate synthase, mitochondrial OS=Homo sapiens OX=9606 GN=MTHFD1L PE=1 SV=1	Q6UB35 (+2)		106 kDa		unknown	2	0	0	
+899	true	Empty	Exosome complex exonuclease RRP44 OS=Homo sapiens OX=9606 GN=DIS3 PE=1 SV=2	Q9Y2L1 (+2)		109 kDa		unknown	0	0	2	
+900	true	Empty	Cancer/testis antigen family 45 member A10 OS=Homo sapiens OX=9606 GN=CT45A10 PE=1 SV=1	P0DMU9 (+4)		21 kDa		unknown	0	2	0	
+901	true	Empty	Hyaluronan mediated motility receptor OS=Homo sapiens OX=9606 GN=HMMR PE=1 SV=2	O75330 (+3)		84 kDa		unknown	0	2	0	
+902	true	Empty	Translation machinery-associated protein 7 OS=Homo sapiens OX=9606 GN=TMA7 PE=1 SV=1	Q9Y2S6		7 kDa		unknown	2	0	0	
+903	true	Empty	Heterogeneous nuclear ribonucleoprotein D0 OS=Homo sapiens OX=9606 GN=HNRNPD PE=1 SV=1	Q14103 (+2)		38 kDa	true	unknown	0	0	2	
+904	true	Empty	Alpha-enolase OS=Homo sapiens OX=9606 GN=ENO1 PE=1 SV=2	P06733 (+1)		47 kDa		unknown	2	0	2	
+905	true	Empty	Neutral amino acid transporter B(0) OS=Homo sapiens OX=9606 GN=SLC1A5 PE=1 SV=2	Q15758		57 kDa		unknown	0	0	2	
+906	true	Empty	Coordinator of PRMT5 and differentiation stimulator OS=Homo sapiens OX=9606 GN=COPRS PE=1 SV=3	Q9NQ92 (+2)		20 kDa		unknown	2	0	0	
+907	true	Empty	Proteasome subunit beta type-2 OS=Homo sapiens OX=9606 GN=PSMB2 PE=1 SV=1	P49721		23 kDa		unknown	0	0	2	
+908	true	Empty	ATP-dependent RNA helicase DDX24 OS=Homo sapiens OX=9606 GN=DDX24 PE=1 SV=1	Q9GZR7 (+2)		96 kDa		unknown	0	0	2	
+909	true	Empty	Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase 3 OS=Homo sapiens OX=9606 GN=HACD3 PE=1 SV=2	Q9P035		43 kDa		unknown	0	0	3	
+910	true	Empty	Long-chain-fatty-acid--CoA ligase 3 OS=Homo sapiens OX=9606 GN=ACSL3 PE=1 SV=3	O95573		80 kDa		unknown	0	0	2	
+911	true	Empty	RNA 3'-terminal phosphate cyclase-like protein OS=Homo sapiens OX=9606 GN=RCL1 PE=1 SV=3	Q9Y2P8		41 kDa		unknown	0	0	3	
+912	true	Empty	Protein THEM6 OS=Homo sapiens OX=9606 GN=THEM6 PE=1 SV=2	Q8WUY1		24 kDa		unknown	0	0	2	
+913	true	Empty	Peptidyl-prolyl cis-trans isomerase H OS=Homo sapiens OX=9606 GN=PPIH PE=1 SV=1	O43447 (+2)		19 kDa		unknown	0	2	0	
+914	true	Empty	Phosphatidylserine decarboxylase proenzyme, mitochondrial OS=Homo sapiens OX=9606 GN=PISD PE=1 SV=4	Q9UG56 (+1)		47 kDa		unknown	0	0	2	
+915	true	Empty	Histone deacetylase 1 OS=Homo sapiens OX=9606 GN=HDAC1 PE=1 SV=1	Q13547		55 kDa		unknown	0	0	2	
+916	true	Empty	Filaggrin OS=Homo sapiens OX=9606 GN=FLG PE=1 SV=3	P20930		435 kDa		unknown	2	0	0	
+917	true	Empty	ATP-dependent DNA helicase Q4 OS=Homo sapiens OX=9606 GN=RECQL4 PE=1 SV=2	O94761 (+1)		133 kDa		unknown	0	2	0	
+918	true	Empty	Inositol polyphosphate 5-phosphatase OCRL OS=Homo sapiens OX=9606 GN=OCRL PE=1 SV=3	Q01968 (+1)		104 kDa		unknown	0	2	0	
+919	true	Empty	39S ribosomal protein L46, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL46 PE=1 SV=1	Q9H2W6		32 kDa		unknown	0	2	0	
+920	true	Empty	Thioredoxin domain-containing protein 5 OS=Homo sapiens OX=9606 GN=TXNDC5 PE=1 SV=2	Q8NBS9 (+1)		48 kDa		unknown	2	0	0	
+921	true	Empty	39S ribosomal protein L20, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL20 PE=1 SV=1	Q9BYC9		17 kDa		unknown	0	0	2	
+922	true	Empty	Cluster of Zinc finger protein 64 OS=Homo sapiens OX=9606 GN=ZFP64 PE=1 SV=3 (Q9NTW7)	Q9NTW7 [2]		72 kDa	true	unknown	0	2	2	
+923	true	Empty	Egl nine homolog 1 OS=Homo sapiens OX=9606 GN=EGLN1 PE=1 SV=1	Q9GZT9		46 kDa		unknown	0	3	0	
+924	true	Empty	Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 3 OS=Homo sapiens OX=9606 GN=AGAP3 PE=1 SV=2	Q96P47 (+2)		95 kDa		unknown	0	3	0	
+925	true	Empty	Dual specificity mitogen-activated protein kinase kinase 7 OS=Homo sapiens OX=9606 GN=MAP2K7 PE=1 SV=2	O14733 (+3)		47 kDa		unknown	0	0	3	
+926	true	Empty	Ran-binding protein 10 OS=Homo sapiens OX=9606 GN=RANBP10 PE=1 SV=1	Q6VN20 (+4)		67 kDa		unknown	3	0	0	
+927	true	Empty	Nucleolar and spindle-associated protein 1 OS=Homo sapiens OX=9606 GN=NUSAP1 PE=1 SV=1	Q9BXS6 (+6)		49 kDa		unknown	0	3	0	
+928	true	Empty	GTPase Era, mitochondrial OS=Homo sapiens OX=9606 GN=ERAL1 PE=1 SV=2	O75616		48 kDa		unknown	0	0	2	
+929	true	Empty	Structural maintenance of chromosomes protein 5 OS=Homo sapiens OX=9606 GN=SMC5 PE=1 SV=2	Q8IY18		129 kDa		unknown	0	3	0	
+930	true	Empty	General transcription factor IIH subunit 1 OS=Homo sapiens OX=9606 GN=GTF2H1 PE=1 SV=1	P32780 (+1)		62 kDa		unknown	0	2	0	
+931	true	Empty	Girdin OS=Homo sapiens OX=9606 GN=CCDC88A PE=1 SV=2	Q3V6T2 (+10)		216 kDa		unknown	2	0	0	
+932	true	Empty	Caseinolytic peptidase B protein homolog OS=Homo sapiens OX=9606 GN=CLPB PE=1 SV=1	Q9H078 (+3)		79 kDa		unknown	0	2	0	
+933	true	Empty	RNA helicase aquarius OS=Homo sapiens OX=9606 GN=AQR PE=1 SV=4	O60306		171 kDa	true	unknown	0	2	0	
+934	true	Empty	Gamma-tubulin complex component 2 OS=Homo sapiens OX=9606 GN=TUBGCP2 PE=1 SV=2	Q9BSJ2 (+2)		103 kDa		unknown	0	0	2	
+935	true	Empty	Pachytene checkpoint protein 2 homolog OS=Homo sapiens OX=9606 GN=TRIP13 PE=1 SV=2	Q15645		49 kDa		unknown	0	0	2	
+936	true	Empty	Obscurin-like protein 1 OS=Homo sapiens OX=9606 GN=OBSL1 PE=1 SV=4	O75147 (+4)		207 kDa		unknown	0	2	0	
+937	true	Empty	Protein arginine N-methyltransferase 3 OS=Homo sapiens OX=9606 GN=PRMT3 PE=1 SV=4	O60678 (+1)		60 kDa		unknown	2	0	0	
+938	true	Empty	ATP-dependent Clp protease proteolytic subunit, mitochondrial OS=Homo sapiens OX=9606 GN=CLPP PE=1 SV=1	Q16740 (+1)		30 kDa		unknown	0	0	2	
+939	true	Empty	DNA dC->dU-editing enzyme APOBEC-3C OS=Homo sapiens OX=9606 GN=APOBEC3C PE=1 SV=2	Q9NRW3		23 kDa		unknown	0	2	0	
+940	true	Empty	Dihydrolipoyl dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=DLD PE=1 SV=2	P09622 (+3)		54 kDa		unknown	0	0	2	
+941	true	Empty	mRNA-capping enzyme OS=Homo sapiens OX=9606 GN=RNGTT PE=1 SV=1	O60942 (+1)		69 kDa		unknown	0	0	2	
+942	true	Empty	26S proteasome regulatory subunit 6A OS=Homo sapiens OX=9606 GN=PSMC3 PE=1 SV=3	P17980 (+2)		49 kDa		unknown	0	0	2	
+943	true	Empty	Epidermal growth factor receptor substrate 15-like 1 OS=Homo sapiens OX=9606 GN=EPS15L1 PE=1 SV=1	Q9UBC2 (+4)		94 kDa		unknown	0	2	0	
+944	true	Empty	RNA-binding protein 4 OS=Homo sapiens OX=9606 GN=RBM4 PE=1 SV=1	Q9BWF3		40 kDa		unknown	0	0	2	
+945	true	Empty	Kinesin-like protein KIF2C OS=Homo sapiens OX=9606 GN=KIF2C PE=1 SV=2	Q99661 (+1)		81 kDa	true	unknown	0	2	0	
+946	true	Empty	Calcium load-activated calcium channel OS=Homo sapiens OX=9606 GN=TMCO1 PE=1 SV=2	Q9UM00 (+3)		27 kDa		unknown	0	0	2	
+947	true	Empty	Nuclear pore complex protein Nup205 OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=3	Q92621		228 kDa		unknown	0	0	2	
+948	true	Empty	39S ribosomal protein S30, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS30 PE=1 SV=2	Q9NP92		50 kDa		unknown	0	0	2	
+949	true	Empty	Pre-mRNA-splicing factor SPF27 OS=Homo sapiens OX=9606 GN=BCAS2 PE=1 SV=1	O75934		26 kDa		unknown	0	2	0	
+950	true	Empty	Coatomer subunit beta' OS=Homo sapiens OX=9606 GN=COPB2 PE=1 SV=2	P35606 (+1)		102 kDa		unknown	0	0	2	
+951	true	Empty	Protein transport protein Sec61 subunit alpha isoform 1 OS=Homo sapiens OX=9606 GN=SEC61A1 PE=1 SV=2	P61619 (+1)		52 kDa		unknown	0	0	2	
+952	true	Empty	tRNA (uracil(54)-C(5))-methyltransferase homolog OS=Homo sapiens OX=9606 GN=TRMT2B PE=1 SV=1	Q96GJ1 (+1)		56 kDa		unknown	0	2	0	
+953	true	Empty	Histone-arginine methyltransferase CARM1 OS=Homo sapiens OX=9606 GN=CARM1 PE=1 SV=3	Q86X55 (+1)		66 kDa		unknown	0	2	0	
+954	true	Empty	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial OS=Homo sapiens OX=9606 GN=SDHB PE=1 SV=3	P21912		32 kDa		unknown	0	2	0	
+955	true	Empty	HEAT repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=HEATR1 PE=1 SV=1	Q5T3Q7 (+1)		233 kDa		unknown	0	0	2	
+956	true	Empty	Tetratricopeptide repeat protein 4 OS=Homo sapiens OX=9606 GN=TTC4 PE=1 SV=3	O95801		45 kDa		unknown	0	0	2	
+957	true	Empty	Calcium-binding mitochondrial carrier protein Aralar1 OS=Homo sapiens OX=9606 GN=SLC25A12 PE=1 SV=2	O75746 (+1)		75 kDa	true	unknown	0	0	2	
+958	true	Empty	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3 OS=Homo sapiens OX=9606 GN=PLCD3 PE=1 SV=3	Q8N3E9		89 kDa		unknown	0	2	0	
+959	true	Empty	Dimethyladenosine transferase 2, mitochondrial OS=Homo sapiens OX=9606 GN=TFB2M PE=1 SV=1	Q9H5Q4		45 kDa		unknown	0	0	2	
+960	true	Empty	Cluster of E3 ubiquitin-protein ligase CHIP OS=Homo sapiens OX=9606 GN=STUB1 PE=1 SV=2 (Q9UNE7)	Q9UNE7 [2]		35 kDa	true	unknown	0	0	2	
+961	true	Empty	Fatty acyl-CoA reductase 1 OS=Homo sapiens OX=9606 GN=FAR1 PE=1 SV=1	Q8WVX9		59 kDa		unknown	0	0	2	
+962	true	Empty	Catalase OS=Homo sapiens OX=9606 GN=CAT PE=1 SV=3	P04040		60 kDa		unknown	2	0	0	
+963	true	Empty	Proteasome subunit beta type-6 OS=Homo sapiens OX=9606 GN=PSMB6 PE=1 SV=4	P28072		25 kDa		unknown	2	0	0	
+964	true	Empty	Cyclin-G1 OS=Homo sapiens OX=9606 GN=CCNG1 PE=1 SV=2	P51959		34 kDa		unknown	0	2	0	
+965	true	Empty	Exosome complex component MTR3 OS=Homo sapiens OX=9606 GN=EXOSC6 PE=1 SV=1	Q5RKV6		28 kDa		unknown	2	0	0	
+966	true	Empty	Protein PAT1 homolog 1 OS=Homo sapiens OX=9606 GN=PATL1 PE=1 SV=2	Q86TB9 (+2)		87 kDa		unknown	0	0	2	
+967	true	Empty	Nuclear pore complex protein Nup133 OS=Homo sapiens OX=9606 GN=NUP133 PE=1 SV=2	Q8WUM0		129 kDa		unknown	0	0	2	
+968	true	Empty	m-AAA protease-interacting protein 1, mitochondrial OS=Homo sapiens OX=9606 GN=MAIP1 PE=1 SV=1	Q8WWC4		33 kDa		unknown	0	0	3	
+969	true	Empty	RNA-binding region-containing protein 3 OS=Homo sapiens OX=9606 GN=RNPC3 PE=1 SV=1	Q96LT9 (+1)		59 kDa		unknown	0	2	0	
+970	true	Empty	T-complex protein 1 subunit eta OS=Homo sapiens OX=9606 GN=CCT7 PE=1 SV=2	Q99832 (+1)		59 kDa		unknown	0	2	0	
+971	true	Empty	Protein FAM83D OS=Homo sapiens OX=9606 GN=FAM83D PE=1 SV=3	Q9H4H8 (+2)		64 kDa		unknown	0	2	0	
+972	true	Empty	Inositol-pentakisphosphate 2-kinase OS=Homo sapiens OX=9606 GN=IPPK PE=1 SV=1	Q9H8X2		56 kDa		unknown	0	2	0	
+973	true	Empty	Cell growth-regulating nucleolar protein OS=Homo sapiens OX=9606 GN=LYAR PE=1 SV=2	Q9NX58		44 kDa		unknown	0	0	2	
+974	true	Empty	DnaJ homolog subfamily B member 11 OS=Homo sapiens OX=9606 GN=DNAJB11 PE=1 SV=1	Q9UBS4 (+1)		41 kDa		unknown	0	0	2	
+975	true	Empty	Eukaryotic translation initiation factor 4E transporter OS=Homo sapiens OX=9606 GN=EIF4ENIF1 PE=1 SV=2	Q9NRA8 (+2)		108 kDa		unknown	2	0	0	
+976	true	Empty	Puratrophin-1 OS=Homo sapiens OX=9606 GN=PLEKHG4 PE=1 SV=1	Q58EX7 (+1)		131 kDa		unknown	0	0	2	
+977	true	Empty	28S ribosomal protein S18c, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS18C PE=1 SV=1	Q9Y3D5		16 kDa		unknown	0	0	2	
+978	true	Empty	Isochorismatase domain-containing protein 2 OS=Homo sapiens OX=9606 GN=ISOC2 PE=1 SV=1	Q96AB3 (+2)		22 kDa		unknown	0	0	2	
+979	true	Empty	Lysophosphatidylcholine acyltransferase 1 OS=Homo sapiens OX=9606 GN=LPCAT1 PE=1 SV=2	Q8NF37 (+1)		59 kDa		unknown	0	0	2	
+980	true	Empty	Protein FAM98B OS=Homo sapiens OX=9606 GN=FAM98B PE=1 SV=2	Q52LJ0 (+1)		46 kDa	true	unknown	2	0	0	
+981	true	Empty	Protein Daple OS=Homo sapiens OX=9606 GN=CCDC88C PE=1 SV=3	Q9P219		228 kDa		unknown	2	0	0	
+982	true	Empty	Tripartite motif-containing protein 14 OS=Homo sapiens OX=9606 GN=TRIM14 PE=1 SV=2	Q14142 (+1)		50 kDa		unknown	0	2	0	
+983	true	Empty	N-alpha-acetyltransferase 10 OS=Homo sapiens OX=9606 GN=NAA10 PE=1 SV=1	P41227 (+1)		26 kDa		unknown	0	2	0	
+984	true	Empty	Beta-arrestin-1 OS=Homo sapiens OX=9606 GN=ARRB1 PE=1 SV=2	P49407 (+1)		47 kDa	true	unknown	0	2	0	
+985	true	Empty	Protein quaking OS=Homo sapiens OX=9606 GN=QKI PE=1 SV=1	Q96PU8 (+5)		38 kDa		unknown	2	0	0	
+986	true	Empty	Collagen alpha-2(I) chain OS=Homo sapiens OX=9606 GN=COL1A2 PE=1 SV=7	P08123 (+1)		129 kDa		unknown	0	0	2	
+987	true	Empty	Exportin-2 OS=Homo sapiens OX=9606 GN=CSE1L PE=1 SV=3	P55060 (+2)		110 kDa		unknown	0	0	2	
+988	true	Empty	Cathepsin D OS=Homo sapiens OX=9606 GN=CTSD PE=1 SV=1	P07339 (+5)		45 kDa		unknown	2	0	0	
+989	true	Empty	Cyclin-dependent kinase 4 OS=Homo sapiens OX=9606 GN=CDK4 PE=1 SV=2	P11802		34 kDa	true	unknown	0	0	1	
+990	true	Empty	Mothers against decapentaplegic homolog 1 OS=Homo sapiens OX=9606 GN=SMAD1 PE=1 SV=1	Q15797 (+1)		52 kDa	true	unknown	0	0	0	
+991	true	Empty	Zinc finger protein 664 OS=Homo sapiens OX=9606 GN=ZNF664 PE=1 SV=1	Q8N3J9		30 kDa	true	unknown	0	0	1	
+992	true	Empty	Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial OS=Homo sapiens OX=9606 GN=IDH3B PE=1 SV=2	O43837 (+4)		42 kDa		unknown	0	0	3	
+993	true	Empty	CD2 antigen cytoplasmic tail-binding protein 2 OS=Homo sapiens OX=9606 GN=CD2BP2 PE=1 SV=1	O95400		38 kDa		unknown	0	2	0	
+994	true	Empty	Galactokinase OS=Homo sapiens OX=9606 GN=GALK1 PE=1 SV=1	P51570 (+1)		42 kDa		unknown	0	0	2	
+995	true	Empty	Nucleolar protein 9 OS=Homo sapiens OX=9606 GN=NOP9 PE=1 SV=1	Q86U38 (+1)		69 kDa		unknown	0	0	2	
+996	true	Empty	Isoform 2 of Eukaryotic peptide chain release factor GTP-binding subunit ERF3A OS=Homo sapiens OX=9606 GN=GSPT1	P15170-2 (+1)		69 kDa		unknown	2	0	0	
+997	true	Empty	Kinesin-1 heavy chain OS=Homo sapiens OX=9606 GN=KIF5B PE=1 SV=1	P33176		110 kDa		unknown	0	2	0	
+998	true	Empty	Partner of Y14 and mago OS=Homo sapiens OX=9606 GN=PYM1 PE=1 SV=1	Q9BRP8 (+1)		23 kDa		unknown	0	0	2	
+999	true	Empty	GTP-binding protein 1 OS=Homo sapiens OX=9606 GN=GTPBP1 PE=1 SV=3	O00178		72 kDa		unknown	0	0	2	
+1000	true	Empty	Malonyl-CoA-acyl carrier protein transacylase, mitochondrial OS=Homo sapiens OX=9606 GN=MCAT PE=1 SV=2	Q8IVS2		43 kDa		unknown	0	2	0	
+1001	true	Empty	Mitogen-activated protein kinase kinase kinase kinase 4 OS=Homo sapiens OX=9606 GN=MAP4K4 PE=1 SV=2	O95819 (+14)		142 kDa		unknown	0	2	0	
+1002	true	Empty	Uridine-cytidine kinase 2 OS=Homo sapiens OX=9606 GN=UCK2 PE=1 SV=1	Q9BZX2 (+2)		29 kDa		unknown	0	0	2	
+1003	true	Empty	Mitochondrial import inner membrane translocase subunit Tim23 OS=Homo sapiens OX=9606 GN=TIMM23 PE=1 SV=1	O14925 (+1)		22 kDa		unknown	0	0	2	
+1004	true	Empty	Phosphatidylinositol-binding clathrin assembly protein OS=Homo sapiens OX=9606 GN=PICALM PE=1 SV=2	Q13492 (+4)		71 kDa		unknown	0	2	0	
+1005	true	Empty	Exportin-5 OS=Homo sapiens OX=9606 GN=XPO5 PE=1 SV=1	Q9HAV4		136 kDa		unknown	0	0	2	
+1006	true	Empty	Serine/arginine-rich splicing factor 4 OS=Homo sapiens OX=9606 GN=SRSF4 PE=1 SV=2	Q08170 (+1)		57 kDa	true	unknown	0	0	1	
+1007	true	Empty	Cluster of Serine/threonine-protein kinase A-Raf OS=Homo sapiens OX=9606 GN=ARAF PE=1 SV=2 (P10398)	P10398 [2]		68 kDa	true	unknown	0	0	2	
+1008	true	Empty	CaM kinase-like vesicle-associated protein OS=Homo sapiens OX=9606 GN=CAMKV PE=2 SV=2	Q8NCB2 (+5)		54 kDa		unknown	0	2	0	
+1009	true	Empty	Cytoplasmic tRNA 2-thiolation protein 2 OS=Homo sapiens OX=9606 GN=CTU2 PE=1 SV=1	Q2VPK5 (+2)		56 kDa		unknown	0	2	0	
+1010	true	Empty	Phosphorylated adapter RNA export protein OS=Homo sapiens OX=9606 GN=PHAX PE=1 SV=1	Q9H814		44 kDa		unknown	0	0	2	
+1011	true	Empty	ATP synthase subunit f, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5MF PE=1 SV=3	P56134 (+1)		11 kDa		unknown	0	0	2	
+1012	true	Empty	F-box/LRR-repeat protein 3 OS=Homo sapiens OX=9606 GN=FBXL3 PE=1 SV=1	Q9UKT7		49 kDa		unknown	0	0	2	
+1013	true	Empty	Centrosomal protein of 78 kDa OS=Homo sapiens OX=9606 GN=CEP78 PE=1 SV=1	Q5JTW2 (+11)		76 kDa		unknown	0	0	2	
+1014	true	Empty	Transcription initiation factor TFIID subunit 4 OS=Homo sapiens OX=9606 GN=TAF4 PE=1 SV=2	O00268		110 kDa		unknown	2	0	0	
+1015	true	Empty	DNA topoisomerase 2-binding protein 1 OS=Homo sapiens OX=9606 GN=TOPBP1 PE=1 SV=3	Q92547 (+1)		171 kDa		unknown	0	2	0	
+1016	true	Empty	Prohibitin-2 OS=Homo sapiens OX=9606 GN=PHB2 PE=1 SV=2	Q99623 (+3)		33 kDa		unknown	0	0	2	
+1017	true	Empty	Zinc finger protein 281 OS=Homo sapiens OX=9606 GN=ZNF281 PE=1 SV=1	Q9Y2X9 (+1)		97 kDa		unknown	0	0	2	
+1018	true	Empty	G protein-coupled receptor kinase 5 OS=Homo sapiens OX=9606 GN=GRK5 PE=1 SV=1	P34947		68 kDa	true	unknown	0	2	0	
+1019	true	Empty	Zinc finger protein 791 OS=Homo sapiens OX=9606 GN=ZNF791 PE=2 SV=1	Q3KP31 (+1)		67 kDa	true	unknown	0	0	1	
+1020	true	Empty	Cluster of 26S proteasome regulatory subunit 10B OS=Homo sapiens OX=9606 GN=PSMC6 PE=1 SV=1 (P62333)	P62333 [2]		44 kDa	true	unknown	0	0	2	
+1021	true	Empty	Dehydrogenase/reductase SDR family member 7B (Fragment) OS=Homo sapiens OX=9606 GN=DHRS7B PE=1 SV=1	J3KRS1		14 kDa	true	unknown	0	0	1	
+END OF FILE

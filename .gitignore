@@ -1,0 +1,17 @@
+data/Install_Scaffold_5.3.4_Windows_x64.exe
+data/*.sf3
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.claude/
+
+data/
+*.md
+*.gz
+*.csv
+# Never publish images / PDFs
+*.png
+*.pdf
